@@ -1,0 +1,134 @@
+GOAL:
+The goal is earn 200$ for this and store mony for Lijan!
+
+
+
+EXISTING_DOCUMENT:
+"""
+i would need your help me to extract all the address and GPS coordinates from all these websites.
+
+pls start from bank first
+
+
+for banks, you must choose by branch category. i want to know the branch location. some banks would give atm machine locations, i dun need that. i want the physical bank locations
+
+and only choose selangor and kuala lumpur
+
+
+
+Local Bank
+https://www.affinalways.com/en/branch-locator
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf
+https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx
+https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=kuala-lumpur,all-areas&t=branch-banking
+https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=selangor,all-areas&t=branch-banking
+https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html
+https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/about_us/locate_maybank.page
+https://www.pbebank.com/Personal-Banking/Branch-Locators.aspx
+https://www.rhbgroup.com/locate/index.html
+https://www.bankrakyat.com.my/c/about/locator
+https://www.bsn.com.my/page/locate-us
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=wilayah-persekutuan
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=Selangor
+https://www.bankislam.com/need-assistance/branch-locator/?gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-afJ0R6T4ByrPkHL9ud-y9KRrrRPtIAeHkmNB6KPeyxzJTs7IGnMQaAg5BEALw_wcB
+
+
+Foreigner Bank
+http://citibank.com.my/personal-banking/branch-details/
+https://www.hsbc.com.my/branch-list/
+https://www.ocbc.com.my/personal-banking/locate-us?p=1
+https://www.uob.com.my/default/uob-branch-locator.page
+https://www.alrajhibank.com.my/page/contact-us/branches-within-klang-valley
+https://www.sc.com/my/atm-branch-locator/
+
+"""
+
+
+PROJECT_BUILDING_STEPS:
+1. First job will be collect all bank data into a single CSV file
+2. Collect GPS data based on signle CSV file
+
+
+
+LIST_OF_DATA_COLUMNS:
+1. Category (Local Bank | Forain Bank)
+2. State (Salengor|Kulampur)
+3. Name (Bank Brance Name)
+4. Address
+5. Longitude
+6. Latitude
+7. Google Map Url
+8. Bank Data Url
+9. Bank Type
+10. Bank Name (Mother Bank Name)
+
+
+## CURRENT TASK ##
+1. Extract all bank data and save into a CSV file
+
+
+-------------- RAW
+https://www.affinalways.com/en/branch-locator  ##Done
+
+
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf
+https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx
+https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=kuala-lumpur,all-areas&t=branch-banking
+https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=selangor,all-areas&t=branch-banking
+https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html
+https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/about_us/locate_maybank.page
+https://www.pbebank.com/Personal-Banking/Branch-Locators.aspx
+https://www.rhbgroup.com/locate/index.html
+https://www.bankrakyat.com.my/c/about/locator
+https://www.bsn.com.my/page/locate-us
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=wilayah-persekutuan
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=Selangor
+https://www.bankislam.com/need-assistance/branch-locator/?gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-afJ0R6T4ByrPkHL9ud-y9KRrrRPtIAeHkmNB6KPeyxzJTs7IGnMQaAg5BEALw_wcB
+
+
+
+
+
+
+AFFIN Branch ##
+Affin Bank Business Centre ##
+ATM ## 
+Auto Finance Centre ##
+Affin Bank Mortgage Sales Hub ##
+CDM ##
+CQM ## 
+CoDM ## 
+CRM ## 
+Safe Deposit Box ## 
+Affin Invikta Centre ## 
+ASDL ##
+Affin Mobile Financial Centre
+
+
+
+
+https://docs.google.com/spreadsheets/d/1_iBCks9NsS925ANtBRcY7tOwDfqBDulmctm01RNYe-4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1ksGlIAoLhpiTYGxPhUjWa1Q6QL1V0eX3KgaA97wYb-Q/edit?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
