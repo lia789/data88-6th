@@ -76,8 +76,9 @@ https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=kuala-lum
 https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html ## Done
 https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/about_us/locate_maybank.page     ## Done
 https://www.pbebank.com/Personal-Banking/Branch-Locators.aspx     # Done
-
-
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=Selangor   # Done
+https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=wilayah-persekutuan   # Done
+https://www.rhbgroup.com/locate/index.html  # Done
 
 
 
@@ -91,12 +92,11 @@ https://www.bankislam.com/need-assistance/branch-locator/
 
 # Have to check this, this will get full data
 
-https://www.rhbgroup.com/locate/index.html
-https://www.bsn.com.my/page/locate-us
+
+https://www.bsn.com.my/page/locate-us  # Done
 
 
-https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=Selangor   # Done
-https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=wilayah-persekutuan   
+
 
 
 ----------- Pending URLs
