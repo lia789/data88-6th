@@ -79,7 +79,7 @@ https://www.pbebank.com/Personal-Banking/Branch-Locators.aspx     # Done
 https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=Selangor   # Done
 https://www.muamalat.com.my/contact-us/self-service-terminal/branches/?state=wilayah-persekutuan   # Done
 https://www.rhbgroup.com/locate/index.html  # Done
-
+https://www.bsn.com.my/page/locate-us  # Done
 
 
 
@@ -87,13 +87,20 @@ https://www.rhbgroup.com/locate/index.html  # Done
 # Pending URL
 https://www.bankrakyat.com.my/c/about/locator
 https://www.bankislam.com/need-assistance/branch-locator/
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf
+https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf
 
 
 
-# Have to check this, this will get full data
 
+# Forain Bank
+http://citibank.com.my/personal-banking/branch-details/
+https://www.hsbc.com.my/branch-list/
+https://www.ocbc.com.my/personal-banking/locate-us?p=1
+https://www.uob.com.my/default/uob-branch-locator.page
+https://www.alrajhibank.com.my/page/contact-us/branches-within-klang-valley
+https://www.sc.com/my/atm-branch-locator/
 
-https://www.bsn.com.my/page/locate-us  # Done
 
 
 
@@ -103,8 +110,7 @@ https://www.bsn.com.my/page/locate-us  # Done
 
 
 
-https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf
-https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf
+
 
 
 
