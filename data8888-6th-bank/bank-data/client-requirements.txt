@@ -76,6 +76,10 @@ https://www.cimb.com.my/en/personal/help-support/branch-locator.html?l=kuala-lum
 https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html ## Done
 
 
+https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/about_us/locate_maybank.page     ## Done
+
+
+
 
 # Pending URL
 https://www.bankrakyat.com.my/c/about/locator
@@ -84,7 +88,7 @@ https://www.bankislam.com/need-assistance/branch-locator/
 
 
 # Have to check this, this will get full data
-https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/about_us/locate_maybank.page
+
 https://www.pbebank.com/Personal-Banking/Branch-Locators.aspx
 https://www.rhbgroup.com/locate/index.html
 https://www.bsn.com.my/page/locate-us
