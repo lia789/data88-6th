@@ -1,0 +1,926 @@
+_01_category,_02_state,_03_branch_name,_04_address,_05_latitude,_06_longitude,_07_bank_type,_08_mother_bank_name
+Local Bank,Kuala Lumpur,Jalan Tangsi,"Ground Floor, Bangunan Bank Rakyat, Jalan Tangsi
+50732
+Kuala Lumpur",3.1505207,101.6897442,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Jalan Ipoh,"No. 140, Bangunan Bank Rakyat, Jalan Ipoh
+51200
+Kuala Lumpur",3.1801769,101.6801499,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Bandar Tun Razak,"G 11, G12, 01-11 & 01-12, Wisma Zelan, Bandar Tun Razak
+56000
+Kuala Lumpur",3.0998048,101.7147672,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Jalan Pinang,"19-1-1 Ground Floor & 19-1-1A Mezzanine Floor, UOA Centre, No. 19 Jalan Pinang
+50450
+Kuala Lumpur",3.1526749,101.712005,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Bangsar Baru,"Bangsar Baru
+No. 60 & 62, Ground Floor, Level 1 & 2, Jalan Maarof,
+59100 Bangsar Baru,
+Kuala Lumpur",3.1428401,101.6324984,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Desa Pandan,"No. 33 & 35, Jalan 1/76, Desa Pandan
+55100
+Kuala Lumpur",3.146144,101.735945,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Shamelin,"No. 6B-1-1 & 6B-1-2 Jalan 4/91, Dataran Shamelin, Taman Shamelin Perkasa,
+56100
+Kuala Lumpur",3.1241616,101.7342918,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Selayang,"Ground Floor, Block B, KIP Tower, Jalan Kuching
+68100
+Kuala Lumpur",3.2232833,101.6536342,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Setapak,"No. 1, Jalan 2/50, Diamond Square, Off Jalan Gombak,
+53000
+Kuala Lumpur",3.1947805,101.696935,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Kepong,"No. 11 & 15, Jalan Rimbunan Raya 1, Laman Rimbunan Raya 1, Laman Rimbunan
+52100 Kepong,
+Kuala Lumpur",3.2103682,101.6512649,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Desa Sri Hartamas,"Lot B-02 & B-03, Galeria Hartamas Jalan 26/70A, Desa Sri Hartamas
+50480
+Kuala Lumpur",3.1603615,101.6481313,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Glo Damansara,"G.01, G.01AL, 1.01, Aras 1, Glo Damansara, Jalan Damansara,
+60000
+Kuala Lumpur",3.132696,101.627663,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,Melawati,"G-2 & G-3, Melawati Corporate Centre, Taman Melawati,
+53100
+Kuala Lumpur",3.2154006,101.7418747,Branches,Bank Rakyat
+Local Bank,Kuala Lumpur,"Utama, MKBR","Ground Floor, Menara Kembar Bank Rakyat, No 33, Jalan Rakyat, KL Sentral
+50470
+Kuala Lumpur",3.1302364,101.6827112,Branches,Bank Rakyat
+Local Bank,Selangor,"Shah Alam, Seksyen 23","No. 23 & 25, Jalan Pelabur B/23B, Seksyen 23,
+40300 Shah Alam,
+Selangor",3.0453325,101.5261762,Branches,Bank Rakyat
+Local Bank,Selangor,Subang Perdana,"No. 39, Jalan Dinar GU 3/G, Seksyen U3, Taman Subang Perdana,
+40150 Shah Alam,
+Selangor",3.150083,101.5414943,Branches,Bank Rakyat
+Local Bank,Selangor,Kajang,"No. 18 & 19, Jalan Jelok 3, Off Jalan Bukit,
+43000 Kajang,
+Selangor",2.9914593,101.7918065,Branches,Bank Rakyat
+Local Bank,Selangor,Banting,"No. 239, Jalan Sultan Abdul Samad,
+42700 Banting,
+Selangor",2.8129874,101.5015192,Branches,Bank Rakyat
+Local Bank,Selangor,Bandar Baru Klang,"No. 2, Lorong Tiara 1B, Bandar Baru Klang,
+41150 Klang,
+Selangor",3.0630355,101.4701272,Branches,Bank Rakyat
+Local Bank,Selangor,Petaling Jaya,"No. 1-1, Jalan 14/22, Wisma Federal Academy Ballet,
+46100 Petaling Jaya,
+Selangor",3.111408,101.634083,Branches,Bank Rakyat
+Local Bank,Selangor,Ampang,"No.2, Jalan Dagang 1/1A, Taman Dagang,
+68000 Ampang,
+Selangor",3.1520001,101.7586192,Branches,Bank Rakyat
+Local Bank,Selangor,Shah Alam,"No. F30 & F31 Vista Alam, Jalan Ikhtisas 14/1,
+40000 Shah Alam
+Selangor",3.0709846,101.5232737,Branches,Bank Rakyat
+Local Bank,Selangor,"USJ, Subang Jaya","No. 22 & 24, Jalan USJ 9/5Q, UEP,
+47600 Subang Jaya,
+Selangor",3.0464401,101.5875708,Branches,Bank Rakyat
+Local Bank,Selangor,Sungai Besar,"No. A12 & A13, Jalan Menteri,
+45300 Sungai Besar,
+Selangor",3.6752541,100.985578,Branches,Bank Rakyat
+Local Bank,Selangor,Tanjung Karang,"No. 1 & 3, Jalan Makmur 1, Taman Makmur, Batu 7,
+45500 Tanjung Karang,
+Selangor",3.4198661,101.1864685,Branches,Bank Rakyat
+Local Bank,Selangor,Port Klang,"No. 2 & 4, Harbour Point, Commercial Centre, Jalan Sungai Aur,
+42000 Port Klang,
+Selangor",2.9994,101.3968244,Branches,Bank Rakyat
+Local Bank,Selangor,Sungai Buloh,"Lot. 101, TSB Commercial Centre, Jalan Nautika B, U20/B, Seksyen U20, Sungai Buloh,
+40160 Shah Alam,
+Selangor",3.2089342,101.570903,Branches,Bank Rakyat
+Local Bank,Selangor,PJ State,"No. 11 & 13, Jalan Yong Shook Lin Seksyen 52,
+46200 Petaling Jaya,
+Selangor",3.0979174,101.6453112,Branches,Bank Rakyat
+Local Bank,Selangor,Bandar Baru Bangi,"No. 37 & 39 Jalan Medan Pusat 2D Seksyen 9,
+43650 Bandar Baru Bangi,
+Selangor",2.9636741,101.7533074,Branches,Bank Rakyat
+Local Bank,Selangor,Serdang Raya,"No. C1-00-28, Section 9, Jalan SR 1/9, Taman Serdang Raya,
+43300 Seri Kembangan,
+Selangor",3.0304587,101.7057064,Branches,Bank Rakyat
+Local Bank,Selangor,Rawang,"No.73, Jalan Bandar Rawang 2 Rawang City Centre
+48000 Rawang,
+Selangor",3.3040865,101.5508054,Branches,Bank Rakyat
+Local Bank,Selangor,Cyberjaya,"Unit F03 & F03A, Fasa 1, Glomac Cyberjaya, Persiaran APEC,
+63000 Cyberjaya,
+Selangor",2.925471,101.655562,Branches,Bank Rakyat
+Local Bank,Selangor,Kelana Jaya,"Ground Floor, Wisma Glomac, Glomac Business Centre, Jalan SS 5/1, Kelana Jaya,
+47301 Petaling Jaya,
+Selangor",3.0986471,101.6032476,Branches,Bank Rakyat
+Local Bank,Selangor,Puchong,"No. 28 & 30, Jalan Puteri 4/2, Bandar Puteri,
+47100 Puchong,
+Selangor",3.0219956,101.6143855,Branches,Bank Rakyat
+Local Bank,Selangor,Kuala Selangor,"No. 70, Jalan Melati 3/1, Bandar Melawati,
+45000 Kuala Selangor,
+Selangor",3.3295162,101.2570176,Branches,Bank Rakyat
+Local Bank,Selangor,AMCORP MALL,"NO. 18, G-01, BLOK A, MENARA PJ, JALAN PERSIARAN BARAT, OFF JALAN TIMUR,",3.1049357,101.6446357,Branches,AmBank Group
+Local Bank,Selangor,AMPANG POINT,"LOT 1A, JALAN MAMANDA 7, AMPANG POINT, 4 1/2 MILE,",3.1674822,101.7626346,Branches,AmBank Group
+Local Bank,Selangor,BALAKONG,"S-13, TAMAN INDAH, BATU 11,",3.043159,101.7712376,Branches,AmBank Group
+Local Bank,Selangor,BANDAR BARU BANGI,"NO 43-G-01 & 43A-G-01, JALAN MEDAN PB 2B, SEKSYEN 9, PUSAT BANDAR BARU BANGI,",2.9619327,101.71693,Branches,AmBank Group
+Local Bank,Selangor,BANDAR BARU RAWANG,"NO. 13 & 14, JALAN IPOH, BATU 18, BANDAR BARU RAWANG,",3.3145084,101.5781755,Branches,AmBank Group
+Local Bank,Selangor,BANDAR BARU SUNGAI BULOH,"NO. 338 & 389 JALAN 1A/1, BANDAR BARU SUNGAI BULOH, SEKSYEN U20,",,,Branches,AmBank Group
+Local Bank,Selangor,BANDAR BUKIT TINGGI,"NO. 37 & 39, LORONG BATU NILAM 1A, BANDAR BUKIT TINGGI,",3.0095421,101.4396948,Branches,AmBank Group
+Local Bank,Selangor,BANDAR MAHKOTA CHERAS,"NO. 36 & 38, JALAN TEMENGGUNG 1/9, BANDAR MAHKOTA CHERAS,",3.0504849,101.7894158,Branches,AmBank Group
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"NO. 4 & 6, GROUND FLOOR, JALAN PUTERI 1/1, BANDAR PUTERI,",,,Branches,AmBank Group
+Local Bank,Selangor,BANDAR SUNWAY,"NO. 12, JALAN PJS 11/28, PJS 11,",3.0725192,101.6098642,Branches,AmBank Group
+Local Bank,Selangor,BANTING,"NO. 139 & 141,WISMA MUTIARA, JALAN SULTAN ABDUL SAMAD,",2.8137257,101.5046412,Branches,AmBank Group
+Local Bank,Selangor,BESTARI JAYA,"NO. 28B, JALAN BESAR,",,,Branches,AmBank Group
+Local Bank,Selangor,DAMANSARA UTAMA,"NO. 56, 58 & 60G, JALAN SS 21/35, DAMANSARA UTAMA,",3.1361097,101.6239921,Branches,AmBank Group
+Local Bank,Selangor,KAJANG,"NO. 6 & 7, JALAN S10/1, OFF JALAN BUKIT, SECTION 10,",3.0701556,101.7090954,Branches,AmBank Group
+Local Bank,Selangor,KELANA JAYA (PARKVIEW),"UNIT E102 & 103, GROUND FLOOR, KELANA PARKVIEW, NO. 1, JALAN SS6/2, KELANA JAYA,",3.1010925,101.5991139,Branches,AmBank Group
+Local Bank,Selangor,KLANG - BANDAR PUTERI,"GROUND FLOOR, NO. 1, LORONG SANGGUL 1F, BANDAR PUTERI KLANG,",2.9864881,101.4658813,Branches,AmBank Group
+Local Bank,Selangor,KLANG - PERSIARAAN SULTAN IBRAHIM,"WISMA SH NG, NO. 42 - 44, PERSIARAN SULTAN IBRAHIM",3.0494012,101.4506542,Branches,AmBank Group
+Local Bank,Selangor,KOTA DAMANSARA,"NO. 23 & 25, BLOK T, JALAN PJU 5/3, DATARAN SUNWAY, KOTA DAMANSARA,",3.1520377,101.5955952,Branches,AmBank Group
+Local Bank,Selangor,KOTA KEMUNING,"NO 1-1, JALAN ANGGERIK VANILLA BE31/BE, KOTA KEMUNING, SEKSYEN 31,",3.0051942,101.5376266,Branches,AmBank Group
+Local Bank,Selangor,PETALING JAYA-NEW TOWN,"NO. 6, ROAD 52/4, NEW TOWN CENTRE,",,,Branches,AmBank Group
+Local Bank,Selangor,PETALING JAYA-SS2,"NO. 30, 32 & 34, JALAN SS2/61,",3.1177236,101.6211197,Branches,AmBank Group
+Local Bank,Selangor,PORT KLANG - WISMA PALMBASE,"NO. 2998G, WISMA PALMBASE, PERSIARAN RAJA MUDA MUSA,",3.0283163,101.4277538,Branches,AmBank Group
+Local Bank,Selangor,PUCHONG -TAMAN KINRARA,"NO. 14A & 15A, JALAN TK 1/11A, TAMAN KINRARA, SEKSYEN 1, BATU 7 1/2,",3.0647031,101.6490807,Branches,AmBank Group
+Local Bank,Selangor,RAWANG COUNTRY HOMES,"NO. 51, 53 & 55, JALAN PUSAT BCH 1A, BANDAR COUNTRY HOMES,",3.3258127,101.5261115,Branches,AmBank Group
+Local Bank,Selangor,SEMENYIH,"NO. 43-G & 45-G, GROUND FLOOR, JALAN SEMENYIH SENTRAL 1,",2.9453485,101.8444964,Branches,AmBank Group
+Local Bank,Selangor,SEPANG,"NO. 56, JALAN BESAR",2.9464975,101.8456595,Branches,AmBank Group
+Local Bank,Selangor,SERI KEMBANGAN,"NO. 7 & 9 JALAN PERUSAHAAN 2, OFF JALAN KOLEJ, TAMAN JINMA,",3.0172738,101.7037335,Branches,AmBank Group
+Local Bank,Selangor,SETIA ALAM,"NO. 15 & 17, JALAN SETIA PRIMA RU13/R, SETIA ALAM, SEKSYEN U/13,",3.0996521,101.4446291,Branches,AmBank Group
+Local Bank,Selangor,SHAH ALAM - SEC 13,"GROUND FLOOR, LOT 13-1 & LOT 14-1, GROUND FLOOR, LAMAN SERI BUSINESS PARK, SEKSYEN 13,",3.07801,101.5419542,Branches,AmBank Group
+Local Bank,Selangor,SHAH ALAM - SEC 15,"NO. 47 & 49, JALAN UTAS B/15B, SECTION 15B,",3.0644015,101.539577,Branches,AmBank Group
+Local Bank,Selangor,SUBANG JAYA,"LOT NO. A6 & A7, JALAN SS15/4D,",3.0735805,101.5879488,Branches,AmBank Group
+Local Bank,Selangor,SUBANG NEW VILLAGE,"NO.8A, LEBUH RAYA B, SUBANG NEW VILLAGE,",,,Branches,AmBank Group
+Local Bank,Selangor,SUNGAI BESAR,"NO. 58E, JALAN MAHSURI,",,,Branches,AmBank Group
+Local Bank,Selangor,USJ,"NO. 24, JALAN USJ 10/1, USJ TAIPAN TRIANGLE,",3.0478999,101.5835816,Branches,AmBank Group
+Local Bank,Selangor,USJ SENTRAL,"NO 5 & 7, JALAN USJ SENTRAL 2, USJ SENTRAL,",3.0576916,101.5947302,Branches,AmBank Group
+Local Bank,Kuala Lumpur,Bandar Tasik Permaisuri,"No. 53 & 55
+
+Jalan Danau Lumayan
+
+Pusat Perniagaan Danau Lumayan
+
+Bandar Tasik Permaisuri, Cheras
+
+56100 Kuala Lumpur",3.1004268,101.7152335,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Bandar Wawasan,"No. 4 & 6
+
+Wisma RKT
+
+Jalan Raja Abdullah
+
+50300 Kuala Lumpur",,,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Bukit Damansara,"Retail 2, 2nd Floor
+
+Menara I&P 1
+
+No. 46, Jalan Dungun
+
+Bukit Damansara
+
+50490 Kuala Lumpur",3.1526226,101.6635424,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Jalan Tun Razak,"Ground Floor
+
+Bangunan Ibu Pejabat Tabung Haji
+
+Jalan Tun Razak
+
+Peti Surat 11590
+
+50750 Kuala Lumpur",3.1609404,101.7183617,Branches,Bank Islam
+Local Bank,Kuala Lumpur,KL Sentral,"Ground Floor
+
+Unit No. CS/3B/G, Block 3B
+
+Plaza Sentral
+
+50474 Kuala Lumpur",3.1323673,101.68215,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Medan MARA,"Ground Floor
+
+No. 21
+
+Podium Block, Medan MARA
+
+Jalan Raja Laut
+
+P.O. Box 11698
+
+50350 Kuala Lumpur",3.1580868,101.6952657,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Menara Bank Islam,"Ground Floor
+
+Menara Bank Islam
+
+No. 22,  Jalan Perak
+
+50450 Kuala Lumpur",3.1531639,101.7084714,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Menara TM,"LG1
+
+Menara Telekom
+
+Jalan Pantai Baru
+
+50672 Kuala Lumpur",3.1166342,101.6667768,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Selayang,"Ground Floor
+
+Lot 150A, 152A & 154A
+
+Bangunan Persatuan Nelayan Kebangsaan (NEKMAT)
+
+Jalan 2/3A, Pusat Bandar Utara
+
+KM12, Off Jalan Ipoh
+
+68100 Batu Caves
+
+Kuala Lumpur",3.2376758,101.6669823,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Seri Petaling,"No.1
+
+Jalan Radin Bagus
+
+Bandar Baru Seri Petaling
+
+57100 Kuala Lumpur",3.0703894,101.6946875,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Taman Melawati,"No. 254 & 255
+
+Jalan Bandar 12
+
+Taman Melawati
+
+53100 Hulu Klang
+
+Kuala Lumpur",3.2097026,101.7476511,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Taman Tun Dr Ismail,"Ground Floor
+
+No. 5 & 7
+
+Jalan Wan Kadir 2
+
+60000 Kuala Lumpur",3.1393315,101.6292007,Branches,Bank Islam
+Local Bank,Kuala Lumpur,"UIAM, Gombak *","Lot No. AHC1-5 & AHC2-4
+
+Azman Hashim Complex
+
+International Islamic University Malaysia
+
+53100 Gombak, Kuala Lumpur",3.2510584,101.7338757,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Universiti Malaya,"Ground Floor
+
+Bangunan High Impact Research
+
+University Malaya
+
+Jalan Pantai Baru
+
+50603 Kuala Lumpur",3.1225752,101.6543588,Branches,Bank Islam
+Local Bank,Kuala Lumpur,Wangsa Maju,"15G & 17G
+
+Jalan Wangsa Delima 12
+
+Block C
+
+D’ Wangsa Link
+
+53300 Kuala Lumpur",,,Branches,Bank Islam
+Local Bank,Selangor,Ampang,"No. 1 & 3
+
+Jalan Pandan Prima 2
+
+Dataran Prima Ampang
+
+68000 Ampang
+
+Selangor",3.1417307,101.7418189,Branches,Bank Islam
+Local Bank,Selangor,Ara Damansara,"A-G-01 & A-1-01, Block A
+
+No. 2, Jalan PJU 1A/7A
+
+Ara Damansara, PJU 1A
+
+47301 Petaling Jaya
+
+Selangor",3.1132853,101.5755193,Branches,Bank Islam
+Local Bank,Selangor,Bandar Baru Bangi,"No. 2 & 4
+
+Jalan 6C/7
+
+43650 Bandar Baru Bangi
+
+Selangor",2.9438811,101.7643736,Branches,Bank Islam
+Local Bank,Selangor,"Bandar Botanic, Klang","No. 1
+
+Jalan Mahogani 5
+
+Bandar Botanic
+
+41200 Klang
+
+Selangor",2.9970768,101.4450424,Branches,Bank Islam
+Local Bank,Selangor,Bandar Kinrara,"ZP-G-13A, ZP-G-15 & ZP-1-15
+
+Lebuhraya Bukit Jalil
+
+Bandar Kinrara 9
+
+47180 Puchong
+
+Selangor",3.0530441,101.6520004,Branches,Bank Islam
+Local Bank,Selangor,Banting,"No. 2 & 6
+
+Jalan Cemerlang 2
+
+Banting Business Centre
+
+42700 Banting
+
+Selangor",2.8137608,101.5078282,Branches,Bank Islam
+Local Bank,Selangor,Bukit Jelutong,"No. 10, D’bayu
+
+Jalan Serambi U8/24
+
+Bukit Jelutong
+
+40150 Shah Alam
+
+Selangor",3.1033785,101.52602,Branches,Bank Islam
+Local Bank,Selangor,Cyberjaya,"Suite 0-55 & 0-56
+
+4812 Central Business District Perdana 2
+
+Jalan Perdana, Cyber 12
+
+63000 Cyberjaya
+
+Selangor",2.9248023,101.6515958,Branches,Bank Islam
+Local Bank,Selangor,Denai Alam,"No. 1, Jalan Elektron E U16/E
+
+Seksyen U16, Denai Alam
+
+40160 Shah Alam, Selangor",3.1630817,101.5129154,Branches,Bank Islam
+Local Bank,Selangor,Kajang,"No. 20 & 21
+
+Jalan Jeloh 3
+
+43000 Kajang
+
+Selangor",2.9691869,101.7497784,Branches,Bank Islam
+Local Bank,Selangor,Kelana Jaya,"A-G-01
+
+Jalan SS6/5A
+
+Dataran Glomac
+
+Pusat Bandar Kelana Jaya
+
+47301 Petaling Jaya
+
+Selangor",3.1007829,101.6010337,Branches,Bank Islam
+Local Bank,Selangor,Klang,"Lot 336
+
+Kompleks Majlis Agama Islam Selangor
+
+Section 23, Jalan Kapar
+
+41400 Klang, Selangor",3.0497357,101.4491498,Branches,Bank Islam
+Local Bank,Selangor,Kota Damansara,"No. 32-1
+
+Jalan PJU 5/5
+
+Dataran Sunway
+
+47810 Kota Damansara
+
+Selangor",3.152767,101.5953643,Branches,Bank Islam
+Local Bank,Selangor,PJ New Town,"No. 1
+
+Jalan 52/16
+
+46200 Petaling Jaya
+
+Selangor",3.0990029,101.643571,Branches,Bank Islam
+Local Bank,Selangor,Putrajaya,"Unit 10-14, Aras G
+Blok B, Suasana PJH
+
+No.10, Jalan Tun Abdul Razak
+
+Presint 2
+
+62100 Wilayah Persekutuan
+
+Putrajaya",2.9255473,101.6871185,Branches,Bank Islam
+Local Bank,Selangor,Putra Heights,"No. 42A
+
+Jalan Putra Mahkota 7/7A
+
+Putra Point Business Centre
+
+47650 Putra Heights, Subang Jaya
+
+Selangor",2.9943865,101.5750861,Branches,Bank Islam
+Local Bank,Selangor,Rawang,"No. 1
+
+Jalan Bandar Rawang 12
+
+Bandar Baru Rawang
+
+48000 Rawang
+
+Selangor",3.318933,101.5757212,Branches,Bank Islam
+Local Bank,Selangor,Saujana Utama,"No. 1G, 2G & 36G
+
+SU Mall
+
+47000 Bandar Saujana Utama
+
+Selangor",3.2027226,101.4856522,Branches,Bank Islam
+Local Bank,Selangor,"Section 14, Petaling Jaya","Ground & First Floor
+
+No. 2 & 4
+
+Jalan 14/22, Section 14
+
+46100 Petaling Jaya
+
+Selangor",3.111828,101.6337628,Branches,Bank Islam
+Local Bank,Selangor,"Section 18, Shah Alam","No. 18 & 20
+
+Jalan Pinang G 18/G
+
+Section 18
+
+40200 Shah Alam
+
+Selangor",3.045283,101.5157828,Branches,Bank Islam
+Local Bank,Selangor,Semenyih,"No. 2
+
+Jalan TPS 1/4
+
+Taman Pelangi Semenyih
+
+43500 Semenyih
+
+Selangor",2.9294155,101.8566737,Branches,Bank Islam
+Local Bank,Selangor,Setia Alam,"Lot 106 & 106-1 & 108
+
+Jalan Setia Gemilang, BJ/U13
+
+Setia Alam, Section U13
+
+40170 Shah Alam
+
+Selangor",3.1259979,101.4710734,Branches,Bank Islam
+Local Bank,Selangor,Shah Alam,"Ground Floor
+
+Wisma PKPS, Section 14
+
+Persiaran Perbandaran
+
+40675 Shah Alam
+
+Selangor",,,Branches,Bank Islam
+Local Bank,Selangor,Sri Gombak,"Lot No. 120 & 121
+
+Jalan Prima SG 5
+
+Prima Sri Gombak
+
+68100 Batu Caves
+
+Selangor",3.2365944,101.7001665,Branches,Bank Islam
+Local Bank,Selangor,Subang Jaya,"Ground Floor, No. 56A
+
+Jalan USJ 10/1F
+
+Pusat Perniagaan USJ 10
+
+47610 UEP Subang Jaya
+
+Selangor",3.034021,101.5859226,Branches,Bank Islam
+Local Bank,Selangor,Sungai Besar,"No. 1 & 3
+
+Jalan SBBC 1
+
+Sungai Besar Business Centre
+
+45300 Sungai Besar
+
+Selangor",3.6727379,100.9870468,Branches,Bank Islam
+Local Bank,Selangor,Sungai Buloh,"69-G, 69-1& 71-G
+
+Jalan Nautika A U20/A
+
+Seksyen U20, Pusat Komersial TSB
+
+40160 Sungai Buloh
+
+Selangor",,,Branches,Bank Islam
+Local Bank,Selangor,Tanjung Karang,"Ground Floor, Lot 342
+
+Bangunan Tabung Haji
+
+45500 Tanjung Karang
+
+Selangor",3.4252997,101.1738966,Branches,Bank Islam
+Local Bank,Selangor,UiTM Shah Alam,"Ground Floor
+
+Bangunan Prima Siswa
+
+Universiti Teknologi MARA
+
+40450 Shah Alam
+
+Selangor",3.0695088,101.4958258,Branches,Bank Islam
+Local Bank,Selangor,PETALING JAYA,"No. 80 & 82, Jalan Othman (1/14), 46000 Petaling Jaya, Selangor Darul Ehsan",3.0866485,101.647012,Branches,Hong Leong Bank
+Local Bank,Selangor,SHAH ALAM,"No. 3, Jalan Takal 15/21, Seksyen 15, 40000 Shah Alam, Selangor Darul Ehsan",3.064294,101.5384151,Branches,Hong Leong Bank
+Local Bank,Selangor,RAWANG,"No. 59A, Jalan Welman, 48000 Rawang, Selangor Darul Ehsan",3.32079,101.5748651,Branches,Hong Leong Bank
+Local Bank,Selangor,KLANG,"Wisma Meru, No. 1, Lintang Pekan Baru, Off Jalan Meru, 41050 Klang, Selangor Darul Ehsan",3.0647406,101.4520743,Branches,Hong Leong Bank
+Local Bank,Selangor,BANTING,"No. 119 & 121, Jalan Sultan Abdul Samad, 42700 Banting, Selangor Darul Ehsan.",2.8138048,101.5052861,Branches,Hong Leong Bank
+Local Bank,Selangor,KUALA SELANGOR,"No. 64, Jalan Stesen, 45000 Kuala Selangor, Selangor Darul Ehsan",3.3408913,101.2496058,Branches,Hong Leong Bank
+Local Bank,Selangor,SUBANG JAYA,"W-1-0, W-2-0 & W-1-1, Subang Square Business Centre, Jalan SS15/4G, 47500 Subang Jaya, Selangor Darul Ehsan",,,Branches,Hong Leong Bank
+Local Bank,Selangor,AMPANG,"No. 91, Lorong Memanda 1, Ampang Point, 68000 Ampang, Selangor Darul Ehsan",3.1589047,101.7489237,Branches,Hong Leong Bank
+Local Bank,Selangor,PUCHONG,"No. 2, Jalan Kinrara, Taman Kinrara, Jalan Puchong, 47100 Selangor Darul Ehsan",3.066223,101.650144,Branches,Hong Leong Bank
+Local Bank,Selangor,BALAKONG,"No. 24, Medan Taming 2, Taman Taming Jaya, 43300 Balakong, Selangor Darul Ehsan.",3.0238079,101.7413134,Branches,Hong Leong Bank
+Local Bank,Selangor,BANDAR SUNWAY,"No. 12 & 14, Jalan PJS 11/28A, Metro Bandar Sunway, Bandar Sunway, 46150 Petaling Jaya, Selangor Darul Ehsan",3.0734919,101.6052926,Branches,Hong Leong Bank
+Local Bank,Selangor,SRI ANDALAS,"No. 1 & 3, Jalan Sri Sarawak 17, Taman Sri Andalas, 41200 Klang, Selangor Darul Ehsan",3.015837,101.442649,Branches,Hong Leong Bank
+Local Bank,Selangor,KAJANG,"No. 11 & 13, Jalan M/J 1, Taman Majlis Jaya, Jalan Sungai Chua, 43000 Kajang, Selangor Darul Ehsan",2.9899989,101.7739326,Branches,Hong Leong Bank
+Local Bank,Selangor,TANJUNG SEPAT,"No. 174 & 174A, Jalan Besar, 42800 Tanjung Sepat, Kuala Langat, Selangor Darul Ehsan",2.6617351,101.5585779,Branches,Hong Leong Bank
+Local Bank,Selangor,PARAMOUNT GARDEN,"No. 18 & 20, Jalan 20/16A, Taman Paramount, 46300 Petaling Jaya, Selangor Darul Ehsan",3.1070465,101.6248665,Branches,Hong Leong Bank
+Local Bank,Selangor,SEKINCHAN,"No.15 & 16 Jalan Menteri Besar 2, New Sekinchan Business Centre, 45400 Sekinchan, Selangor Darul Ehsan",3.5075872,101.1028303,Branches,Hong Leong Bank
+Local Bank,Selangor,TAMAN SENTOSA KLANG,"No.36,Jalan Dato Shahbudin 30, Taman Sentosa, 41200 Klang, Selangor Darul Ehsan.",3.0094522,101.4708977,Branches,Hong Leong Bank
+Local Bank,Selangor,SELAYANG,"No.39 & 41, Jalan SJ 17, Taman Selayang Jaya, 68100 Batu Caves, Selangor Darul Ehsan.",3.2378229,101.6505801,Branches,Hong Leong Bank
+Local Bank,Selangor,TELUK PULAI,"No. 169, Jalan Teluk Pulai, 41100 Klang, Selangor Darul Ehsan",3.042068,101.4270949,Branches,Hong Leong Bank
+Local Bank,Selangor,BANDAR BARU AMPANG,"No. 1G-3G, Jalan Wawasan 2/10, Bandar Baru Ampang, 68000 Ampang, Selangor Darul Ehsan.",3.1466385,101.7666338,Branches,Hong Leong Bank
+Local Bank,Selangor,DAMANSARA UTAMA,"No 25-29G, Jalan SS 21/60, 47400 Damansara Utama, Petaling Jaya, Selangor Darul Ehsan",3.132859,101.6231535,Branches,Hong Leong Bank
+Local Bank,Selangor,SRI GOMBAK,"No. G-16, 1-16 & 2-16 & G-17, 1-17 & 2-17, Jalan Prima SG1, Taman Prima Sri Gombak, 68100 Batu Caves, Selangor Darul Ehsan.",,,Branches,Hong Leong Bank
+Local Bank,Selangor,"TAMAN SRI TANMING, CHERAS","No. 1&3, Jalan Seri Taming 1F, Taman Seri Taming, Batu 9, 43200 Cheras, Selangor Darul Ehsan",3.0546329,101.7506278,Branches,Hong Leong Bank
+Local Bank,Selangor,"TAMAN PUTRA, AMPANG","No. 7 & 9, Jalan Bunga Tanjong 6A, Taman Putra, 68000 Ampang, Selangor Darul Ehsan",3.1211311,101.7611529,Branches,Hong Leong Bank
+Local Bank,Selangor,PETALING JAYA 14,"No 22 & 24 Jalan 14/14, 46100 Petaling Jaya, Selangor",3.1102667,101.636285,Branches,Hong Leong Bank
+Local Bank,Selangor,BATU CAVES,"Wisma Keringat 2, No. 17, Lorong Batu Caves 2, 68100 Batu Caves, Selangor Darul Ehsan.",3.2345721,101.6733789,Branches,Hong Leong Bank
+Local Bank,Selangor,PJ CITY,"Ground Floor, Tower A PJ City Development 15A, Jalan 219, Section 51A, 46100 Petaling Jaya, Selangor Darul Ehsan",3.089643,101.6283633,Branches,Hong Leong Bank
+Local Bank,Selangor,PUCHONG PRIMA,"No. E-01-07 & E-01-08, Jalan Puchong Prima 5/3, Puchong Prima, 47100 Puchong, Selangor Darul Ehsan",2.9999907,101.5949614,Branches,Hong Leong Bank
+Local Bank,Selangor,SUNGAI BULOH NEW VILLAGE,"No. 30, Jalan Public, Sungai Buloh New Village, 47000 Sungai Buloh, Selangor Darul Ehsan.",3.1980676,101.5506702,Branches,Hong Leong Bank
+Local Bank,Selangor,"BUKIT RAHMAN PUTRA, SUNGAI BULOH","No. 64, Jalan BRP 1/2, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor Darul Ehsan.",3.2114667,101.5620263,Branches,Hong Leong Bank
+Local Bank,Selangor,"JALAN BESAR, SERI KEMBANGAN","No. 5 & 7 Jalan Besar Susur 1, 43300 Seri Kembangan, Selangor Darul Ehsan",3.0210384,101.6960314,Branches,Hong Leong Bank
+Local Bank,Selangor,"SEKSYEN 3, BANDAR SEMENYIH","No. 7 & 9, Jalan Pasar Baru 2, Seksyen 3, Bandar Semenyih, 43500 Semenyih, Selangor Darul Ehsan",2.9479399,101.8465164,Branches,Hong Leong Bank
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"No. 2, Jalan Puteri 2/4, Bandar Puteri, 47100 Puchong, Selangor Darul Ehsan.",3.021825,101.6151158,Branches,Hong Leong Bank
+Local Bank,Selangor,BANDAR MAHKOTA CHERAS,"No. 1, Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor Darul Ehsan.",3.0539823,101.7866379,Branches,Hong Leong Bank
+Local Bank,Selangor,TAMAN INDUSTRI SUNGAI BULOH,"51 & 53, Jalan TSB 10A, Taman Industri Sungai Buloh, 47000 Sungai Buloh, Selangor Darul Ehsan.",3.1667221,101.5697378,Branches,Hong Leong Bank
+Local Bank,Selangor,"DATARAN SUNWAY, SELANGOR","No. 2, Jalan PJU 5/8, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor Darul Ehsan.",3.150128,101.592596,Branches,Hong Leong Bank
+Local Bank,Selangor,PETALING JAYA,"No. 80 & 82, Jalan Othman (1/14), 46000 Petaling Jaya, Selangor Darul Ehsan",3.0866485,101.647012,Priority Banking Centre,Hong Leong Bank
+Local Bank,Selangor,KLANG,"Wisma Meru, No. 1, Lintang Pekan Baru, Off Jalan Meru, 41050 Klang, Selangor Darul Ehsan",3.0647406,101.4520743,Priority Banking Centre,Hong Leong Bank
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"No. 2, Jalan Puteri 2/4, Bandar Puteri, 47100 Puchong, Selangor Darul Ehsan.",3.021825,101.6151158,Priority Banking Centre,Hong Leong Bank
+Local Bank,Selangor,"DATARAN SUNWAY, SELANGOR","No. 2, Jalan PJU 5/8, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor Darul Ehsan.",3.150128,101.592596,Priority Banking Centre,Hong Leong Bank
+Local Bank,Selangor,"JALAN KAPAR, KLANG","26-32, Jalan Kapar, 41400 Klang, Selangor Darul Ehsan.",3.0510706,101.4481686,Priority Banking Centre,Hong Leong Bank
+Local Bank,Selangor,Sunway Pyramid,"LG One & 1st Floor. No. 3, PJS 11/5, Bandar Sunway, 46150 Petaling Jaya.",3.0655269,101.6017492,ATM,Hong Leong Bank
+Local Bank,Selangor,Shell Damansara,"SH Damansara Jaya, Zarahim Enterprise, No 1, Jalan SS23/8, Damansara Jaya, 47400 Petaling Jaya, Selangor",,,ATM,Hong Leong Bank
+Local Bank,Selangor,Top Glove,"Top Glove new hostel at Zone 8, Lot 4956 Jalan Teratai/KU8, Kawasan Perindustrian Meru Timur, 41050 Klang,  Selangor.",,,ATM,Hong Leong Bank
+Local Bank,Selangor,Star Avenue Lifestyle Mall,"No. 3, Jalan Zuhal U5/177, Bandar Pinggiran Subang, 40150 Shah Alam, Selangor",3.1583386,101.5524047,ATM,Hong Leong Bank
+Local Bank,Selangor,Hong Leong Yamaha Motor Sdn Bhd,"Hong Leong Yamaha Motor Sdn Bhd, Lot 57, Persiaran Bukit Rahman Putra 3, Sungai Buloh, 47000, Sungai Buloh, Selangor Darul Ehsan",3.2295381,101.5603684,ATM,Hong Leong Bank
+Local Bank,Selangor,Tropicana Golf & Country Resort,"Tropicana Golf & Country Resort, Jalan Kelab Tropicana, 47410 Petaling Jaya, Selangor Darul Ehsan",3.1298925,101.5841925,ATM,Hong Leong Bank
+Local Bank,Selangor,MyNews Empire Damansara,"myNews, No. G09, Heritage Lane Empire Damansara, Jalan PJU 8/8A, Damansara Perdana, Selangor.",3.1666269,101.6097918,ATM,Hong Leong Bank
+Local Bank,Selangor,MyNews Tropicana Avenue,Lot 23a Tropicana Avenue 1 Persiaran Tropicana 47410 Petaling Jaya SELANGOR,3.1303032,101.5942728,ATM,Hong Leong Bank
+Local Bank,Selangor,MyNews Centrestage,"G-03, Ground Floor Pj Centrestage No.1, Jalan 13/1, Seksyen 13 46200 Petaling Jaya SELANGOR",3.1117289,101.6392304,ATM,Hong Leong Bank
+Local Bank,Selangor,MyNews HQ,"3 Jalan Teknologi 3/1, Taman Sains Selangor 1, Seksyen 3, PJU 5, Kota Damansara 47810 Petaling Jaya SELANGOR",3.1618517,101.5723377,ATM,Hong Leong Bank
+Local Bank,Selangor,PKT Logistics Group Hub Shah Alam,No. 1 The Ship Logistics Hub 40460 Shah Alam SELANGOR,2.9883034,101.5044873,ATM,Hong Leong Bank
+Local Bank,Selangor,1 Utama Shopping,"GK5 GF,Bdr Utama City Ctr 1 Prsiaran Bandar Utama 47800 Bandar Utama SELANGOR",3.1449399,101.6164761,ATM,Hong Leong Bank
+Local Bank,Selangor,Aman Suria Damansara,"J-G-23 & J-G-25, Block J
+Jalan PJU 1/43, PJU1
+Aman Suria Damansara
+47301 Petaling Jaya
+Selangor",3.1216936,101.5949192,Branches,Alliance Bank
+Local Bank,Selangor,Balakong,"45 Jalan Sungai Besi Indah 1/21
+Taman Sungai Besi Indah
+43300 Seri Kembangan
+Selangor",,,Branches,Alliance Bank
+Local Bank,Selangor,Bandar Bukit Tinggi,"56 Lorong Batu Nilam 4B
+Bandar Bukit Tinggi
+41200 Klang
+Selangor",3.0071634,101.4362348,Branches,Alliance Bank
+Local Bank,Selangor,Bandar Puteri Puchong,"11 & 13 Jalan Puteri 2/1
+Bandar Puteri Puchong
+47100 Puchong
+Selangor",3.0246043,101.6160298,Branches,Alliance Bank
+Local Bank,Selangor,"CP Tower, Petaling Jaya","Unit 1-2, Right Wing
+Level 1, CP Tower
+11 Jalan 16/11
+Off Jalan Damansara
+46350 Petaling Jaya
+Selangor",3.1271555,101.6443954,Branches,Alliance Bank
+Local Bank,Selangor,Damansara Uptown,"Unit 102 & 103, Level 1
+Uptown 2
+2 Jalan SS21/37
+Damansara Uptown
+47400 Petaling Jaya
+Selangor",3.1369201,101.6230775,Branches,Alliance Bank
+Local Bank,Selangor,Kajang,"Lot 4 & 5, Jalan Jeloh 3
+Off Jalan Bukit
+43000 Kajang
+Selangor",2.9912221,101.7567514,Branches,Alliance Bank
+Local Bank,Selangor,Klang,"Ground Floor
+1 Lorong Kasawari 4B
+Taman Eng Ann
+41150 Klang
+Selangor",3.0579666,101.4598699,Branches,Alliance Bank
+Local Bank,Selangor,Kota Damansara,"7-G & 9-G, Jalan PJU 5/20
+Pusat Perdagangan Kota Damansara
+PJU5 Kota Damansara
+47810 Petaling Jaya
+Selangor",3.1540694,101.5921935,Branches,Alliance Bank
+Local Bank,Selangor,Pandan Indah,"Ground & Mezzanine Floor
+11 & 13 Jalan Pandan Indah 4/34
+Pandan Indah
+55100 Kuala Lumpur",3.1310169,101.7539771,Branches,Alliance Bank
+Local Bank,Selangor,Puchong Jaya,"11 Jalan Kenari 5
+Bandar Puchong Jaya
+47100 Puchong Jaya
+Selangor",3.0475717,101.6216539,Branches,Alliance Bank
+Local Bank,Selangor,Rawang,"71 Jalan Bandar Rawang 2
+Bandar Baru Rawang
+48000 Rawang
+Selangor",3.324416,101.577969,Branches,Alliance Bank
+Local Bank,Selangor,Seri Kembangan,"31-1 & 31-2 Jalan Serdang Perdana
+2/1
+Taman Serdang Perdana
+43300 Seri Kembangan
+Selangor",3.0314637,101.7085555,Branches,Alliance Bank
+Local Bank,Selangor,Shah Alam,"Ground & 1st Floor
+2 Jalan Murni 25/61
+Taman Sri Muda
+Seksyen 25
+40400 Shah Alam
+Selangor",3.0323525,101.5354257,Branches,Alliance Bank
+Local Bank,Selangor,Sri Damansara,"1 Jalan Tembaga SD 5/2A
+Bandar Sri Damansara
+52100 Kuala Lumpur ",3.20124,101.6198701,Branches,Alliance Bank
+Local Bank,Selangor,"SS2, Petaling Jaya","Ground & 1st Floor
+55 Jalan SS2/55
+47300 Petaling Jaya
+Selangor",3.20124,101.6198701,Branches,Alliance Bank
+Local Bank,Selangor,Subang Jaya,"Wisma Projass
+3 Jalan SS15/2A
+47500 Subang Jaya
+Selangor",3.081446,101.5868957,Branches,Alliance Bank
+Local Bank,Selangor,Taman Putra,"43-45 Jalan Bunga Tanjung 6A
+Taman Putra
+68000 Ampang
+Selangor",3.1210899,101.760915,Branches,Alliance Bank
+Local Bank,Selangor,"USJ, Subang Jaya","Ground & 1st Floor
+17, 19 & 21 Jalan USJ 9/5N
+47620 UEP Subang Jaya
+Selangor",3.046408,101.5841424,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Bangsar,"1 Jalan Telawi 5
+Bangsar Baru
+59100 Kuala Lumpur",3.1327439,101.671222,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Capital Square,"Ground Floor
+Menara Multi-Purpose
+Capital Square
+8 Jalan Munshi Abdullah
+50100 Kuala Lumpur",3.155257,101.6972083,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Desa ParkCit,"G-G-10, Block G, Plaza Arkadia
+No. 3, Jalan Intisari Perdana
+Desa ParkCity
+52200, Kuala Lumpur",3.1855877,101.6327209,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Jalan Ipoh,"41 & 43 Jalan Ipoh
+51200 Kuala Lumpur ",3.1955909,101.6769664,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Kepong,"Ground Floor
+52 Jalan Prima
+Vista Magna
+Metro Prima Kepong
+52100 Kuala Lumpur",3.2131692,101.6421945,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Kuchai Entrepreneurs Park,"1 Jalan 1/116B
+Kuchai Entrepreneurs Park
+58200 Kuala Lumpur",,,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,MidValley,"15-G & 15-1, T
+The Boulevard Offices
+Mid Valley City
+Lingkaran Syed Putra
+59200 Kuala Lumpur",3.11925,101.6752532,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Mont' Kiara,"Unit A-0G-02, Block A
+Plaza Mont'Kiara
+2 Jalan Kiara, Mont'Kiara
+50480 Kuala Lumpur",3.1656857,101.6497675,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Segambut,"Ground & 1st Floor
+22 Wisma Sin Hoh Huat
+Persiaran Segambut Tengah
+51200 Kuala Lumpur ",3.1867866,101.6779669,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Setapak,"D-1-2, D-2-2 & D-3-2
+StarParc Point,
+Taman Danau Ibu Kota
+Jln Genting Klang, Setapak 53300
+Kuala Lumpur",3.2042455,101.7202005,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Star Boulevard KLCC,"Unit SR3-G,
+Ground Floor, Wisma Star,
+No. 1, Jalan Yap Kwan Seng,
+50450 Kuala Lumpur",3.1610411,101.711762,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Taman Connaught,"150-152 Jalan Cerdas
+Taman Connaught
+56000 Kuala Lumpur",3.0814584,101.7343304,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Taman Maluri ,"254 & 254A Jalan Mahkota
+Taman Maluri,
+Cheras
+55100 Kuala Lumpur",3.1281146,101.7329855,Branches,Alliance Bank
+Local Bank,Kuala Lumpur,Taman Tun Dr Ismail,"6-3-0 & 6-3-1, Sinaran TTDI
+Jalan Tun Mohd Fuad 3
+Taman Tun Dr Ismail
+60000 Kuala Lumpur",3.1412229,101.6283439,Branches,Alliance Bank
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur,"Menara Citibank, 165, Jalan Ampang, 50450 Kuala Lumpur",3.1594452,101.715583,Branches,City Bank
+Foreigner Bank,Selangor,Puchong,"26, Jalan Puteri 1/1, Bandar Puteri, 47100 Puchong, Selangor",3.0253233,101.6170442,Branches,City Bank
+Foreigner Bank,Selangor,Damansara Perdana,"Lot W106 & W107, Metropolitan Square, Centre Wing, Jalan PJU 8/1, Damansara Perdana,
+47820 Petaling Jaya, Selangor",3.1661952,101.6095556,Branches,City Bank
+Foreigner Bank,Selangor,Taipan USJ,"No. 10A, Jalan USJ 10/1H, Taipan Triangle,
+47610 Subang Jaya Selangor",3.0477257,101.5864292,Branches,City Bank
+Foreigner Bank,Selangor,"Bandar Tun Hussein Onn, Cheras","No 54, Jalan Suarasa 8/4, Bandar Tun Hussein Onn,
+43200 Cheras, Selangor",3.047389,101.758791,Branches,City Bank
+Foreigner Bank,Selangor,Johor Bahru Branch,"#01-01, Block C,
+Komersil Southkey Mozek,
+Persiaran Southkey 1,
+Kota Southkey, 80150 Johor Bahru",1.4991633,103.7771681,Branches,City Bank
+Foreigner Bank,Kuala Lumpur,Sri Petaling,"1, Jalan Radin Bagus 6,
+Bandar Baru Sri Petaling,
+57000 Kuala Lumpur",3.0708025,101.6928647,Branches,UOB
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur Main,"Ground Floor, UOB Plaza 1,
+7 Jalan Raja Laut,
+50350 Kuala Lumpur",3.154166,101.6958948,Branches,UOB
+Foreigner Bank,Kuala Lumpur,Jalan Imbi,"197-199, Jalan Imbi,
+55100 Kuala Lumpur",3.145983,101.7154568,Branches,UOB
+Foreigner Bank,Kuala Lumpur,Bangsar,"Bangunan Bangsaria,
+45E, Jalan Maarof,
+Bangsar Baru,
+59100 Kuala Lumpur",3.12814,101.6750321,Branches,UOB
+Foreigner Bank,Kuala Lumpur,Jalan Ampang,"Level 1, Menara Citibank,
+No 165, Jalan Ampang,
+50450 Kuala Lumpur",3.1594452,101.715583,Branches,UOB
+Foreigner Bank,Selangor,Ampang,"495 Jalan Lima,
+Taman Ampang Utama,
+Jalan Ampang,
+68000 Ampang, Selangor",3.1567465,101.7509721,Branches,UOB
+Foreigner Bank,Selangor,Cheras,"35 Jalan Desa Cahaya 11,
+Taman Desa Bukit Cahaya,
+56100 Cheras, Selangor",3.0449373,101.7412837,Branches,UOB
+Foreigner Bank,Selangor,"6, Jalan Kenari 5,
+Bandar Puchong Jaya,
+47100, Puchong,
+Selangor","Wisma UOB, 2108, Jalan Meru,
+41050 Klang,
+Selangor",3.061103,101.4527696,Branches,UOB
+Foreigner Bank,Selangor,Kota Damansara,Jalan Tengah,,,Branches,UOB
+Foreigner Bank,Selangor,"48, Jalan PJU 5/8,
+Dataran Sunway,
+Kota Damansara, 47810 Petaling Jaya,
+Selangor","2-6, Jalan Tengah,
+46200 Petaling Jaya,
+Selangor",3.0994107,101.6444504,Branches,UOB
+Foreigner Bank,Selangor,Ijok,"57 Jalan PPAJ 3/1 
+Pusat Perdagangan Alam Jaya
+42300, Bandar Puncak Alam
+Selangor",3.2396142,101.4480426,Branches,UOB
+Foreigner Bank,Selangor,USJ Taipan,"7 Jalan USJ 10/1 
+USJ Taipan Triangle 
+47620 UEP Subang Jaya 
+Selangor",,,Branches,UOB
+Foreigner Bank,Selangor,USJ Triangle,"No 9A Jalan USJ 10/1H,
+Taipan Triangle,
+47610 Subang Jaya,
+Selangor",3.0483615,101.5851394,Branches,UOB
+Foreigner Bank,Selangor,Bandar Tun Hussein Onn,"No 54 Jalan Suarasa 8/4,
+Bandar Tun Hussein Onn,
+43200 Cheras,
+Selangor",3.047389,101.758791,Branches,UOB
+Foreigner Bank,Selangor,Bandar Puteri Puchong,"No 26, Jalan Puteri 1/1,
+Bandar Puteri,
+47100 Puchong,
+Selangor",3.0253233,101.6170442,Branches,UOB
+Foreigner Bank,Selangor,HSBC Amanah Ampang Point,"18, 19 & 20, Lorong Memanda 5, Ampang Point, Ampang Point, Selangor Darul Ehsan, 68000, Ampang Point",3.157818,101.750962,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Old Klang Road,"1-G & 1-1, Ground & First Floor, 3rd Mile Square, 151 Jalan Kelang Lama, Batu 3 1/2, Old Klang Road, Wilayah Persekutuan Kuala Lumpur, 58100, Kuala Lumpur",3.103846,101.67758,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Plaza Mont Kiara,"Plaza Mont Kiara No 2, Jalan Kiara, Mont Kiara, Plaza Mont Kiara, Wilayah Persekutuan Kuala Lumpur, 50480, Kuala Lumpur",3.165438,101.651907,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Bukit Bintang,"Menara Genesis No 33 Jalan Sultan Ismail, Bukit Bintang, Wilayah Persekutuan Kuala Lumpur, 50250, Kuala Lumpur",3.148292,101.710549,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Wangsa Maju,"Nos.37, 37-1 & 39, Jalan Rampai Niaga 5, Medan Niaga Rampai, Wangsa Maju, Wilayah Persekutuan Kuala Lumpur, 53300, Kuala Lumpur",3.19921,101.72895,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar,"No.66G, 66-1 & 68G, Jalan Telawi, Bangsar Baru, Bangsar, Wilayah Persekutuan Kuala Lumpur, 59100, Kuala Lumpur",3.13013,101.6706,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC KL Main,"Level 2, Menara IQ, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Tun Razak Exchange, Wilayah Persekutuan Kuala Lumpur, 55188, Kuala Lumpur",3.140944,101.719123,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Puncak Sentul,"Unit No. AG 10 & AG 11 Ground Floor, Puncak Sentul, No. 8, Jalan Sentul Perdana, 51000 Kuala Lumpur, Sentul, Wilayah Persekutuan Kuala Lumpur, 51000, Kuala Lumpur",3.2029,101.687119,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar South,"Unit G-03, Ground Floor, The Sphere, No. 1, Avenue 1, Bangsar South City, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Bangsar South, Wilayah Persekutuan Kuala Lumpur, 59200, Kuala Lumpur",3.112499,101.628398,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah KL City Centre,"Units G-12 & M-16, Ground & Mezzanine Floors, Wisma UOA II, No 21 Jalan Pinang, Kuala Lumpur City Centre, Wilayah Persekutuan Kuala Lumpur, 50450, Kuala Lumpur City Centre",3.152572,101.712281,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur Main,"Ground Floor
+Menara OCBC
+18 Jalan Tun Perak
+50050 Kuala Lumpur",3.15019,101.696116,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Bukit Damansara,"19 Jalan Setiapuspa
+Bukit Damansara
+50490 Kuala Lumpur",3.1519,101.66983,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Petaling Jaya,"89, 91 & 93 Jalan SS 21/60
+Damansara Utama
+47400 Petaling Jaya",3.1182,101.61152,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Cheras,"No. 1, 3, 5 & 7
+Jalan Damai Niaga 1
+Alam Damai Cheras
+56000 Kuala Lumpur",3.075133,101.736624,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Kota Damansara,"1 Jalan PJU 5/20
+Pusat Perdagangan Kota Damansara (THE STRAND)
+Kota Damansara PJU 5
+47810 Petaling Jaya,
+Selangor",3.154121,101.592025,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Kepong,"60 Vista Magna
+Jalan Prima
+Metro Prima Kepong
+52100 Kuala Lumpur",3.20559,101.62148,Branches,OCBC
+Foreigner Bank,Selangor,Puchong,"GF-2 & 3, 1F-1 & 2, Tower 2
+Puchong Financial Corporate Centre (PFCC)
+Jalan Puteri 1/2 Bandar Puteri
+47100 Puchong
+Selangor Darul Ehsan",3.025803,101.615443,Branches,OCBC
+Foreigner Bank,Selangor,Subang Jaya,"1A-A – 4A-A
+Jalan USJ 10/1A
+Pusat Perniagaan USJ 10
+47610 UEP Subang Jaya
+Selangor Darul Ehsan",3.048586,101.58592,Branches,OCBC
+Foreigner Bank,,Kajang,"4 & 5 Jalan Raja Haroun
+43000 Kajang
+Selangor Darul Ehsan",2.99773,101.78636,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Kota Kemuning,"27, Jalan Anggerik Vanilla BF 31/BF,
+Business Park 3,
+Kota Kemuning,
+40460 Shah Alam",3.00429,101.535,Branches,OCBC
+Foreigner Bank,Selangor,Klang,"19 Jalan Stesen
+41000 Klang
+Selangor Darul Ehsan",3.03185,101.44814,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Bandar Botanic,"No. 117, Jalan Mahogani 5/KS 7,
+Bandar Botanic,
+41200 Klang
+Selangor",2.992908,101.447052,Branches,OCBC
+Foreigner Bank,,Seremban,"63 - 65 Jalan Dato Bandar Tunggal
+70000 Seremban
+Negeri Sembilan Darul Khusus",2.72274,101.95121,Branches,OCBC
+Foreigner Bank,,Melaka,"No. 2F-2F-4
+Jalan KLJ4
+Taman Kota Laksamana Jaya
+75200 Melaka",2.19748,102.23304,Branches,OCBC
+Foreigner Bank,,Teluk Intan,"1054 Jalan Mahkota
+36000 Teluk Intan
+Perak Darul Ridzuan",4.026494,101.021386,Branches,OCBC
+Foreigner Bank,,Segamat,"109C-109E Jalan Genuang
+85000 Segamat
+Johor Darul Takzim",2.51052,102.83986,Branches,OCBC
+Foreigner Bank,,Muar,"26 Jalan Maharani
+84000 Muar
+Johor Darul Takzim",2.03927,102.56909,Branches,OCBC
+Foreigner Bank,,Ipoh Main,"2 Jalan Dato Maharaja Lela
+30000 Ipoh
+Perak Darul Ridzuan",4.59687,101.076745,Branches,OCBC
+Foreigner Bank,,Kuantan,"40 Jalan Teluk Sisek
+25000 Kuantan
+Pahang Darul Makmur",3.80789,103.28008,Branches,OCBC
+Foreigner Bank,,Batu Pahat,"108-2 Jalan Rahmat
+83000 Batu Pahat
+Johor Darul Takzim",1.84358,102.94706,Branches,OCBC
+Foreigner Bank,,Taiping,"24-30 Jalan Berek
+34000 Taiping
+Perak Darul Ridzuan",4.8541,100.73757,Branches,OCBC
+Foreigner Bank,,Kluang,"8A Jalan Dato' Haji Hassan
+86000 Kluang
+Johor Darul Takzim",2.02879,103.31538,Branches,OCBC
+Foreigner Bank,,Kulai,"No. 202, 203 and 204,
+Jalan Kenanga 29/2,
+Indahpura,
+81000 Kulai,
+Johor Darul Takzim",1.641465,103.619738,Branches,OCBC
+Foreigner Bank,,Al-Amin Skudai,"No. 143 & 145,
+Jalan Sutera Tanjung 8/2
+Taman Sutera Utama
+81300 Skudai
+Johor",1.53789,103.66087,Branches,OCBC
+Foreigner Bank,,Bukit Mertajam,"No. 47, 49, 51, 53
+Jalan Perniagaan Gemilang 1
+Pusat Perniagaan Gemilang
+14000 Bukit Mertajam
+Pulau Pinang",5.351399,100.442551,Branches,OCBC
+Foreigner Bank,,Batu Maung,"No.13 – 15 Lintang Batu Maung 1
+11960 Batu Maung,
+Pulau Pinang",5.28731,100.28125,Branches,OCBC
+Foreigner Bank,,Taman Molek,"47 & 49 Jalan Molek 1/29
+Taman Molek
+81100 Johor Bahru
+Johor Darul Takzim",1.52527,103.73984,Branches,OCBC
+Foreigner Bank,,Penang,"36 Lebuh Pantai
+10300 Pulau Pinang",5.417437,100.341961,Branches,OCBC
+Foreigner Bank,,Johor Bahru,"1 Jalan Ibrahim
+80000 Johor Bahru
+Johor Darul Takzim",1.4568635,103.7650604,Branches,OCBC
+Foreigner Bank,,Al-Amin Sungai Petani,"104, Jalan Legenda 4
+Legenda Heights
+08000 Sungai Petani
+Kedah Darul Aman",5.64902,100.49513,Branches,OCBC
+Foreigner Bank,,Kota Bharu,"3940 Jalan Temenggong
+15000 Kota Bharu
+Kelantan Darul Naim",6.15372,102.25408,Branches,OCBC
+Foreigner Bank,,Alor Setar,"No. 209 Jalan Gangsa
+Kawasan Perusahaan Mergong 2
+05150 Alor Setar",6.131907,100.359867,Branches,OCBC
+Foreigner Bank,,Kuching,"UG Floor,
+Gateway Kuching
+No.9, Jalan Bukit Mata
+93100 Kuching
+Sarawak",1.559351,110.353346,Branches,OCBC
+Foreigner Bank,,Al-Amin Sibu,"Ground Floor,
+Wisma Toh Li Hua Foundation,
+Jaya Li Hua,
+No. 21 Jalan Pahlawan,
+96000 Sibu
+Sarawak",2.304873,111.847,Branches,OCBC
+Foreigner Bank,,Miri,"Lot 1375 & 1376 Centrepoint
+Commercial Centre (Phase 2)
+Block 10 Miri Concession
+Land District Kubu Road
+98000 Miri
+Sarawak",4.387811,113.983215,Branches,OCBC
+Foreigner Bank,,Kota Kinabalu,"21 & 23 Jalan Pantai
+88000 Kota Kinabalu
+Sabah",5.984638,116.076897,Branches,OCBC
+Foreigner Bank,,Al-Amin Sandakan,"Lot 1, Block 16, Bandar Indah,
+Batu 4, Jalan Utara,
+90000 Sandakan
+Sabah",5.855064,118.0718,Branches,OCBC

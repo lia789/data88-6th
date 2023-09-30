@@ -1,0 +1,926 @@
+_01_category,_02_state,_03_branch_name,_04_address,_07_google_map_url,_08_bank_data_url,_09_bank_type,_11_mother_bank_name,
+Local Bank,Kuala Lumpur,Jalan Tangsi,"Ground Floor, Bangunan Bank Rakyat, Jalan Tangsi
+50732
+Kuala Lumpur","https://www.google.com/maps/place/Bank+Kerjasama+Rakyat+Malaysia+Bhd/@3.1505207,101.6897442,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor,+Bangunan+Bank+Rakyat,+Jalan+Tangsi+50732+Kuala+Lumpur%22!3m6!1s0x31cc484e21fa5a81:0x278e5bd3e90ec648!8m2!3d3.1505153!4d101.6923191!15sCkUiR3JvdW5kIEZsb29yLCBCYW5ndW5hbiBCYW5rIFJha3lhdCwgSmFsYW4gVGFuZ3NpIDUwNzMyIEt1YWxhIEx1bXB1ciIiA4gBAZIBBGJhbmvgAQA!16s%2Fg%2F1vbnlx8r?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Jalan Ipoh,"No. 140, Bangunan Bank Rakyat, Jalan Ipoh
+51200
+Kuala Lumpur","https://www.google.com/maps/place/AmBank+Jalan+Ipoh/@3.1801769,101.6801499,17z/data=!3m1!5s0x31cc480d2359de41:0xf1ccd67e8649d42d!4m10!1m2!2m1!1s%22No.+140,+Bangunan+Bank+Rakyat,+Jalan+Ipoh+51200+Kuala+Lumpur%22!3m6!1s0x31cc47d12299ed77:0x79e448281db2076!8m2!3d3.1801715!4d101.6827248!15sCj4iTm8uIDE0MCwgQmFuZ3VuYW4gQmFuayBSYWt5YXQsIEphbGFuIElwb2ggNTEyMDAgS3VhbGEgTHVtcHVyIiIDiAEBkgEDYXRt4AEA!16s%2Fg%2F1pzs_l14q?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Bandar Tun Razak,"G 11, G12, 01-11 & 01-12, Wisma Zelan, Bandar Tun Razak
+56000
+Kuala Lumpur","https://www.google.com/maps/place/Wisma+Zelan/@3.0998048,101.7147672,17z/data=!4m10!1m2!2m1!1s%22G+11,+G12,+01-11+%26+01-12,+Wisma+Zelan,+Bandar+Tun+Razak+56000+Kuala+Lumpur%22!3m6!1s0x31cc35f1d281f0bb:0x5f61c61654ab0d6!8m2!3d3.0997994!4d101.7173421!15sCkwiRyAxMSwgRzEyLCAwMS0xMSAmIDAxLTEyLCBXaXNtYSBaZWxhbiwgQmFuZGFyIFR1biBSYXphayA1NjAwMCBLdWFsYSBMdW1wdXIikgEPYnVzaW5lc3NfY2VudGVy4AEA!16s%2Fg%2F11fnnlwn0b?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Jalan Pinang,"19-1-1 Ground Floor & 19-1-1A Mezzanine Floor, UOA Centre, No. 19 Jalan Pinang
+50450
+Kuala Lumpur","https://www.google.com/maps/place/Floor+%26+19,+Wisma+Uoa+Centre,+19,+Jalan+Pinang,+Kuala+Lumpur,+50450+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1526749,101.712005,17z/data=!3m1!4b1!4m9!1m2!2m1!1s%2219-1-1+Ground+Floor+%26+19-1-1A+Mezzanine+Floor,+UOA+Centre,+No.+19+Jalan+Pinang+50450+Kuala+Lumpur%22!3m5!1s0x31cc37d4984a968b:0x3a2aa7c44446d15d!8m2!3d3.1526749!4d101.712005!15sCmMiMTktMS0xIEdyb3VuZCBGbG9vciAmIDE5LTEtMUEgTWV6emFuaW5lIEZsb29yLCBVT0EgQ2VudHJlLCBOby4gMTkgSmFsYW4gUGluYW5nIDUwNDUwIEt1YWxhIEx1bXB1ciKSARBjb21wb3VuZF9zZWN0aW9u4AEA?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Bangsar Baru,"Bangsar Baru
+No. 60 & 62, Ground Floor, Level 1 & 2, Jalan Maarof,
+59100 Bangsar Baru,
+Kuala Lumpur","https://www.google.com/maps/place/Bangsar+Shopping+Centre/@3.1428401,101.6324984,13z/data=!4m10!1m2!2m1!1s%22Bangsar+Baru+No.+60+%26+62,+Ground+Floor,+Level+1+%26+2,+Jalan+Maarof,+59100+Bangsar+Baru,+Kuala+Lumpur!3m6!1s0x31cc49af4eb9fcef:0xcfdda27701734456!8m2!3d3.1428401!4d101.6675173!15sCmQiQmFuZ3NhciBCYXJ1IE5vLiA2MCAmIDYyLCBHcm91bmQgRmxvb3IsIExldmVsIDEgJiAyLCBKYWxhbiBNYWFyb2YsIDU5MTAwIEJhbmdzYXIgQmFydSwgS3VhbGEgTHVtcHVyWl8iXWJhbmdzYXIgYmFydSBubyA2MCAmIDYyIGdyb3VuZCBmbG9vciBsZXZlbCAxICYgMiBqYWxhbiBtYWFyb2YgNTkxMDAgYmFuZ3NhciBiYXJ1IGt1YWxhIGx1bXB1cpIBD3Nob3BwaW5nX2NlbnRlcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdGNYSTNNR0ozRUFF4AEA!16s%2Fg%2F1pzsl2580?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Desa Pandan,"No. 33 & 35, Jalan 1/76, Desa Pandan
+55100
+Kuala Lumpur","https://www.google.com/maps/place/33,+Jln+1%2F76,+Desa+Pandan,+55100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.146144,101.735945,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc364c02bbf599:0xb8ab619a509ba339!8m2!3d3.146144!4d101.735945!16s%2Fg%2F11k9dx6rzb?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Shamelin,"No. 6B-1-1 & 6B-1-2 Jalan 4/91, Dataran Shamelin, Taman Shamelin Perkasa,
+56100
+Kuala Lumpur","https://www.google.com/maps/place/Dataran+Shamelin/@3.1241616,101.7342918,17z/data=!4m10!1m2!2m1!1s%22No.+6B-1-1+%26+6B-1-2+Jalan+4%2F91,+Dataran+Shamelin,+Taman+Shamelin+Perkasa,+56100+Kuala+Lumpur%22!3m6!1s0x31cc366e8b0f28ed:0x1675001aad2ed458!8m2!3d3.1241616!4d101.7364805!15sCl4iTm8uIDZCLTEtMSAmIDZCLTEtMiBKYWxhbiA0LzkxLCBEYXRhcmFuIFNoYW1lbGluLCBUYW1hbiBTaGFtZWxpbiBQZXJrYXNhLCA1NjEwMCBLdWFsYSBMdW1wdXIikgEQY29ycG9yYXRlX29mZmljZeABAA!16s%2Fg%2F1pzs1p40c?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Selayang,"Ground Floor, Block B, KIP Tower, Jalan Kuching
+68100
+Kuala Lumpur","https://www.google.com/maps/place/Bank+Rakyat+@+Selayang/@3.2232833,101.6536342,14z/data=!4m10!1m2!2m1!1s%22Ground+Floor,+Block+B,+KIP+Tower,+Jalan+Kuching+68100+Kuala+Lumpur%22!3m6!1s0x31cc47af1299cf8f:0xdc8a8697b02a6c2d!8m2!3d3.2232833!4d101.6711437!15sCkQiR3JvdW5kIEZsb29yLCBCbG9jayBCLCBLSVAgVG93ZXIsIEphbGFuIEt1Y2hpbmcgNjgxMDAgS3VhbGEgTHVtcHVyIpIBBGJhbmvgAQA!16s%2Fg%2F1hc1y26sm?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Setapak,"No. 1, Jalan 2/50, Diamond Square, Off Jalan Gombak,
+53000
+Kuala Lumpur","https://www.google.com/maps/place/Devan+%26+Associates/@3.1947805,101.696935,15z/data=!4m10!1m2!2m1!1s%22No.+1,+Jalan+2%2F50,+Diamond+Square,+Off+Jalan+Gombak,+53000+Kuala+Lumpur!3m6!1s0x31cc47ff4beaaaab:0xae0e4d65011b72d2!8m2!3d3.1947805!4d101.7056897!15sCkgiTm8uIDEsIEphbGFuIDIvNTAsIERpYW1vbmQgU3F1YXJlLCBPZmYgSmFsYW4gR29tYmFrLCA1MzAwMCBLdWFsYSBMdW1wdXKSAQZsYXd5ZXLgAQA!16s%2Fg%2F1tdzch4p?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Kepong,"No. 11 & 15, Jalan Rimbunan Raya 1, Laman Rimbunan Raya 1, Laman Rimbunan
+52100 Kepong,
+Kuala Lumpur","https://www.google.com/maps/place/11,+Jalan+Rimbunan+Raya+1,+Laman+Rimbunan,+52100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.2103682,101.6512649,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4637c264caad:0xb90101199b292346!8m2!3d3.2103682!4d101.6512649?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Desa Sri Hartamas,"Lot B-02 & B-03, Galeria Hartamas Jalan 26/70A, Desa Sri Hartamas
+50480
+Kuala Lumpur","https://www.google.com/maps/place/Glomac+Galeria+Hartamas/@3.1603615,101.6481313,17z/data=!4m10!1m2!2m1!1s%22Lot+B-02+%26+B-03,+Galeria+Hartamas+Jalan+26%2F70A,+Desa+Sri+Hartamas+50480+Kuala+Lumpur%22!3m6!1s0x31cc48fac981b17b:0x6050617318a68953!8m2!3d3.1603615!4d101.65032!15sClYiTG90IEItMDIgJiBCLTAzLCBHYWxlcmlhIEhhcnRhbWFzIEphbGFuIDI2LzcwQSwgRGVzYSBTcmkgSGFydGFtYXMgNTA0ODAgS3VhbGEgTHVtcHVyIpIBD2J1c2luZXNzX2NlbnRlcuABAA!16s%2Fg%2F11h_tdcb51?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Glo Damansara,"G.01, G.01AL, 1.01, Aras 1, Glo Damansara, Jalan Damansara,
+60000
+Kuala Lumpur","https://www.google.com/maps/place/Glo+Damansara+Shopping+Mall/@3.132696,101.627663,17z/data=!4m10!1m2!2m1!1s%22G.01,+G.01AL,+1.01,+Aras+1,+Glo+Damansara,+Jalan+Damansara,+60000+Kuala+Lumpur%22!3m6!1s0x31cc49387f56f78f:0xaf2681b1a0dad123!8m2!3d3.132696!4d101.6298517!15sClAiRy4wMSwgRy4wMUFMLCAxLjAxLCBBcmFzIDEsIEdsbyBEYW1hbnNhcmEsIEphbGFuIERhbWFuc2FyYSwgNjAwMDAgS3VhbGEgTHVtcHVyIpIBD3Nob3BwaW5nX2NlbnRlcuABAA!16s%2Fg%2F11c61knmh1?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,Melawati,"G-2 & G-3, Melawati Corporate Centre, Taman Melawati,
+53100
+Kuala Lumpur","https://www.google.com/maps/place/Melawati+Corporate+Center+(MCC)+Management+Office+Basement+1/@3.2154006,101.7418747,15z/data=!4m10!1m2!2m1!1s%22G-2+%26+G-3,+Melawati+Corporate+Centre,+Taman+Melawati,+53100+Kuala+Lumpur%22!3m6!1s0x31cc39c06d2d6f6d:0x8fcd872d39e34d99!8m2!3d3.2095695!4d101.7527575!15sCkoiRy0yICYgRy0zLCBNZWxhd2F0aSBDb3Jwb3JhdGUgQ2VudHJlLCBUYW1hbiBNZWxhd2F0aSwgNTMxMDAgS3VhbGEgTHVtcHVyIpIBEGNvcnBvcmF0ZV9vZmZpY2XgAQA!16s%2Fg%2F11jf0cjvdy?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Kuala Lumpur,"Utama, MKBR","Ground Floor, Menara Kembar Bank Rakyat, No 33, Jalan Rakyat, KL Sentral
+50470
+Kuala Lumpur","https://www.google.com/maps/place/Menara+Kembar+Bank+Rakyat/@3.1302364,101.6827112,17z/data=!3m2!4b1!5s0x31cc49953d85f8ed:0xb723c1335064a221!4m6!3m5!1s0x31cc49956801d69b:0x7f6f0140a1dce7ef!8m2!3d3.1302364!4d101.6827112!16s%2Fg%2F11b635k0lm?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,"Shah Alam, Seksyen 23","No. 23 & 25, Jalan Pelabur B/23B, Seksyen 23,
+40300 Shah Alam,
+Selangor","https://www.google.com/maps/place/23,+Jalan+Pelabur+B+23%2FB,+Seksyen+23,+40300+Shah+Alam,+Selangor,+Malaysia/@3.0453325,101.5261762,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4d581f77c1c5:0x9783afe04e6f9e54!8m2!3d3.0453325!4d101.5261762!16s%2Fg%2F11frnjwk30?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Subang Perdana,"No. 39, Jalan Dinar GU 3/G, Seksyen U3, Taman Subang Perdana,
+40150 Shah Alam,
+Selangor","https://www.google.com/maps/place/Bank+Rakyat+Subang+Perdana/@3.150083,101.5414943,17z/data=!4m10!1m2!2m1!1s%22No.+39,+Jalan+Dinar+GU+3%2FG,+Seksyen+U3,+Taman+Subang+Perdana,+40150+Shah+Alam,+Selangor%22!3m6!1s0x31cc4e3444b1e2d9:0xbab008e3ae47f531!8m2!3d3.150083!4d101.543683!15sClkiTm8uIDM5LCBKYWxhbiBEaW5hciBHVSAzL0csIFNla3N5ZW4gVTMsIFRhbWFuIFN1YmFuZyBQZXJkYW5hLCA0MDE1MCBTaGFoIEFsYW0sIFNlbGFuZ29yIpIBBGJhbmvgAQA!16s%2Fg%2F1tfm44qv?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Kajang,"No. 18 & 19, Jalan Jelok 3, Off Jalan Bukit,
+43000 Kajang,
+Selangor","https://www.google.com/maps/place/18,+Jalan+Jelok+3,+Bandar+Kajang,+43000+Kajang,+Selangor,+Malaysia/@2.9914593,101.7918065,17z/data=!3m1!4b1!4m5!3m4!1s0x31cdcb8225dfb573:0xe64886898dbdd462!8m2!3d2.9914593!4d101.7918065?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Banting,"No. 239, Jalan Sultan Abdul Samad,
+42700 Banting,
+Selangor","https://www.google.com/maps/place/239,+Jalan+Sultan+Abdul+Samad,+Banting,+42700+Banting,+Selangor,+Malaysia/@2.8129874,101.5015192,17z/data=!3m1!4b1!4m6!3m5!1s0x31cda4962e64a1e3:0x1699e3bdec790e89!8m2!3d2.8129874!4d101.5015192!16s%2Fg%2F11sy_66ntb?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Bandar Baru Klang,"No. 2, Lorong Tiara 1B, Bandar Baru Klang,
+41150 Klang,
+Selangor","https://www.google.com/maps/place/2,+Lorong+Tiara+1b,+Bandar+Baru+Klang,+41150+Klang,+Selangor,+Malaysia/@3.0630355,101.4701272,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc531af81c8d89:0x2d45ea11211229b3!8m2!3d3.0630355!4d101.4701272!16s%2Fg%2F11fhk5p122?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Petaling Jaya,"No. 1-1, Jalan 14/22, Wisma Federal Academy Ballet,
+46100 Petaling Jaya,
+Selangor","https://www.google.com/maps/place/1,+Jalan+14%2F22,+Pjs+3,+46100+Petaling+Jaya,+Selangor,+Malaysia/@3.111408,101.634083,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+1-1,+Jalan+14%2F22,+Wisma+Federal+Academy+Ballet,+46100+Petaling+Jaya,+Selangor%22!3m6!1s0x31cc4be19454bf9b:0x77c6df15e3edae12!8m2!3d3.111408!4d101.634083!15sClMiTm8uIDEtMSwgSmFsYW4gMTQvMjIsIFdpc21hIEZlZGVyYWwgQWNhZGVteSBCYWxsZXQsIDQ2MTAwIFBldGFsaW5nIEpheWEsIFNlbGFuZ29yIiIDiAEBkgEQZ2VvY29kZWRfYWRkcmVzc-ABAA!16s%2Fg%2F11c1zy6njw?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Ampang,"No.2, Jalan Dagang 1/1A, Taman Dagang,
+68000 Ampang,
+Selangor","https://www.google.com/maps/place/2,+Jalan+Dagang+1%2F1a,+Taman+Dagang+Jaya,+68000+Ampang,+Selangor,+Malaysia/@3.1520001,101.7586192,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc370218086ebd:0x1f48073d89e8a799!8m2!3d3.1520001!4d101.7586192!16s%2Fg%2F11h79rct4n?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Shah Alam,"No. F30 & F31 Vista Alam, Jalan Ikhtisas 14/1,
+40000 Shah Alam
+Selangor","https://www.google.com/maps/place/Homestay+Murah+Vista+Alam,+Shah+Alam/@3.0709846,101.5232737,17z/data=!4m10!1m2!2m1!1s%22No.+F30+%26+F31+Vista+Alam,+Jalan+Ikhtisas+14%2F1,+40000+Shah+Alam+Selangor%22!3m6!1s0x31cc4d4c78f8b419:0xce355405efbd0056!8m2!3d3.0709846!4d101.5254624!15sCkkiTm8uIEYzMCAmIEYzMSBWaXN0YSBBbGFtLCBKYWxhbiBJa2h0aXNhcyAxNC8xLCA0MDAwMCBTaGFoIEFsYW0gU2VsYW5nb3IikgEScHJpdmF0ZV9ndWVzdF9yb29t4AEA!16s%2Fg%2F11h5s2ydyk?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,"USJ, Subang Jaya","No. 22 & 24, Jalan USJ 9/5Q, UEP,
+47600 Subang Jaya,
+Selangor","https://www.google.com/maps/place/United+Estate+Projects,+22+%26+24,+Jalan+USJ+9%2F5q,+Subang+Business+Centre,+47600+Subang+Jaya,+Selangor,+Malaysia/@3.0464401,101.5875708,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4cc679b9a517:0xe7c00e158df8e556!8m2!3d3.0464401!4d101.5875708!16s%2Fg%2F11q2n75z2_?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Sungai Besar,"No. A12 & A13, Jalan Menteri,
+45300 Sungai Besar,
+Selangor","https://www.google.com/maps/place/Jalan+Menteri,+45300+Sungai+Besar,+Selangor,+Malaysia/@3.6752541,100.985578,17z/data=!3m1!4b1!4m6!3m5!1s0x31cb6001fb6da4e5:0x8f1eb48c788ccbfd!8m2!3d3.6752541!4d100.985578!16s%2Fg%2F1hc1dn2x8?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Tanjung Karang,"No. 1 & 3, Jalan Makmur 1, Taman Makmur, Batu 7,
+45500 Tanjung Karang,
+Selangor","https://www.google.com/maps/place/1,+Jln+Makmur+1,+Taman+Makmur,+45500+Tanjong+Karang,+Selangor,+Malaysia/@3.4198661,101.1864685,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+1+%26+3,+Jalan+Makmur+1,+Taman+Makmur,+Batu+7,+45500+Tanjung+Karang,+Selangor%22!3m6!1s0x31cc8dc23af3bceb:0xb69b8939408efbb5!8m2!3d3.4198661!4d101.1864685!15sClEiTm8uIDEgJiAzLCBKYWxhbiBNYWttdXIgMSwgVGFtYW4gTWFrbXVyLCBCYXR1IDcsIDQ1NTAwIFRhbmp1bmcgS2FyYW5nLCBTZWxhbmdvciKSARFjb21wb3VuZF9idWlsZGluZ-ABAA!16s%2Fg%2F11tf3bfpsj?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Port Klang,"No. 2 & 4, Harbour Point, Commercial Centre, Jalan Sungai Aur,
+42000 Port Klang,
+Selangor","https://www.google.com/maps/place/Jalan+Sungai+Aur,+42000+Pelabuhan+Klang,+Selangor,+Malaysia/@2.9994,101.3968244,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+2+%26+4,+Harbour+Point,+Commercial+Centre,+Jalan+Sungai+Aur,+42000+Port+Klang,+Selangor%22!3m6!1s0x31cdab0708118165:0x7f91296d25003f93!8m2!3d2.9994!4d101.3968244!15sClsiTm8uIDIgJiA0LCBIYXJib3VyIFBvaW50LCBDb21tZXJjaWFsIENlbnRyZSwgSmFsYW4gU3VuZ2FpIEF1ciwgNDIwMDAgUG9ydCBLbGFuZywgU2VsYW5nb3IikgEFcm91dGXgAQA!16s%2Fg%2F1q5bm0w_c?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Sungai Buloh,"Lot. 101, TSB Commercial Centre, Jalan Nautika B, U20/B, Seksyen U20, Sungai Buloh,
+40160 Shah Alam,
+Selangor","https://www.google.com/maps/place/TSB+Commercial+Center/@3.2089342,101.570903,18z/data=!4m10!1m2!2m1!1s%22Lot.+101,+TSB+Commercial+Centre,+Jalan+Nautika+B,+U20%2FB,+Seksyen+U20,+Sungai+Buloh,+40160+Shah+Alam,+Selangor%22!3m6!1s0x31cc4515010fa2f7:0xcd64960d304da330!8m2!3d3.2086769!4d101.5711905!15sCm8iTG90LiAxMDEsIFRTQiBDb21tZXJjaWFsIENlbnRyZSwgSmFsYW4gTmF1dGlrYSBCLCBVMjAvQiwgU2Vrc3llbiBVMjAsIFN1bmdhaSBCdWxvaCwgNDAxNjAgU2hhaCBBbGFtLCBTZWxhbmdvciKSAQVzdG9yZeABAA!16s%2Fg%2F11t4f8mq9_?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,PJ State,"No. 11 & 13, Jalan Yong Shook Lin Seksyen 52,
+46200 Petaling Jaya,
+Selangor","https://www.google.com/maps/place/11,+Jalan+Yong+Shook+Lin,+Pj+New+Town,+46200+Petaling+Jaya,+Selangor,+Malaysia/@3.0979174,101.6453112,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4bc41fd25833:0x981952520b48b8a8!8m2!3d3.0979174!4d101.6453112?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Bandar Baru Bangi,"No. 37 & 39 Jalan Medan Pusat 2D Seksyen 9,
+43650 Bandar Baru Bangi,
+Selangor","https://www.google.com/maps/place/37,+Jln+Medan+Pusat+2d,+Seksyen+9,+43650+Bandar+Baru+Bangi,+Selangor,+Malaysia/@2.9636741,101.7533074,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdcbd2a4dda8b7:0x2b7ae91452b55c80!8m2!3d2.9636741!4d101.7533074!16s%2Fg%2F11c25714qt?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Serdang Raya,"No. C1-00-28, Section 9, Jalan SR 1/9, Taman Serdang Raya,
+43300 Seri Kembangan,
+Selangor","https://www.google.com/maps/place/9,+Jalan+SR+1%2F9,+Taman+Serdang+Raya,+43300+Seri+Kembangan,+Selangor,+Malaysia/@3.0304587,101.7057064,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+C1-00-28,+Section+9,+Jalan+SR+1%2F9,+Taman+Serdang+Raya,+43300+Seri+Kembangan,+Selangor%22!3m6!1s0x31cdb55599907543:0x66a6abf7836139e8!8m2!3d3.0304587!4d101.7057064!15sClsiTm8uIEMxLTAwLTI4LCBTZWN0aW9uIDksIEphbGFuIFNSIDEvOSwgVGFtYW4gU2VyZGFuZyBSYXlhLCA0MzMwMCBTZXJpIEtlbWJhbmdhbiwgU2VsYW5nb3IikgEQZ2VvY29kZWRfYWRkcmVzc-ABAA!16s%2Fg%2F11cs8q7882?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Rawang,"No.73, Jalan Bandar Rawang 2 Rawang City Centre
+48000 Rawang,
+Selangor","https://www.google.com/maps/place/Rawang+Sentral/@3.3040865,101.5508054,13z/data=!4m10!1m2!2m1!1s%22No.73,+Jalan+Bandar+Rawang+2+Rawang+City+Centre+48000+Rawang,+Selangor%22!3m6!1s0x31cc425c9a342ca9:0xea26837ac372d10!8m2!3d3.3259652!4d101.5800924!15sCkgiTm8uNzMsIEphbGFuIEJhbmRhciBSYXdhbmcgMiBSYXdhbmcgQ2l0eSBDZW50cmUgNDgwMDAgUmF3YW5nLCBTZWxhbmdvciKSARBob21lX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F11h9qgl7gw?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Cyberjaya,"Unit F03 & F03A, Fasa 1, Glomac Cyberjaya, Persiaran APEC,
+63000 Cyberjaya,
+Selangor","https://www.google.com/maps/place/SP25+Glomac+Cyberjaya+(Barat)/@2.925471,101.655562,17z/data=!4m10!1m2!2m1!1s%22Unit+F03+%26+F03A,+Fasa+1,+Glomac+Cyberjaya,+Persiaran+APEC,+63000+Cyberjaya,+Selangor%22!3m6!1s0x31cdb6fa1d4fe1eb:0xe8ca280203a8e5d6!8m2!3d2.925471!4d101.655562!15sClYiVW5pdCBGMDMgJiBGMDNBLCBGYXNhIDEsIEdsb21hYyBDeWJlcmpheWEsIFBlcnNpYXJhbiBBUEVDLCA2MzAwMCBDeWJlcmpheWEsIFNlbGFuZ29yIpIBCGJ1c19zdG9w4AEA!16s%2Fg%2F11b779cnpj?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Kelana Jaya,"Ground Floor, Wisma Glomac, Glomac Business Centre, Jalan SS 5/1, Kelana Jaya,
+47301 Petaling Jaya,
+Selangor","https://www.google.com/maps/place/Bank+Rakyat/@3.0986471,101.6032476,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor,+Wisma+Glomac,+Glomac+Business+Centre,+Jalan+SS+5%2F1,+Kelana+Jaya,+47301+Petaling+Jaya,+Selangor%22!3m6!1s0x31cc4c11f5d9096d:0x68cc37c526bb9968!8m2!3d3.0984762!4d101.6032801!15sCm0iR3JvdW5kIEZsb29yLCBXaXNtYSBHbG9tYWMsIEdsb21hYyBCdXNpbmVzcyBDZW50cmUsIEphbGFuIFNTNS8xLCBLZWxhbmEgSmF5YSwgNDczMDEgUGV0YWxpbmcgSmF5YSwgU2VsYW5nb3IikgEEYmFua-ABAA!16s%2Fg%2F1tg6s6ff?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Puchong,"No. 28 & 30, Jalan Puteri 4/2, Bandar Puteri,
+47100 Puchong,
+Selangor","https://www.google.com/maps/place/28,+Jalan+Puteri+4%2F2,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.0219956,101.6143855,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb3588ad108b7:0xd92dbba015f77bcc!8m2!3d3.0219956!4d101.6143855!16s%2Fg%2F11gl1mkzr6?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,Kuala Selangor,"No. 70, Jalan Melati 3/1, Bandar Melawati,
+45000 Kuala Selangor,
+Selangor","https://www.google.com/maps/place/68+%26+70,+Jalan+Melati+3%2F1,+Bandar+Melawati,+45000+Kuala+Selangor,+Selangor,+Malaysia/@3.3295162,101.2570176,17z/data=!3m1!4b1!4m6!3m5!1s0x31ccf49ea4054ff3:0x6fec630439b12aa5!8m2!3d3.3295162!4d101.2570176!16s%2Fg%2F11fhynlqh4?entry=ttu",https://www.bankrakyat.com.my/c/about/locator,Branches,Bank Rakyat,
+Local Bank,Selangor,AMCORP MALL,"NO. 18, G-01, BLOK A, MENARA PJ, JALAN PERSIARAN BARAT, OFF JALAN TIMUR,","https://www.google.com/maps/place/AmInvestment+Bank+Berhad/@3.1049357,101.6446357,17z/data=!4m10!1m2!2m1!1sNO.+18,+G-01,+BLOK+A,+MENARA+PJ,+JALAN+PERSIARAN+BARAT,+OFF+JALAN+TIMUR,!3m6!1s0x31cc4bdb03c3fef1:0x6cad6a7a900bf985!8m2!3d3.1049357!4d101.6468244!15sCkhOTy4gMTgsIEctMDEsIEJMT0sgQSwgTUVOQVJBIFBKLCBKQUxBTiBQRVJTSUFSQU4gQkFSQVQsIE9GRiBKQUxBTiBUSU1VUiySAQRiYW5r4AEA!16s%2Fg%2F11bymzgtwk?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,`
+Local Bank,Selangor,AMPANG POINT,"LOT 1A, JALAN MAMANDA 7, AMPANG POINT, 4 1/2 MILE,","https://www.google.com/maps/place/Ampang+Jaya,+Selangor,+Malaysia/@3.1674822,101.7626346,12z/data=!3m1!4b1!4m10!1m2!2m1!1sLOT+1A,+JALAN+MAMANDA+7,+AMPANG+POINT,+4+1%2F2+MILE,!3m6!1s0x31cc3711646d12c5:0xaf8df7ef767a7ac1!8m2!3d3.149099!4d101.7624521!15sCjJMT1QgMUEsIEpBTEFOIE1BTUFOREEgNywgQU1QQU5HIFBPSU5ULCA0IDEvMiBNSUxFLJIBCGxvY2FsaXR54AEA!16zL20vMGt3NTgx?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BALAKONG,"S-13, TAMAN INDAH, BATU 11,","https://www.google.com/maps/place/AmBank+Batu+11/@3.043159,101.7712376,18z/data=!4m10!1m2!2m1!1sS-13,+TAMAN+INDAH,+BATU+11,!3m6!1s0x31cc34c7cd4b738d:0x1a91ef7c2e181dd6!8m2!3d3.043159!4d101.7723319!15sChtTLTEzLCBUQU1BTiBJTkRBSCwgQkFUVSAxMSySAQRiYW5r4AEA!16s%2Fg%2F1tgx42_m?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR BARU BANGI,"NO 43-G-01 & 43A-G-01, JALAN MEDAN PB 2B, SEKSYEN 9, PUSAT BANDAR BARU BANGI,","https://www.google.com/maps/place/AmBank+Islamic/@2.9619327,101.71693,13z/data=!4m10!1m2!2m1!1sNO+43-G-01+%26+43A-G-01,+JALAN+MEDAN+PB+2B,+SEKSYEN+9,+PUSAT+BANDAR+BARU+BANGI,!3m6!1s0x31cdca2cd66fec8b:0x2e2014cfbb37f675!8m2!3d2.9619327!4d101.7519489!15sCk1OTyA0My1HLTAxICYgNDNBLUctMDEsIEpBTEFOIE1FREFOIFBCIDJCLCBTRUtTWUVOIDksIFBVU0FUIEJBTkRBUiBCQVJVIEJBTkdJLFpLIklubyA0MyBnIDAxICYgNDNhIGcgMDEgamFsYW4gbWVkYW4gcGIgMmIgc2Vrc3llbiA5IHB1c2F0IGJhbmRhciBiYXJ1IGJhbmdpkgEEYmFua5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSQ09TMXFaVnAzRUFF4AEA!16s%2Fg%2F1pzynkmzt?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR BARU RAWANG,"NO. 13 & 14, JALAN IPOH, BATU 18, BANDAR BARU RAWANG,","https://www.google.com/maps/place/AmBank+Bandar+Baru+Rawang/@3.3145084,101.5781755,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4253bb9da4e3:0xb158a550dc4a9cba!8m2!3d3.3145084!4d101.5781755!16s%2Fg%2F1hc329mt4?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR BARU SUNGAI BULOH,"NO. 338 & 389 JALAN 1A/1, BANDAR BARU SUNGAI BULOH, SEKSYEN U20,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR BUKIT TINGGI,"NO. 37 & 39, LORONG BATU NILAM 1A, BANDAR BUKIT TINGGI,","https://www.google.com/maps/place/37,+Lorong+Batu+Nilam+1A,+Bandar+Bukit+Tinggi+1,+41200+Klang,+Selangor,+Malaysia/@3.0095421,101.4396948,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdac9b80c9026f:0xa3b9abee8d7a3f57!8m2!3d3.0095421!4d101.4396948!16s%2Fg%2F11s19r4vz7?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR MAHKOTA CHERAS,"NO. 36 & 38, JALAN TEMENGGUNG 1/9, BANDAR MAHKOTA CHERAS,","https://www.google.com/maps/place/36,+Jalan+Temenggung+1%2F9,+Bandar+Mahkota+Cheras,+43200+Cheras,+Selangor,+Malaysia/@3.0504849,101.7894158,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc34a25889eb1f:0xb98f225817a48142!8m2!3d3.0504849!4d101.7894158?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"NO. 4 & 6, GROUND FLOOR, JALAN PUTERI 1/1, BANDAR PUTERI,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANDAR SUNWAY,"NO. 12, JALAN PJS 11/28, PJS 11,","https://www.google.com/maps/place/Sunway+Metro,+12,+Jalan+PJS+11%2F28,+Bandar+Sunway,+46150+Petaling+Jaya,+Selangor,+Malaysia/@3.0725192,101.6098642,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4c874a77edf5:0x4deed3cb6226bd25!8m2!3d3.0725192!4d101.6098642!16s%2Fg%2F11csmyqqtp?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BANTING,"NO. 139 & 141,WISMA MUTIARA, JALAN SULTAN ABDUL SAMAD,","https://www.google.com/maps/place/AmBank/@2.8137257,101.5046412,17z/data=!3m1!4b1!4m6!3m5!1s0x31cda4bdb6509eef:0xeb4fe28acf5d2af5!8m2!3d2.8137257!4d101.5046412!16s%2Fg%2F1tdrbwnf?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,BESTARI JAYA,"NO. 28B, JALAN BESAR,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,DAMANSARA UTAMA,"NO. 56, 58 & 60G, JALAN SS 21/35, DAMANSARA UTAMA,","https://www.google.com/maps/place/56,+58,+Jalan+SS+21%2F35,+Damansara+Utama,+47400+Petaling+Jaya,+Selangor,+Malaysia/@3.1361097,101.6239921,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4936de3e535f:0x9f5a71756180b063!8m2!3d3.1361097!4d101.6239921?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KAJANG,"NO. 6 & 7, JALAN S10/1, OFF JALAN BUKIT, SECTION 10,","https://www.google.com/maps/place/AmBank+Kajang/@3.0701556,101.7090954,12z/data=!4m10!1m2!2m1!1sNO.+6+%26+7,+JALAN+S10%2F1,+OFF+JALAN+BUKIT,+SECTION+10,!3m6!1s0x31cdcb83c4007303:0x16645e8cc7b6146c!8m2!3d2.9899033!4d101.7912697!15sCjROTy4gNiAmIDcsIEpBTEFOIFMxMC8xLCBPRkYgSkFMQU4gQlVLSVQsIFNFQ1RJT04gMTAsWjEiL25vIDYgJiA3IGphbGFuIHMxMCAxIG9mZiBqYWxhbiBidWtpdCBzZWN0aW9uIDEwkgEEYmFua5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOM05YRlVaRXRCRUFF4AEA!16s%2Fg%2F1tfkhp1h?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KELANA JAYA (PARKVIEW),"UNIT E102 & 103, GROUND FLOOR, KELANA PARKVIEW, NO. 1, JALAN SS6/2, KELANA JAYA,","https://www.google.com/maps/place/Kelana+Parkview+Tower,+Ss+6,+47301+Petaling+Jaya,+Selangor,+Malaysia/@3.1010925,101.5991139,17z/data=!3m1!4b1!4m10!1m2!2m1!1sUNIT+E102+%26+103,+GROUND+FLOOR,+KELANA+PARKVIEW,+NO.+1,+JALAN+SS6%2F2,+KELANA+JAYA,!3m6!1s0x31cc4c10d6710153:0xc996848de9ac7675!8m2!3d3.1010925!4d101.5991139!15sClBVTklUIEUxMDIgJiAxMDMsIEdST1VORCBGTE9PUiwgS0VMQU5BIFBBUktWSUVXLCBOTy4gMSwgSkFMQU4gU1M2LzIsIEtFTEFOQSBKQVlBLJIBEWNvbXBvdW5kX2J1aWxkaW5n4AEA!16s%2Fg%2F12hnx3zg8?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KLANG - BANDAR PUTERI,"GROUND FLOOR, NO. 1, LORONG SANGGUL 1F, BANDAR PUTERI KLANG,","https://www.google.com/maps/place/1,+Lorong+Sanggul+1f,+Bandar+Puteri,+42000+Pelabuhan+Klang,+Selangor,+Malaysia/@2.9864881,101.4658813,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdac4531d9600f:0x695941d71d2eed3f!8m2!3d2.9864881!4d101.4658813!16s%2Fg%2F11hc_f_dzd?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KLANG - PERSIARAAN SULTAN IBRAHIM,"WISMA SH NG, NO. 42 - 44, PERSIARAN SULTAN IBRAHIM","https://www.google.com/maps/place/Wisma+SH+NG/@3.0494012,101.4506542,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc534744dbfb3b:0xea90da82b7adb927!8m2!3d3.0494012!4d101.4506542!16s%2Fg%2F1pzy4_2qh?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KOTA DAMANSARA,"NO. 23 & 25, BLOK T, JALAN PJU 5/3, DATARAN SUNWAY, KOTA DAMANSARA,","https://www.google.com/maps/place/Jalan+PJU+5%2F3,+Dataran+Sunway,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.1520377,101.5955952,17z/data=!3m1!4b1!4m10!1m2!2m1!1sNO.+23+%26+25,+BLOK+T,+JALAN+PJU+5%2F3,+DATARAN+SUNWAY,+KOTA+DAMANSARA,!3m6!1s0x31cc4edf83665d11:0xd79bcdbd0cf099d5!8m2!3d3.1520377!4d101.5955952!15sCkNOTy4gMjMgJiAyNSwgQkxPSyBULCBKQUxBTiBQSlUgNS8zLCBEQVRBUkFOIFNVTldBWSwgS09UQSBEQU1BTlNBUkEskgEFcm91dGXgAQA!16s%2Fg%2F1q5bp2f7g?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,KOTA KEMUNING,"NO 1-1, JALAN ANGGERIK VANILLA BE31/BE, KOTA KEMUNING, SEKSYEN 31,","https://www.google.com/maps/place/1,+Jln+Anggerik+Vanilla+BE+31%2FBE,+Kota+Kemuning,+40460+Shah+Alam,+Selangor,+Malaysia/@3.0051942,101.5376266,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb28fdd729c69:0x200435af39261e5a!8m2!3d3.0051942!4d101.5376266!16s%2Fg%2F11fk0m9j3y?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,PETALING JAYA-NEW TOWN,"NO. 6, ROAD 52/4, NEW TOWN CENTRE,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,PETALING JAYA-SS2,"NO. 30, 32 & 34, JALAN SS2/61,","https://www.google.com/maps/place/AmBank/@3.1177236,101.6211197,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4956163e83e3:0xfaa52926d7ae3b65!8m2!3d3.1177236!4d101.6211197!16s%2Fg%2F1tcwt6xp?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,PORT KLANG - WISMA PALMBASE,"NO. 2998G, WISMA PALMBASE, PERSIARAN RAJA MUDA MUSA,","https://www.google.com/maps/place/Wisma+Palmbase/@3.0283163,101.4277538,17z/data=!3m2!4b1!5s0x31cdab44bf79478b:0x786e3d94b888cc9e!4m6!3m5!1s0x31cdab50ce346b25:0xb62e19353fbd4fd3!8m2!3d3.0283163!4d101.4277538!16s%2Fg%2F1vbl521w?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,PUCHONG -TAMAN KINRARA,"NO. 14A & 15A, JALAN TK 1/11A, TAMAN KINRARA, SEKSYEN 1, BATU 7 1/2,","https://www.google.com/maps/place/AmBank/@3.0647031,101.6490807,17z/data=!4m10!1m2!2m1!1sNO.+14A+%26+15A,+JALAN+TK+1%2F11A,+TAMAN+KINRARA,+SEKSYEN+1,+BATU+7+1%2F2,!3m6!1s0x31cc4b0fe9447975:0x48ff3d54ad0d79f7!8m2!3d3.0643573!4d101.6487711!15sCkROTy4gMTRBICYgMTVBLCBKQUxBTiBUSyAxLzExQSwgVEFNQU4gS0lOUkFSQSwgU0VLU1lFTiAxLCBCQVRVIDcgMS8yLFpAIj5ubyAxNGEgJiAxNWEgamFsYW4gdGsgMSAxMWEgdGFtYW4ga2lucmFyYSBzZWtzeWVuIDEgYmF0dSA3IDEgMpIBA2F0bZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOTmFqVTNhbFJSRUFF4AEA!16s%2Fg%2F1vxw5sgk?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,RAWANG COUNTRY HOMES,"NO. 51, 53 & 55, JALAN PUSAT BCH 1A, BANDAR COUNTRY HOMES,","https://www.google.com/maps/place/51,+53,+Jalan+Pusat+Bch+1a,+Pusat+Bandar+Country+Homes,+48000+Rawang,+Selangor,+Malaysia/@3.3258127,101.5261115,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc42cc98098925:0x6a3c60a4f7c1d9cb!8m2!3d3.3258127!4d101.5261115?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SEMENYIH,"NO. 43-G & 45-G, GROUND FLOOR, JALAN SEMENYIH SENTRAL 1,","https://www.google.com/maps/place/Ambank/@2.9453485,101.8444964,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdce7d07152abf:0xcbdb6b880eb2a01!8m2!3d2.9453485!4d101.8444964!16s%2Fg%2F1tf3wwr5?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SEPANG,"NO. 56, JALAN BESAR","https://www.google.com/maps/place/56,+Jalan+Besar,+Pekan+Semenyih,+43500+Semenyih,+Selangor,+Malaysia/@2.9464975,101.8456595,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdce7da58f841f:0x3d9728a90c3cc67f!8m2!3d2.9464975!4d101.8456595!16s%2Fg%2F11rf_qx285?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SERI KEMBANGAN,"NO. 7 & 9 JALAN PERUSAHAAN 2, OFF JALAN KOLEJ, TAMAN JINMA,","https://www.google.com/maps/place/AmBank/@3.0172738,101.7037335,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb55ee101bba3:0x3036e2bf7f202002!8m2!3d3.0172738!4d101.7037335!16s%2Fg%2F1tfw0jw0?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SETIA ALAM,"NO. 15 & 17, JALAN SETIA PRIMA RU13/R, SETIA ALAM, SEKSYEN U/13,","https://www.google.com/maps/place/AmBank+Setia+Alam/@3.0996521,101.4446291,17z/data=!4m10!1m2!2m1!1sNO.+15+%26+17,+JALAN+SETIA+PRIMA+RU13%2FR,+SETIA+ALAM,+SEKSYEN+U%2F13,!3m6!1s0x31cc53f1e49f2025:0xd6a68d41a0dfbfc7!8m2!3d3.1007779!4d101.4451857!15sCkBOTy4gMTUgJiAxNywgSkFMQU4gU0VUSUEgUFJJTUEgUlUxMy9SLCBTRVRJQSBBTEFNLCBTRUtTWUVOIFUvMTMsWj0iO25vIDE1ICYgMTcgamFsYW4gc2V0aWEgcHJpbWEgcnUxMyByIHNldGlhIGFsYW0gc2Vrc3llbiB1IDEzkgEEYmFua5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOb2RWcEVaa2xuRUFF4AEA!16s%2Fg%2F1tqpwrpd?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SHAH ALAM - SEC 13,"GROUND FLOOR, LOT 13-1 & LOT 14-1, GROUND FLOOR, LAMAN SERI BUSINESS PARK, SEKSYEN 13,","https://www.google.com/maps/place/Ambank+Shah+Alam+-+Section+15/@3.07801,101.5419542,15z/data=!4m10!1m2!2m1!1sGROUND+FLOOR,+LOT+13-1+%26+LOT+14-1,+GROUND+FLOOR,+LAMAN+SERI+BUSINESS+PARK,+SEKSYEN+13,!3m6!1s0x31cc4d6e2eb4dac7:0xf396c254c0143e9f!8m2!3d3.0644015!4d101.539577!15sClZHUk9VTkQgRkxPT1IsIExPVCAxMy0xICYgTE9UIDE0LTEsIEdST1VORCBGTE9PUiwgTEFNQU4gU0VSSSBCVVNJTkVTUyBQQVJLLCBTRUtTWUVOIDEzLFpTIlFncm91bmQgZmxvb3IgbG90IDEzIDEgJiBsb3QgMTQgMSBncm91bmQgZmxvb3IgbGFtYW4gc2VyaSBidXNpbmVzcyBwYXJrIHNla3N5ZW4gMTOSAQRiYW5rmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVIxYUdFeVFYVm5SUkFC4AEA!16s%2Fg%2F1tfkhn_6?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SHAH ALAM - SEC 15,"NO. 47 & 49, JALAN UTAS B/15B, SECTION 15B,","https://www.google.com/maps/place/Ambank+Shah+Alam+-+Section+15/@3.0644015,101.539577,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4d6e2eb4dac7:0xf396c254c0143e9f!8m2!3d3.0644015!4d101.539577!16s%2Fg%2F1tfkhn_6?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SUBANG JAYA,"LOT NO. A6 & A7, JALAN SS15/4D,","https://www.google.com/maps/place/Jalan+SS15%2F4D,+47500+Subang+Jaya,+Selangor,+Malaysia/@3.0735805,101.5879488,17z/data=!3m1!4b1!4m10!1m2!2m1!1sLOT+NO.+A6+%26+A7,+JALAN+SS15%2F4D,!3m6!1s0x31cc4cf5faf0af45:0x1cfef6b9944cebd!8m2!3d3.0735805!4d101.5879488!15sCh9MT1QgTk8uIEE2ICYgQTcsIEpBTEFOIFNTMTUvNEQskgEFcm91dGXgAQA!16s%2Fg%2F11fmz25hh2?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SUBANG NEW VILLAGE,"NO.8A, LEBUH RAYA B, SUBANG NEW VILLAGE,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,SUNGAI BESAR,"NO. 58E, JALAN MAHSURI,",,https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,USJ,"NO. 24, JALAN USJ 10/1, USJ TAIPAN TRIANGLE,","https://www.google.com/maps/place/UOB+Branch+-+Taipan+USJ+10/@3.0478999,101.5835816,17z/data=!3m1!5s0x31cc4cc44680ce8d:0x2c654cfe26122777!4m10!1m2!2m1!1sNO.+24,+JALAN+USJ+10%2F1,+USJ+TAIPAN+TRIANGLE,!3m6!1s0x31cc4cc4ee8c5041:0x42acbe8dcb88816!8m2!3d3.0478999!4d101.5857703!15sCixOTy4gMjQsIEpBTEFOIFVTSiAxMC8xLCBVU0ogVEFJUEFOIFRSSUFOR0xFLFoqIihubyAyNCBqYWxhbiB1c2ogMTAgMSB1c2ogdGFpcGFuIHRyaWFuZ2xlkgEEYmFua5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOS05tRmlOSGxuUlJBQuABAA!16s%2Fg%2F1tfttgnh?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Selangor,USJ SENTRAL,"NO 5 & 7, JALAN USJ SENTRAL 2, USJ SENTRAL,","https://www.google.com/maps/place/No+5+%26+7,+Jalan+Usj+Sentral+2,+USJ+Sentral,+47620+Subang+Jaya,+Selangor,+Malaysia/@3.0576916,101.5947302,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4c94ebebd947:0xf9bda8194559666e!8m2!3d3.0576916!4d101.5947302!16s%2Fg%2F11rg62dkg5?entry=ttu",https://www.ambankgroup.com/eng/locator/Pages/Branch.aspx,Branches,AmBank Group,
+Local Bank,Kuala Lumpur,Bandar Tasik Permaisuri,"No. 53 & 55
+
+Jalan Danau Lumayan
+
+Pusat Perniagaan Danau Lumayan
+
+Bandar Tasik Permaisuri, Cheras
+
+56100 Kuala Lumpur","https://www.google.com/maps/place/53,+Jalan+Danau+Lumayan,+Bandar+Sri+Permaisuri,+56100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1004268,101.7152335,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+53+%26+55++Jalan+Danau+Lumayan++Pusat+Perniagaan+Danau+Lumayan++Bandar+Tasik+Permaisuri,+Cheras++56100+Kuala+Lumpur%22!3m6!1s0x31cc35f0f645a62d:0x21953bb24b599b27!8m2!3d3.1004268!4d101.7152335!15sCnciTm8uIDUzICYgNTUgIEphbGFuIERhbmF1IEx1bWF5YW4gIFB1c2F0IFBlcm5pYWdhYW4gRGFuYXUgTHVtYXlhbiAgQmFuZGFyIFRhc2lrIFBlcm1haXN1cmksIENoZXJhcyAgNTYxMDAgS3VhbGEgTHVtcHVyIpIBEGdlb2NvZGVkX2FkZHJlc3PgAQA!16s%2Fg%2F11ggrr2987?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Bandar Wawasan,"No. 4 & 6
+
+Wisma RKT
+
+Jalan Raja Abdullah
+
+50300 Kuala Lumpur",,https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Bukit Damansara,"Retail 2, 2nd Floor
+
+Menara I&P 1
+
+No. 46, Jalan Dungun
+
+Bukit Damansara
+
+50490 Kuala Lumpur","https://www.google.com/maps/place/Menara+I%26P+1/@3.1526226,101.6635424,17z/data=!4m10!1m2!2m1!1s%22Retail+2,+2nd+Floor++Menara+I%26P+1++No.+46,+Jalan+Dungun++Bukit+Damansara++50490+Kuala+Lumpur%22!3m6!1s0x31cc4854b959e72d:0x8e611b806476e671!8m2!3d3.1526226!4d101.6657311!15sCl4iUmV0YWlsIDIsIDJuZCBGbG9vciAgTWVuYXJhIEkmUCAxICBOby4gNDYsIEphbGFuIER1bmd1biAgQnVraXQgRGFtYW5zYXJhICA1MDQ5MCBLdWFsYSBMdW1wdXIikgEPYnVzaW5lc3NfY2VudGVy4AEA!16s%2Fg%2F1v_z6dws?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Jalan Tun Razak,"Ground Floor
+
+Bangunan Ibu Pejabat Tabung Haji
+
+Jalan Tun Razak
+
+Peti Surat 11590
+
+50750 Kuala Lumpur","https://www.google.com/maps/place/Lembaga+Tabung+Haji/@3.1609404,101.7183617,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Bangunan+Ibu+Pejabat+Tabung+Haji++Jalan+Tun+Razak++Peti+Surat+11590++50750+Kuala+Lumpur%22!3m6!1s0x31cc37ce4bcee135:0x940700aa12f20c85!8m2!3d3.1583463!4d101.719729!15sCmciR3JvdW5kIEZsb29yICBCYW5ndW5hbiBJYnUgUGVqYWJhdCBUYWJ1bmcgSGFqaSAgSmFsYW4gVHVuIFJhemFrICBQZXRpIFN1cmF0IDExNTkwICA1MDc1MCBLdWFsYSBMdW1wdXIiIgOIAQGSARBjb3Jwb3JhdGVfb2ZmaWNl4AEA!16s%2Fg%2F1thnl8j1?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,KL Sentral,"Ground Floor
+
+Unit No. CS/3B/G, Block 3B
+
+Plaza Sentral
+
+50474 Kuala Lumpur","https://www.google.com/maps/place/Plaza+Sentral/@3.1323673,101.68215,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Unit+No.+CS%2F3B%2FG,+Block+3B++Plaza+Sentral++50474+Kuala+Lumpur%22!3m6!1s0x31cc49c007391a6f:0x1b7dc4d9db8d294c!8m2!3d3.1323673!4d101.6843387!15sCk0iR3JvdW5kIEZsb29yICBVbml0IE5vLiBDUy8zQi9HLCBCbG9jayAzQiAgUGxhemEgU2VudHJhbCAgNTA0NzQgS3VhbGEgTHVtcHVyIpIBEGNvcnBvcmF0ZV9vZmZpY2XgAQA!16s%2Fg%2F11h_cv_g98?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Medan MARA,"Ground Floor
+
+No. 21
+
+Podium Block, Medan MARA
+
+Jalan Raja Laut
+
+P.O. Box 11698
+
+50350 Kuala Lumpur","https://www.google.com/maps/place/Medan+Mara,+21,+Jln+Raja+Laut,+Chow+Kit,+50350+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1580868,101.6952657,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22Ground+Floor++No.+21++Podium+Block,+Medan+MARA++Jalan+Raja+Laut++P.O.+Box+11698++50350+Kuala+Lumpur%22!3m6!1s0x31cc4831d9f67ca1:0xfe4308095f110e04!8m2!3d3.1580868!4d101.6952657!15sCmUiR3JvdW5kIEZsb29yICBOby4gMjEgIFBvZGl1bSBCbG9jaywgTWVkYW4gTUFSQSAgSmFsYW4gUmFqYSBMYXV0ICBQLk8uIEJveCAxMTY5OCAgNTAzNTAgS3VhbGEgTHVtcHVyIpIBEWNvbXBvdW5kX2J1aWxkaW5n4AEA!16s%2Fg%2F12hr3c04d?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Menara Bank Islam,"Ground Floor
+
+Menara Bank Islam
+
+No. 22,  Jalan Perak
+
+50450 Kuala Lumpur","https://www.google.com/maps/place/Bank+Islam+Malaysia+Berhad/@3.1531639,101.7084714,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Menara+Bank+Islam++No.+22,++Jalan+Perak++50450+Kuala+Lumpur%22!3m6!1s0x31cc37d4f185965d:0xdc87d73735364c9c!8m2!3d3.1531639!4d101.7106601!15sCksiR3JvdW5kIEZsb29yICBNZW5hcmEgQmFuayBJc2xhbSAgTm8uIDIyLCAgSmFsYW4gUGVyYWsgIDUwNDUwIEt1YWxhIEx1bXB1ciIiA4gBAZIBBGJhbmvgAQA!16s%2Fg%2F11b77q9rd3?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Menara TM,"LG1
+
+Menara Telekom
+
+Jalan Pantai Baru
+
+50672 Kuala Lumpur","https://www.google.com/maps/place/Menara+Telekom+TM+EzNet./@3.1166342,101.6667768,17z/data=!3m1!5s0x31cc49816a6058bf:0x9d9c59a0466f0211!4m10!1m2!2m1!1s%22LG1++Menara+Telekom++Jalan+Pantai+Baru++50672+Kuala+Lumpur%22!3m6!1s0x31cc499bffffffff:0xc0dad68e86184270!8m2!3d3.1161663!4d101.665866!15sCjwiTEcxICBNZW5hcmEgVGVsZWtvbSAgSmFsYW4gUGFudGFpIEJhcnUgIDUwNjcyIEt1YWxhIEx1bXB1ciKSARBjb3Jwb3JhdGVfb2ZmaWNl4AEA!16zL20vMDVnMzYy?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Selayang,"Ground Floor
+
+Lot 150A, 152A & 154A
+
+Bangunan Persatuan Nelayan Kebangsaan (NEKMAT)
+
+Jalan 2/3A, Pusat Bandar Utara
+
+KM12, Off Jalan Ipoh
+
+68100 Batu Caves
+
+Kuala Lumpur","https://www.google.com/maps/place/Persatuan+Nelayan+Kebangsaan+(Nekmat)/@3.2376758,101.6669823,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Lot+150A,+152A+%26+154A++Bangunan+Persatuan+Nelayan+Kebangsaan+(NEKMAT)++Jalan+2%2F3A,+Pusat+Bandar+Utara++KM12,+Off+Jalan+Ipoh++68100+Batu+Caves++Kuala+Lumpur%22!3m6!1s0x31cc4705c30a4d71:0x7c86eb2a8578a85e!8m2!3d3.2376758!4d101.669171!15sCqsBIkdyb3VuZCBGbG9vciAgTG90IDE1MEEsIDE1MkEgJiAxNTRBICBCYW5ndW5hbiBQZXJzYXR1YW4gTmVsYXlhbiBLZWJhbmdzYWFuIChORUtNQVQpICBKYWxhbiAyLzNBLCBQdXNhdCBCYW5kYXIgVXRhcmEgIEtNMTIsIE9mZiBKYWxhbiBJcG9oICA2ODEwMCBCYXR1IENhdmVzICBLdWFsYSBMdW1wdXIikgEPYnVzaW5lc3NfY2VudGVy4AEA!16s%2Fg%2F11byl5tm0d?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Seri Petaling,"No.1
+
+Jalan Radin Bagus
+
+Bandar Baru Seri Petaling
+
+57100 Kuala Lumpur","https://www.google.com/maps/place/1,+Jalan+Radin+Bagus,+Bandar+Baru+Sri+Petaling,+57000+Kuala+Lumpur,+Wilayah+Persekutuan,+Malaysia/@3.0703894,101.6946875,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4a8862b47343:0x829310a128753392!8m2!3d3.0703894!4d101.6946875!16s%2Fg%2F11j8pcdqsd?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Taman Melawati,"No. 254 & 255
+
+Jalan Bandar 12
+
+Taman Melawati
+
+53100 Hulu Klang
+
+Kuala Lumpur","https://www.google.com/maps/place/254,+Jalan+Bandar+12,+Taman+Melawati,+53100+Kuala+Lumpur,+Selangor,+Malaysia/@3.2097026,101.7476511,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3835f6d20fe3:0x49c0745c97aaa284!8m2!3d3.2097026!4d101.7476511?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Taman Tun Dr Ismail,"Ground Floor
+
+No. 5 & 7
+
+Jalan Wan Kadir 2
+
+60000 Kuala Lumpur","https://www.google.com/maps/place/5,+Jalan+Wan+Kadir+2,+Taman+Tun+Dr+Ismail,+60000+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1393315,101.6292007,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc493a45b019e3:0xd2716b7207f66e01!8m2!3d3.1393315!4d101.6292007?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,"UIAM, Gombak *","Lot No. AHC1-5 & AHC2-4
+
+Azman Hashim Complex
+
+International Islamic University Malaysia
+
+53100 Gombak, Kuala Lumpur","https://www.google.com/maps/place/Azman+Hashim+Complex/@3.2510584,101.7338757,17z/data=!4m10!1m2!2m1!1s%22Lot+No.+AHC1-5+%26+AHC2-4++Azman+Hashim+Complex++International+Islamic+University+Malaysia++53100+Gombak,+Kuala+Lumpur%22!3m6!1s0x31cc38c1a63c5bc9:0x80d9d67bb1c56e7b!8m2!3d3.2517992!4d101.7332214!15sCnYiTG90IE5vLiBBSEMxLTUgJiBBSEMyLTQgIEF6bWFuIEhhc2hpbSBDb21wbGV4ICBJbnRlcm5hdGlvbmFsIElzbGFtaWMgVW5pdmVyc2l0eSBNYWxheXNpYSAgNTMxMDAgR29tYmFrLCBLdWFsYSBMdW1wdXIikgEEYmFua-ABAA!16s%2Fg%2F11gbl34mq0?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Universiti Malaya,"Ground Floor
+
+Bangunan High Impact Research
+
+University Malaya
+
+Jalan Pantai Baru
+
+50603 Kuala Lumpur","https://www.google.com/maps/place/High+Impact+Research+Building/@3.1225752,101.6543588,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Bangunan+High+Impact+Research++University+Malaya++Jalan+Pantai+Baru++50603+Kuala+Lumpur%22!3m6!1s0x31cc49775f386b47:0x998cd4d67cce2eda!8m2!3d3.1225752!4d101.6565475!15sCmciR3JvdW5kIEZsb29yICBCYW5ndW5hbiBIaWdoIEltcGFjdCBSZXNlYXJjaCAgVW5pdmVyc2l0eSBNYWxheWEgIEphbGFuIFBhbnRhaSBCYXJ1ICA1MDYwMyBLdWFsYSBMdW1wdXIikgEKdW5pdmVyc2l0eeABAA!16s%2Fg%2F1tncqdb4?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Kuala Lumpur,Wangsa Maju,"15G & 17G
+
+Jalan Wangsa Delima 12
+
+Block C
+
+D’ Wangsa Link
+
+53300 Kuala Lumpur",,https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Ampang,"No. 1 & 3
+
+Jalan Pandan Prima 2
+
+Dataran Prima Ampang
+
+68000 Ampang
+
+Selangor","https://www.google.com/maps/place/1,+Jalan+Pandan+Prima+2,+Dataran+Pandan+Prima,+55100+Kuala+Lumpur,+Selangor,+Malaysia/@3.1417307,101.7418189,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc36501028f8ef:0xf27ef242fe1f58f!8m2!3d3.1417307!4d101.7418189!16s%2Fg%2F11c1z3wy_k?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Ara Damansara,"A-G-01 & A-1-01, Block A
+
+No. 2, Jalan PJU 1A/7A
+
+Ara Damansara, PJU 1A
+
+47301 Petaling Jaya
+
+Selangor","https://www.google.com/maps/place/Bank+Islam/@3.1132853,101.5755193,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4e8114a85715:0x58cadaa8d94bbb3d!8m2!3d3.1132853!4d101.5755193!16s%2Fg%2F1hc0t_5cw?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Bandar Baru Bangi,"No. 2 & 4
+
+Jalan 6C/7
+
+43650 Bandar Baru Bangi
+
+Selangor","https://www.google.com/maps/place/No.+2,+Jln+6c%2F7,+Taman+Persiaran+Bangi,+43650+Bandar+Baru+Bangi,+Selangor,+Malaysia/@2.9438811,101.7643736,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdc96fe5337265:0xe7ab529f1abca5f6!8m2!3d2.9438811!4d101.7643736!16s%2Fg%2F11nx38172v?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,"Bandar Botanic, Klang","No. 1
+
+Jalan Mahogani 5
+
+Bandar Botanic
+
+41200 Klang
+
+Selangor","https://www.google.com/maps/place/1,+Jalan+Mahogani+5,+Bandar+Botanik,+41200+Klang,+Selangor,+Malaysia/@2.9970768,101.4450424,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdac87ff24a9c5:0x55ae8c5aeecc9d7a!8m2!3d2.9970768!4d101.4450424!16s%2Fg%2F11fl7c0w4c?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Bandar Kinrara,"ZP-G-13A, ZP-G-15 & ZP-1-15
+
+Lebuhraya Bukit Jalil
+
+Bandar Kinrara 9
+
+47180 Puchong
+
+Selangor","https://www.google.com/maps/place/Bank+Islam+Bandar+Kinrara/@3.0530441,101.6520004,17z/data=!4m10!1m2!2m1!1s%22ZP-G-13A,+ZP-G-15+%26+ZP-1-15++Lebuhraya+Bukit+Jalil++Bandar+Kinrara+9++47180+Puchong++Selangor%22!3m6!1s0x31cc4b217fdc7d4b:0xa8de8d571202e602!8m2!3d3.0530441!4d101.6541891!15sCl8iWlAtRy0xM0EsIFpQLUctMTUgJiBaUC0xLTE1ICBMZWJ1aHJheWEgQnVraXQgSmFsaWwgIEJhbmRhciBLaW5yYXJhIDkgIDQ3MTgwIFB1Y2hvbmcgIFNlbGFuZ29yIpIBBGJhbmvgAQA!16s%2Fg%2F1pzs29x5g?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Banting,"No. 2 & 6
+
+Jalan Cemerlang 2
+
+Banting Business Centre
+
+42700 Banting
+
+Selangor","https://www.google.com/maps/place/2,+Jalan+Cemerlang+2,+Banting+Business+Centre,+42700+Banting,+Selangor,+Malaysia/@2.8137608,101.5078282,17z/data=!3m1!4b1!4m6!3m5!1s0x31cda4bb8ab79d3b:0x74274f26be278add!8m2!3d2.8137608!4d101.5078282!16s%2Fg%2F11jz41wz89?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Bukit Jelutong,"No. 10, D’bayu
+
+Jalan Serambi U8/24
+
+Bukit Jelutong
+
+40150 Shah Alam
+
+Selangor","https://www.google.com/maps/place/D'Bayu+Bukit+Jelutong/@3.1033785,101.52602,17z/data=!3m1!5s0x31cc4df7737bea5b:0xb1cbafad04d6973b!4m10!1m2!2m1!1s%22No.+10,+D%E2%80%99bayu++Jalan+Serambi+U8%2F24++Bukit+Jelutong++40150+Shah+Alam++Selangor%22!3m6!1s0x31cc4df77310dac3:0xccb498ecf25d716a!8m2!3d3.1033785!4d101.5282087!15sClIiTm8uIDEwLCBE4oCZYmF5dSAgSmFsYW4gU2VyYW1iaSBVOC8yNCAgQnVraXQgSmVsdXRvbmcgIDQwMTUwIFNoYWggQWxhbSAgU2VsYW5nb3IikgEPYnVzaW5lc3NfY2VudGVy4AEA!16s%2Fg%2F11c523r890?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Cyberjaya,"Suite 0-55 & 0-56
+
+4812 Central Business District Perdana 2
+
+Jalan Perdana, Cyber 12
+
+63000 Cyberjaya
+
+Selangor","https://www.google.com/maps/place/Bank+Islam+Malaysia+Berhad/@2.9248023,101.6515958,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb6f9c152b32d:0x27f9cc7c58906f75!8m2!3d2.9248023!4d101.6515958!16s%2Fg%2F1pzt4vyc8?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Denai Alam,"No. 1, Jalan Elektron E U16/E
+
+Seksyen U16, Denai Alam
+
+40160 Shah Alam, Selangor","https://www.google.com/maps/place/KK+Super+Mart+Shah+Alam,+Seksyen+U16(2)+(S162)/@3.1630817,101.5129154,17z/data=!4m10!1m2!2m1!1s%22No.+1,+Jalan+Elektron+E+U16%2FE++Seksyen+U16,+Denai+Alam++40160+Shah+Alam,+Selangor%22!3m6!1s0x31cc51460bc46f85:0xf1d54130d2b3a611!8m2!3d3.1630817!4d101.5129154!15sClMiTm8uIDEsIEphbGFuIEVsZWt0cm9uIEUgVTE2L0UgIFNla3N5ZW4gVTE2LCBEZW5haSBBbGFtICA0MDE2MCBTaGFoIEFsYW0sIFNlbGFuZ29yIpIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11rsb3k6vf?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Kajang,"No. 20 & 21
+
+Jalan Jeloh 3
+
+43000 Kajang
+
+Selangor","https://www.google.com/maps/place/Jalan+Masjid/@2.9691869,101.7497784,17z/data=!4m10!1m2!2m1!1s%22No.+20+%26+21++Jalan+Jeloh+3++43000+Kajang++Selangor%22!3m6!1s0x31cdcbaf7547b845:0xb0c56294bed678df!8m2!3d2.9691869!4d101.7519671!15sCjQiTm8uIDIwICYgMjEgIEphbGFuIEplbG9oIDMgIDQzMDAwIEthamFuZyAgU2VsYW5nb3IikgEPaG91c2luZ19zb2NpZXR54AEA!16s%2Fg%2F11v3nxxp58?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Kelana Jaya,"A-G-01
+
+Jalan SS6/5A
+
+Dataran Glomac
+
+Pusat Bandar Kelana Jaya
+
+47301 Petaling Jaya
+
+Selangor","https://www.google.com/maps/place/Bank+Islam/@3.1007829,101.6010337,17z/data=!4m10!1m2!2m1!1s%22A-G-01++Jalan+SS6%2F5A++Dataran+Glomac++Pusat+Bandar+Kelana+Jaya++47301+Petaling+Jaya++Selangor%22!3m6!1s0x31cc4c10ea464a4f:0xc378fd2f60658dd6!8m2!3d3.1018336!4d101.6002072!15sCl8iQS1HLTAxICBKYWxhbiBTUzYvNUEgIERhdGFyYW4gR2xvbWFjICBQdXNhdCBCYW5kYXIgS2VsYW5hIEpheWEgIDQ3MzAxIFBldGFsaW5nIEpheWEgIFNlbGFuZ29yIpIBA2F0beABAA!16s%2Fg%2F11cjnnkk2w?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Klang,"Lot 336
+
+Kompleks Majlis Agama Islam Selangor
+
+Section 23, Jalan Kapar
+
+41400 Klang, Selangor","https://www.google.com/maps/place/Bank+Islam/@3.0497357,101.4491498,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc53447c87bab5:0x7126caca22647e93!8m2!3d3.0497357!4d101.4491498!16s%2Fg%2F1tcytybn?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Kota Damansara,"No. 32-1
+
+Jalan PJU 5/5
+
+Dataran Sunway
+
+47810 Kota Damansara
+
+Selangor","https://www.google.com/maps/place/32-1,+Jalan+PJU+5%2F5,+Dataran+Sunway,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.152767,101.5953643,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4f2079023503:0x213140c43f15e27d!8m2!3d3.152767!4d101.5953643!16s%2Fg%2F11q2n9kjs5?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,PJ New Town,"No. 1
+
+Jalan 52/16
+
+46200 Petaling Jaya
+
+Selangor","https://www.google.com/maps/place/1,+Jalan+52%2F16,+Bandar+Baru+Petaling+Jaya,+46200+Petaling+Jaya,+Selangor,+Malaysia/@3.0990029,101.643571,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4bc3f264717d:0x54e6d33f5454b226!8m2!3d3.0990029!4d101.643571!16s%2Fg%2F11hdcgq6rb?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Putrajaya,"Unit 10-14, Aras G
+Blok B, Suasana PJH
+
+No.10, Jalan Tun Abdul Razak
+
+Presint 2
+
+62100 Wilayah Persekutuan
+
+Putrajaya","https://www.google.com/maps/place/Suasana+PjH/@2.9255473,101.6871185,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb7bb9444b625:0x525bdfb5eb4f0dfb!8m2!3d2.9255473!4d101.6871185!16s%2Fg%2F11g3xm0msz?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Putra Heights,"No. 42A
+
+Jalan Putra Mahkota 7/7A
+
+Putra Point Business Centre
+
+47650 Putra Heights, Subang Jaya
+
+Selangor","https://www.google.com/maps/place/42a,+Jalan+Putra+Mahkota+7%2F7a,+Putra+Heights,+47650+Subang+Jaya,+Selangor,+Malaysia/@2.9943865,101.5750861,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+42A++Jalan+Putra+Mahkota+7%2F7A++Putra+Point+Business+Centre++47650+Putra+Heights,+Subang+Jaya++Selangor%22!3m6!1s0x31cdb3aa17cb13a1:0xd3830e99884e577f!8m2!3d2.9943865!4d101.5750861!15sCmwiTm8uIDQyQSAgSmFsYW4gUHV0cmEgTWFoa290YSA3LzdBICBQdXRyYSBQb2ludCBCdXNpbmVzcyBDZW50cmUgIDQ3NjUwIFB1dHJhIEhlaWdodHMsIFN1YmFuZyBKYXlhICBTZWxhbmdvciKSARBnZW9jb2RlZF9hZGRyZXNz4AEA!16s%2Fg%2F11f5k1yzfr?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Rawang,"No. 1
+
+Jalan Bandar Rawang 12
+
+Bandar Baru Rawang
+
+48000 Rawang
+
+Selangor","https://www.google.com/maps/place/1,+Jalan+Bandar+Rawang+12,+Bandar+Baru,+48000+Rawang,+Selangor,+Malaysia/@3.318933,101.5757212,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+1++Jalan+Bandar+Rawang+12++Bandar+Baru+Rawang++48000+Rawang++Selangor%22!3m6!1s0x31cc4257338dda0d:0x1197d45207809b5a!8m2!3d3.318933!4d101.5757212!15sCksiTm8uIDEgIEphbGFuIEJhbmRhciBSYXdhbmcgMTIgIEJhbmRhciBCYXJ1IFJhd2FuZyAgNDgwMDAgUmF3YW5nICBTZWxhbmdvciKSAQpzdWJwcmVtaXNl4AEA!16s%2Fg%2F11t52g3_qy?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Saujana Utama,"No. 1G, 2G & 36G
+
+SU Mall
+
+47000 Bandar Saujana Utama
+
+Selangor","https://www.google.com/maps/place/Su+Mall,+Saujana+Utama,+47000+Sungai+Buloh,+Selangor,+Malaysia/@3.2027226,101.4856522,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+1G,+2G+%26+36G++SU+Mall++47000+Bandar+Saujana+Utama++Selangor%22!3m6!1s0x31cc5a85fad19f77:0xb8498aca21259e40!8m2!3d3.2027226!4d101.4856522!15sCkEiTm8uIDFHLCAyRyAmIDM2RyAgU1UgTWFsbCAgNDcwMDAgQmFuZGFyIFNhdWphbmEgVXRhbWEgIFNlbGFuZ29yIpIBEWNvbXBvdW5kX2J1aWxkaW5n4AEA!16s%2Fg%2F12hqnk_dk?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,"Section 14, Petaling Jaya","Ground & First Floor
+
+No. 2 & 4
+
+Jalan 14/22, Section 14
+
+46100 Petaling Jaya
+
+Selangor","https://www.google.com/maps/place/Bank+Islam/@3.111828,101.6337628,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4be1ec30e9b7:0x9daa580b3d56488f!8m2!3d3.111828!4d101.6337628!16s%2Fg%2F11bbrhz4cx?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,"Section 18, Shah Alam","No. 18 & 20
+
+Jalan Pinang G 18/G
+
+Section 18
+
+40200 Shah Alam
+
+Selangor","https://www.google.com/maps/place/18,+Jalan+Pinang+G+18%2FG,+Seksyen+18,+40200+Shah+Alam,+Selangor,+Malaysia/@3.045283,101.5157828,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc52af8256cd81:0x97947eba00907d06!8m2!3d3.045283!4d101.5157828?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Semenyih,"No. 2
+
+Jalan TPS 1/4
+
+Taman Pelangi Semenyih
+
+43500 Semenyih
+
+Selangor","https://www.google.com/maps/place/2,+Jalan+Tps+1%2F4,+Taman+Pelangi+Semenyih,+43500+Semenyih,+Selangor,+Malaysia/@2.9294155,101.8566737,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdce43661f12ff:0x725f17b04e731201!8m2!3d2.9294155!4d101.8566737!16s%2Fg%2F11j8pcdybk?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Setia Alam,"Lot 106 & 106-1 & 108
+
+Jalan Setia Gemilang, BJ/U13
+
+Setia Alam, Section U13
+
+40170 Shah Alam
+
+Selangor","https://www.google.com/maps/place/Bank+Islam/@3.1259979,101.4710734,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc517092813d7f:0xbea59420fda2f52!8m2!3d3.1259979!4d101.4710734!16s%2Fg%2F11b_06wm63?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Shah Alam,"Ground Floor
+
+Wisma PKPS, Section 14
+
+Persiaran Perbandaran
+
+40675 Shah Alam
+
+Selangor",,https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Sri Gombak,"Lot No. 120 & 121
+
+Jalan Prima SG 5
+
+Prima Sri Gombak
+
+68100 Batu Caves
+
+Selangor","https://www.google.com/maps/place/120,+Jalan+Prima+SG+5,+Prima+Seri+Gombak,+68100+Batu+Caves,+Selangor,+Malaysia/@3.2365944,101.7001665,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc477b93be7a1f:0xa57e761a63f00614!8m2!3d3.2365944!4d101.7001665!16s%2Fg%2F11h4cxfm92?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Subang Jaya,"Ground Floor, No. 56A
+
+Jalan USJ 10/1F
+
+Pusat Perniagaan USJ 10
+
+47610 UEP Subang Jaya
+
+Selangor","https://www.google.com/maps/place/Bank+Islam+Subang+Jaya/@3.034021,101.5859226,13z/data=!4m10!1m2!2m1!1s%22Ground+Floor,+No.+56A++Jalan+USJ+10%2F1F++Pusat+Perniagaan+USJ+10++47610+UEP+Subang+Jaya++Selangor%22!3m6!1s0x31cc4cc4708a94db:0x2fef1b62a8af647c!8m2!3d3.0472115!4d101.5836483!15sCmIiR3JvdW5kIEZsb29yLCBOby4gNTZBICBKYWxhbiBVU0ogMTAvMUYgIFB1c2F0IFBlcm5pYWdhYW4gVVNKIDEwICA0NzYxMCBVRVAgU3ViYW5nIEpheWEgIFNlbGFuZ29yIpIBBGJhbmvgAQA!16s%2Fg%2F1tj5hnkk?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Sungai Besar,"No. 1 & 3
+
+Jalan SBBC 1
+
+Sungai Besar Business Centre
+
+45300 Sungai Besar
+
+Selangor","https://www.google.com/maps/place/Sbbc+Internet+Cafe/@3.6727379,100.9870468,17z/data=!4m10!1m2!2m1!1s%22No.+1+%26+3++Jalan+SBBC+1++Sungai+Besar+Business+Centre++45300+Sungai+Besar++Selangor%22!3m6!1s0x31cc9ffd007dab35:0xe068327de7c59d13!8m2!3d3.6727379!4d100.9892355!15sClUiTm8uIDEgJiAzICBKYWxhbiBTQkJDIDEgIFN1bmdhaSBCZXNhciBCdXNpbmVzcyBDZW50cmUgIDQ1MzAwIFN1bmdhaSBCZXNhciAgU2VsYW5nb3IikgENaW50ZXJuZXRfY2FmZeABAA!16s%2Fg%2F11j133plcf?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Sungai Buloh,"69-G, 69-1& 71-G
+
+Jalan Nautika A U20/A
+
+Seksyen U20, Pusat Komersial TSB
+
+40160 Sungai Buloh
+
+Selangor",,https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,Tanjung Karang,"Ground Floor, Lot 342
+
+Bangunan Tabung Haji
+
+45500 Tanjung Karang
+
+Selangor","https://www.google.com/maps/place/Pejabat+Cawangan+Tabung+Haji+Tanjong+Karang/@3.4252997,101.1738966,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor,+Lot+342++Bangunan+Tabung+Haji++45500+Tanjung+Karang++Selangor%22!3m6!1s0x31cc8de41656a223:0x497cb35206c5d0e8!8m2!3d3.4252997!4d101.1760853!15sCk0iR3JvdW5kIEZsb29yLCBMb3QgMzQyICBCYW5ndW5hbiBUYWJ1bmcgSGFqaSAgNDU1MDAgVGFuanVuZyBLYXJhbmcgIFNlbGFuZ29yIiIDiAEBkgEEYmFua-ABAA!16s%2Fg%2F1pzs6jzms?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,UiTM Shah Alam,"Ground Floor
+
+Bangunan Prima Siswa
+
+Universiti Teknologi MARA
+
+40450 Shah Alam
+
+Selangor","https://www.google.com/maps/place/Kompleks+Prima+Siswa/@3.0695088,101.4958258,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor++Bangunan+Prima+Siswa++Universiti+Teknologi+MARA++40450+Shah+Alam++Selangor%22!3m6!1s0x31cc53ac5befaa23:0xde0c3d2c088cc70!8m2!3d3.0695088!4d101.4980145!15sCloiR3JvdW5kIEZsb29yICBCYW5ndW5hbiBQcmltYSBTaXN3YSAgVW5pdmVyc2l0aSBUZWtub2xvZ2kgTUFSQSAgNDA0NTAgU2hhaCBBbGFtICBTZWxhbmdvciIiA4gBAZIBEXN0dWRlbnRfZG9ybWl0b3J54AEA!16s%2Fg%2F11jnx6br49?entry=ttu",https://www.bankislam.com/need-assistance/branch-locator/,Branches,Bank Islam,
+Local Bank,Selangor,PETALING JAYA,"No. 80 & 82, Jalan Othman (1/14), 46000 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@3.0866485,101.647012,17z/data=!4m10!1m2!2m1!1sNo.+80+%26+82,+Jalan+Othman+(1%2F14),+46000+Petaling+Jaya,+Selangor+Darul+Ehsan!3m6!1s0x31cc4bba46fbdead:0xa5616fee36d69539!8m2!3d3.086582!4d101.647949!15sCktOby4gODAgJiA4MiwgSmFsYW4gT3RobWFuICgxLzE0KSwgNDYwMDAgUGV0YWxpbmcgSmF5YSwgU2VsYW5nb3IgRGFydWwgRWhzYW5aRyJFbm8gODAgJiA4MiBqYWxhbiBvdGhtYW4gMSAxNCA0NjAwMCBwZXRhbGluZyBqYXlhIHNlbGFuZ29yIGRhcnVsIGVoc2FukgEEYmFua5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ2JWOWhlbEJCRUFF4AEA!16s%2Fg%2F1tj82c3g?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SHAH ALAM,"No. 3, Jalan Takal 15/21, Seksyen 15, 40000 Shah Alam, Selangor Darul Ehsan","https://www.google.com/maps/place/3,+Jalan+Takal+15%2F21,+Seksyen+15,+40200+Shah+Alam,+Selangor,+Malaysia/@3.064294,101.5384151,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4d6fd0e854ad:0x49dedc61612167df!8m2!3d3.064294!4d101.5384151!16s%2Fg%2F11k1hkdg_d?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,RAWANG,"No. 59A, Jalan Welman, 48000 Rawang, Selangor Darul Ehsan","https://www.google.com/maps/place/59a,+Jln+Welman,+Kuala+Garing,+48000+Rawang,+Selangor,+Malaysia/@3.32079,101.5748651,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4259e1507a05:0xcf101a481fe3c02a!8m2!3d3.32079!4d101.5748651!16s%2Fg%2F11dzw639tq?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,KLANG,"Wisma Meru, No. 1, Lintang Pekan Baru, Off Jalan Meru, 41050 Klang, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank+-+Trade+Finance/@3.0647406,101.4520743,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc536dec63a9c7:0x3e8ebbee3a14f5b6!8m2!3d3.0647406!4d101.4520743!16s%2Fg%2F1tp1w9wx?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BANTING,"No. 119 & 121, Jalan Sultan Abdul Samad, 42700 Banting, Selangor Darul Ehsan.","https://www.google.com/maps/place/119,+Jalan+Sultan+Abdul+Samad,+Banting,+42700+Banting,+Selangor,+Malaysia/@2.8138048,101.5052861,17z/data=!3m1!4b1!4m5!3m4!1s0x31cda4bc342b000d:0x1fdd7fbae3583ca5!8m2!3d2.8138048!4d101.5052861?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,KUALA SELANGOR,"No. 64, Jalan Stesen, 45000 Kuala Selangor, Selangor Darul Ehsan","https://www.google.com/maps/place/64,+Jalan+Stesen,+45000+Kuala+Selangor,+Selangor,+Malaysia/@3.3408913,101.2496058,17z/data=!3m1!4b1!4m6!3m5!1s0x31ccf358e28e418d:0x1c727a77df68e3d5!8m2!3d3.3408913!4d101.2496058!16s%2Fg%2F11fq_v3z89?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SUBANG JAYA,"W-1-0, W-2-0 & W-1-1, Subang Square Business Centre, Jalan SS15/4G, 47500 Subang Jaya, Selangor Darul Ehsan",,https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,AMPANG,"No. 91, Lorong Memanda 1, Ampang Point, 68000 Ampang, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank+-+SME+Banking/@3.1589047,101.7489237,17z/data=!4m10!1m2!2m1!1sNo.+91,+Lorong+Memanda+1,+Ampang+Point,+68000+Ampang,+Selangor+Darul+Ehsan!3m6!1s0x31cc37a839c70eed:0x685ee91b700a1f39!8m2!3d3.1589047!4d101.7511124!15sCkpOby4gOTEsIExvcm9uZyBNZW1hbmRhIDEsIEFtcGFuZyBQb2ludCwgNjgwMDAgQW1wYW5nLCBTZWxhbmdvciBEYXJ1bCBFaHNhbpIBBGJhbmvgAQA!16s%2Fg%2F1tfd9zc_?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PUCHONG,"No. 2, Jalan Kinrara, Taman Kinrara, Jalan Puchong, 47100 Selangor Darul Ehsan","https://www.google.com/maps/place/2,+Jln+Kinrara,+Taman+Kinrara,+47180+Puchong,+Selangor,+Malaysia/@3.066223,101.650144,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4b0581240a1b:0x2a3b09ed3e193228!8m2!3d3.066223!4d101.650144!16s%2Fg%2F11c22z1ngg?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BALAKONG,"No. 24, Medan Taming 2, Taman Taming Jaya, 43300 Balakong, Selangor Darul Ehsan.","https://www.google.com/maps/place/24,+Medan+Taming+Sari+2,+Taman+Taming+Jaya,+43300+Seri+Kembangan,+Selangor,+Malaysia/@3.0238079,101.7413134,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdcad01e617da1:0x9aa6c41778b4b358!8m2!3d3.0238079!4d101.7413134!16s%2Fg%2F11hcj31byw?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BANDAR SUNWAY,"No. 12 & 14, Jalan PJS 11/28A, Metro Bandar Sunway, Bandar Sunway, 46150 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank+-+Safe+Deposit+Boxes/@3.0734919,101.6052926,16z/data=!4m10!1m2!2m1!1sNo.+12+%26+14,+Jalan+PJS+11%2F28A,+Metro+Bandar+Sunway,+Bandar+Sunway,+46150+Petaling+Jaya,+Selangor+Darul+Ehsan!3m6!1s0x31cc4c80adc4aac1:0x247b1167be6e056!8m2!3d3.0731816!4d101.6104705!15sCmxOby4gMTIgJiAxNCwgSmFsYW4gUEpTIDExLzI4QSwgTWV0cm8gQmFuZGFyIFN1bndheSwgQmFuZGFyIFN1bndheSwgNDYxNTAgUGV0YWxpbmcgSmF5YSwgU2VsYW5nb3IgRGFydWwgRWhzYW5aaCJmbm8gMTIgJiAxNCBqYWxhbiBwanMgMTEgMjhhIG1ldHJvIGJhbmRhciBzdW53YXkgYmFuZGFyIHN1bndheSA0NjE1MCBwZXRhbGluZyBqYXlhIHNlbGFuZ29yIGRhcnVsIGVoc2FukgEEYmFua5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOQ2EyVjZTazVCRUFF4AEA!16s%2Fg%2F1wk49kvv?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SRI ANDALAS,"No. 1 & 3, Jalan Sri Sarawak 17, Taman Sri Andalas, 41200 Klang, Selangor Darul Ehsan","https://www.google.com/maps/place/1,+Jalan+Sri+Sarawak+17,+Taman+Sri+Andalas,+41200+Klang,+Selangor,+Malaysia/@3.015837,101.442649,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdac986307c095:0x69455118838f94c8!8m2!3d3.015837!4d101.442649!16s%2Fg%2F11sk8nq9qt?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,KAJANG,"No. 11 & 13, Jalan M/J 1, Taman Majlis Jaya, Jalan Sungai Chua, 43000 Kajang, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@2.9899989,101.7739326,17z/data=!4m10!1m2!2m1!1sNo.+11+%26+13,+Jalan+M%2FJ+1,+Taman+Majlis+Jaya,+Jalan+Sungai+Chua,+43000+Kajang,+Selangor+Darul+Ehsan!3m6!1s0x31cdcb9f10546ead:0x7d86db05b4bafe8a!8m2!3d2.9899989!4d101.7761213!15sCmJOby4gMTEgJiAxMywgSmFsYW4gTS9KIDEsIFRhbWFuIE1hamxpcyBKYXlhLCBKYWxhbiBTdW5nYWkgQ2h1YSwgNDMwMDAgS2FqYW5nLCBTZWxhbmdvciBEYXJ1bCBFaHNhblpeIlxubyAxMSAmIDEzIGphbGFuIG0gaiAxIHRhbWFuIG1hamxpcyBqYXlhIGphbGFuIHN1bmdhaSBjaHVhIDQzMDAwIGthamFuZyBzZWxhbmdvciBkYXJ1bCBlaHNhbpIBBGJhbmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlNPVFZoV1doblJSQULgAQA!16s%2Fg%2F1tfrjvnl?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,TANJUNG SEPAT,"No. 174 & 174A, Jalan Besar, 42800 Tanjung Sepat, Kuala Langat, Selangor Darul Ehsan","https://www.google.com/maps/place/174,+Jalan+Besar,+Pekan+Tanjung+Sepat,+42800+Tanjong+Sepat,+Selangor,+Malaysia/@2.6617351,101.5585779,17z/data=!3m1!4b1!4m5!3m4!1s0x31cd973d3322a837:0x745dad7fffd51d16!8m2!3d2.6617351!4d101.5585779?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PARAMOUNT GARDEN,"No. 18 & 20, Jalan 20/16A, Taman Paramount, 46300 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/No.+18+%26+20,+Jalan+20%2F16a,+Taman+Paramount,+46300+Petaling+Jaya,+Selangor,+Malaysia/@3.1070465,101.6248665,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4bfb722ea65b:0x49ee91a7b8352c02!8m2!3d3.1070465!4d101.6248665!16s%2Fg%2F11q2njbssq?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SEKINCHAN,"No.15 & 16 Jalan Menteri Besar 2, New Sekinchan Business Centre, 45400 Sekinchan, Selangor Darul Ehsan","https://www.google.com/maps/place/15,+Jalan+Menteri+Besar+2,+Pekan+Sekinchan,+45400+Sekinchan,+Selangor,+Malaysia/@3.5075872,101.1028303,17z/data=!3m1!4b1!4m9!1m2!2m1!1sNo.15+%26+16+Jalan+Menteri+Besar+2,+New+Sekinchan+Business+Centre,+45400+Sekinchan,+Selangor+Darul+Ehsan!3m5!1s0x31cc909b06d06ce7:0x12afe7385d42cae0!8m2!3d3.5075872!4d101.1028303!15sCmZOby4xNSAmIDE2IEphbGFuIE1lbnRlcmkgQmVzYXIgMiwgTmV3IFNla2luY2hhbiBCdXNpbmVzcyBDZW50cmUsIDQ1NDAwIFNla2luY2hhbiwgU2VsYW5nb3IgRGFydWwgRWhzYW6SARBnZW9jb2RlZF9hZGRyZXNz4AEA?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,TAMAN SENTOSA KLANG,"No.36,Jalan Dato Shahbudin 30, Taman Sentosa, 41200 Klang, Selangor Darul Ehsan.","https://www.google.com/maps/place/36,+Jln+Dato+Yusuf+Shahbudin+30,+Taman+Sentosa,+41200+Klang,+Selangor,+Malaysia/@3.0094522,101.4708977,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdace452ca76e3:0xfd7728cc21d7bdd3!8m2!3d3.0094522!4d101.4708977!16s%2Fg%2F11g0zthwsr?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SELAYANG,"No.39 & 41, Jalan SJ 17, Taman Selayang Jaya, 68100 Batu Caves, Selangor Darul Ehsan.","https://www.google.com/maps/place/39,+Jalan+SJ+17,+Taman+Selayang+Jaya,+68100+Batu+Caves,+Selangor,+Malaysia/@3.2378229,101.6505801,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc46fa7c4ef9f5:0x75084fcdbd2c5eae!8m2!3d3.2378229!4d101.6505801?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,TELUK PULAI,"No. 169, Jalan Teluk Pulai, 41100 Klang, Selangor Darul Ehsan","https://www.google.com/maps/place/169,+Jalan+Teluk+Pulai,+Taman+Teluk+Pulai,+41100+Klang,+Selangor,+Malaysia/@3.042068,101.4270949,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc54aebc8ac47f:0xd69cb8690e23121d!8m2!3d3.042068!4d101.4270949!16s%2Fg%2F11c2b48xq8?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BANDAR BARU AMPANG,"No. 1G-3G, Jalan Wawasan 2/10, Bandar Baru Ampang, 68000 Ampang, Selangor Darul Ehsan.","https://www.google.com/maps/place/1,+Jalan+Wawasan+2%2F10,+Bandar+Baru+Ampang,+68000+Ampang,+Selangor,+Malaysia/@3.1466385,101.7666338,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc36e39d9e075f:0x5313b9ce46317dd3!8m2!3d3.1466385!4d101.7666338?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,DAMANSARA UTAMA,"No 25-29G, Jalan SS 21/60, 47400 Damansara Utama, Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/25-29G,+Jalan+SS+21%2F60,+Damansara+Utama,+47400+Petaling+Jaya,+Selangor,+Malaysia/@3.132859,101.6231535,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc49362169e117:0xbb76e5ac04597ec0!8m2!3d3.132859!4d101.6231535!16s%2Fg%2F11q2n7hbxc?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SRI GOMBAK,"No. G-16, 1-16 & 2-16 & G-17, 1-17 & 2-17, Jalan Prima SG1, Taman Prima Sri Gombak, 68100 Batu Caves, Selangor Darul Ehsan.",,https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"TAMAN SRI TANMING, CHERAS","No. 1&3, Jalan Seri Taming 1F, Taman Seri Taming, Batu 9, 43200 Cheras, Selangor Darul Ehsan","https://www.google.com/maps/place/1,+Jalan+Seri+Taming+1f,+Taman+Seri+Taming,+43200+Cheras,+Selangor,+Malaysia/@3.0546329,101.7506278,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc351fb6b14a9f:0x4551221a5a31ad9!8m2!3d3.0546329!4d101.7506278!16s%2Fg%2F11t2y72c0w?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"TAMAN PUTRA, AMPANG","No. 7 & 9, Jalan Bunga Tanjong 6A, Taman Putra, 68000 Ampang, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank+-+Safe+Deposit+Boxes/@3.1211311,101.7611529,17z/data=!4m10!1m2!2m1!1sNo.+7+%26+9,+Jalan+Bunga+Tanjong+6A,+Taman+Putra,+68000+Ampang,+Selangor+Darul+Ehsan!3m6!1s0x31cc36856199f70f:0x2e74acd385cd02!8m2!3d3.1211726!4d101.7620716!15sClJOby4gNyAmIDksIEphbGFuIEJ1bmdhIFRhbmpvbmcgNkEsIFRhbWFuIFB1dHJhLCA2ODAwMCBBbXBhbmcsIFNlbGFuZ29yIERhcnVsIEVoc2FukgEEYmFua-ABAA!16s%2Fg%2F1tf5h471?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PETALING JAYA 14,"No 22 & 24 Jalan 14/14, 46100 Petaling Jaya, Selangor","https://www.google.com/maps/place/22,+Jalan+14%2F14,+Seksyen+14,+46100+Petaling+Jaya,+Selangor,+Malaysia/@3.1102667,101.636285,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4be056e6c5a9:0xba8433f36b6bb2b!8m2!3d3.1102667!4d101.636285?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BATU CAVES,"Wisma Keringat 2, No. 17, Lorong Batu Caves 2, 68100 Batu Caves, Selangor Darul Ehsan.","https://www.google.com/maps/place/2,+17,+Lorong+Batu+Caves+2,+Medan+Batu+Caves,+68100+Batu+Caves,+Selangor,+Malaysia/@3.2345721,101.6733789,17z/data=!3m1!4b1!4m9!1m2!2m1!1sWisma+Keringat+2,+No.+17,+Lorong+Batu+Caves+2,+68100+Batu+Caves,+Selangor+Darul+Ehsan.!3m5!1s0x31cc4708a4ad6e37:0x6bbfc752bf71937a!8m2!3d3.2345721!4d101.6733789!15sClZXaXNtYSBLZXJpbmdhdCAyLCBOby4gMTcsIExvcm9uZyBCYXR1IENhdmVzIDIsIDY4MTAwIEJhdHUgQ2F2ZXMsIFNlbGFuZ29yIERhcnVsIEVoc2FuLpIBEGNvbXBvdW5kX3NlY3Rpb27gAQA?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PJ CITY,"Ground Floor, Tower A PJ City Development 15A, Jalan 219, Section 51A, 46100 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@3.089643,101.6283633,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4b926bb331a5:0xaa286c55a293ca0d!8m2!3d3.089643!4d101.6283633!16s%2Fg%2F1hc2nflvp?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PUCHONG PRIMA,"No. E-01-07 & E-01-08, Jalan Puchong Prima 5/3, Puchong Prima, 47100 Puchong, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@2.9999907,101.5949614,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb3749c8e6a8f:0x3d6fba08bc0d2ee5!8m2!3d2.9999907!4d101.5949614!16s%2Fg%2F1tpg_78c?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,SUNGAI BULOH NEW VILLAGE,"No. 30, Jalan Public, Sungai Buloh New Village, 47000 Sungai Buloh, Selangor Darul Ehsan.","https://www.google.com/maps/place/Hong+Leong+Bank/@3.1980676,101.5506702,14z/data=!4m10!1m2!2m1!1sNo.+30,+Jalan+Public,+Sungai+Buloh+New+Village,+47000+Sungai+Buloh,+Selangor+Darul+Ehsan.!3m6!1s0x31cc4578d3ba65e3:0x94a39cb4ef69d2c0!8m2!3d3.1980676!4d101.5681797!15sCllOby4gMzAsIEphbGFuIFB1YmxpYywgU3VuZ2FpIEJ1bG9oIE5ldyBWaWxsYWdlLCA0NzAwMCBTdW5nYWkgQnVsb2gsIFNlbGFuZ29yIERhcnVsIEVoc2FuLpIBBGJhbmvgAQA!16s%2Fg%2F1tnphhmz?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"BUKIT RAHMAN PUTRA, SUNGAI BULOH","No. 64, Jalan BRP 1/2, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor Darul Ehsan.","https://www.google.com/maps/place/64,+Jalan+BRP+1%2F2,+Bukit+Rahman+Putra,+47000+Sungai+Buloh,+Selangor,+Malaysia/@3.2114667,101.5620263,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4573261f15f1:0xf342a9d6647ee9cd!8m2!3d3.2114667!4d101.5620263!16s%2Fg%2F11c290p56k?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"JALAN BESAR, SERI KEMBANGAN","No. 5 & 7 Jalan Besar Susur 1, 43300 Seri Kembangan, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@3.0210384,101.6960314,15z/data=!4m10!1m2!2m1!1sNo.+5+%26+7+Jalan+Besar+Susur+1,+43300+Seri+Kembangan,+Selangor+Darul+Ehsan!3m6!1s0x31cdb558f7be24c5:0xae886a0d0ffda200!8m2!3d3.0210384!4d101.7047861!15sCklOby4gNSAmIDcgSmFsYW4gQmVzYXIgU3VzdXIgMSwgNDMzMDAgU2VyaSBLZW1iYW5nYW4sIFNlbGFuZ29yIERhcnVsIEVoc2FuWkgiRm5vIDUgJiA3IGphbGFuIGJlc2FyIHN1c3VyIDEgNDMzMDAgc2VyaSBrZW1iYW5nYW4gc2VsYW5nb3IgZGFydWwgZWhzYW6SAQRiYW5rmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVEyTjJWWGFERlJSUkFC4AEA!16s%2Fg%2F11cltrzcxn?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"SEKSYEN 3, BANDAR SEMENYIH","No. 7 & 9, Jalan Pasar Baru 2, Seksyen 3, Bandar Semenyih, 43500 Semenyih, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@2.9479399,101.8465164,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdce7c2cbe9a1d:0xe430c9d62293c9d2!8m2!3d2.9479399!4d101.8465164!16s%2Fg%2F1tdl3n9y?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"No. 2, Jalan Puteri 2/4, Bandar Puteri, 47100 Puchong, Selangor Darul Ehsan.","https://www.google.com/maps/place/2,+Jalan+Puteri+2%2F4,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.021825,101.6151158,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb3588608b5bb:0x5fc5d05b3f41e825!8m2!3d3.021825!4d101.6151158!16s%2Fg%2F11sk8n7z61?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,BANDAR MAHKOTA CHERAS,"No. 1, Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor Darul Ehsan.","https://www.google.com/maps/place/1,+Jalan+Temenggung+21%2F9,+Bandar+Mahkota+Cheras,+43200+Cheras,+Selangor,+Malaysia/@3.0539823,101.7866379,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc349787bd9465:0x626bd4e22028426c!8m2!3d3.0539823!4d101.7866379!16s%2Fg%2F11gl1mrwtf?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,TAMAN INDUSTRI SUNGAI BULOH,"51 & 53, Jalan TSB 10A, Taman Industri Sungai Buloh, 47000 Sungai Buloh, Selangor Darul Ehsan.","https://www.google.com/maps/place/51+%26+53,+Jalan+TSB+10A,+Taman+Industri+Sungai+Buloh,+47810+Sungai+Buloh,+Selangor,+Malaysia/@3.1667221,101.5697378,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4fa75c80d52d:0x8dd41f1b80219ad3!8m2!3d3.1667221!4d101.5697378!16s%2Fg%2F11sszd2dh5?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,"DATARAN SUNWAY, SELANGOR","No. 2, Jalan PJU 5/8, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor Darul Ehsan.","https://www.google.com/maps/place/2,+Jalan+PJU+5%2F8,+Dataran+Sunway,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.150128,101.592596,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4ee087430539:0xa4e3b14dfdcae602!8m2!3d3.150128!4d101.592596!16s%2Fg%2F11csp3jlyr?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Branches,Hong Leong Bank,
+Local Bank,Selangor,PETALING JAYA,"No. 80 & 82, Jalan Othman (1/14), 46000 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank/@3.0866485,101.647012,17z/data=!4m10!1m2!2m1!1sNo.+80+%26+82,+Jalan+Othman+(1%2F14),+46000+Petaling+Jaya,+Selangor+Darul+Ehsan!3m6!1s0x31cc4bba46fbdead:0xa5616fee36d69539!8m2!3d3.086582!4d101.647949!15sCktOby4gODAgJiA4MiwgSmFsYW4gT3RobWFuICgxLzE0KSwgNDYwMDAgUGV0YWxpbmcgSmF5YSwgU2VsYW5nb3IgRGFydWwgRWhzYW6SAQRiYW5r4AEA!16s%2Fg%2F1tj82c3g?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Priority Banking Centre,Hong Leong Bank,
+Local Bank,Selangor,KLANG,"Wisma Meru, No. 1, Lintang Pekan Baru, Off Jalan Meru, 41050 Klang, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Bank+-+Trade+Finance/@3.0647406,101.4520743,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc536dec63a9c7:0x3e8ebbee3a14f5b6!8m2!3d3.0647406!4d101.4520743!16s%2Fg%2F1tp1w9wx?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Priority Banking Centre,Hong Leong Bank,
+Local Bank,Selangor,BANDAR PUTERI PUCHONG,"No. 2, Jalan Puteri 2/4, Bandar Puteri, 47100 Puchong, Selangor Darul Ehsan.","https://www.google.com/maps/place/2,+Jalan+Puteri+2%2F4,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.021825,101.6151158,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb3588608b5bb:0x5fc5d05b3f41e825!8m2!3d3.021825!4d101.6151158!16s%2Fg%2F11sk8n7z61?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Priority Banking Centre,Hong Leong Bank,
+Local Bank,Selangor,"DATARAN SUNWAY, SELANGOR","No. 2, Jalan PJU 5/8, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor Darul Ehsan.","https://www.google.com/maps/place/2,+Jalan+PJU+5%2F8,+Dataran+Sunway,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.150128,101.592596,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4ee087430539:0xa4e3b14dfdcae602!8m2!3d3.150128!4d101.592596!16s%2Fg%2F11csp3jlyr?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Priority Banking Centre,Hong Leong Bank,
+Local Bank,Selangor,"JALAN KAPAR, KLANG","26-32, Jalan Kapar, 41400 Klang, Selangor Darul Ehsan.","https://www.google.com/maps/place/No.+26,+32,+Jalan+Kapar,+Kawasan+18,+41400+Klang,+Selangor,+Malaysia/@3.0510706,101.4481686,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc5343803060d1:0x4368120b8ff488f0!8m2!3d3.0510706!4d101.4481686!16s%2Fg%2F11nnl032q6?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,Priority Banking Centre,Hong Leong Bank,
+Local Bank,Selangor,Sunway Pyramid,"LG One & 1st Floor. No. 3, PJS 11/5, Bandar Sunway, 46150 Petaling Jaya.","https://www.google.com/maps/place/3,+Jalan+PJS+11%2F5,+Bandar+Sunway,+47500+Petaling+Jaya,+Selangor,+Malaysia/@3.0655269,101.6017492,17z/data=!3m1!4b1!4m9!1m2!2m1!1sLG+One+%26+1st+Floor.+No.+3,+PJS+11%2F5,+Bandar+Sunway,+46150+Petaling+Jaya.!3m5!1s0x31cc4c8faba32de3:0x87029d77373fdcf2!8m2!3d3.0655269!4d101.6017492!15sCkhMRyBPbmUgJiAxc3QgRmxvb3IuIE5vLiAzLCBQSlMgMTEvNSwgQmFuZGFyIFN1bndheSwgNDYxNTAgUGV0YWxpbmcgSmF5YS6SARBnZW9jb2RlZF9hZGRyZXNz4AEA?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Shell Damansara,"SH Damansara Jaya, Zarahim Enterprise, No 1, Jalan SS23/8, Damansara Jaya, 47400 Petaling Jaya, Selangor",,https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Top Glove,"Top Glove new hostel at Zone 8, Lot 4956 Jalan Teratai/KU8, Kawasan Perindustrian Meru Timur, 41050 Klang,  Selangor.",,https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Star Avenue Lifestyle Mall,"No. 3, Jalan Zuhal U5/177, Bandar Pinggiran Subang, 40150 Shah Alam, Selangor","https://www.google.com/maps/place/3,+Jln+Zuhal+U5%2F177,+Subang+2,+40150+Shah+Alam,+Selangor,+Malaysia/@3.1583386,101.5524047,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4fb6a6796ceb:0x7f6a1333d25fe00b!8m2!3d3.1583386!4d101.5524047!16s%2Fg%2F11c21_cy0j?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Hong Leong Yamaha Motor Sdn Bhd,"Hong Leong Yamaha Motor Sdn Bhd, Lot 57, Persiaran Bukit Rahman Putra 3, Sungai Buloh, 47000, Sungai Buloh, Selangor Darul Ehsan","https://www.google.com/maps/place/Hong+Leong+Yamaha+Motor+Sdn.+Bhd./@3.2295381,101.5603684,16z/data=!4m10!1m2!2m1!1sHong+Leong+Yamaha+Motor+Sdn+Bhd,+Lot+57,+Persiaran+Bukit+Rahman+Putra+3,+Sungai+Buloh,+47000,+Sungai+Buloh,+Selangor+Darul+Ehsan!3m6!1s0x31cc451d6e85537f:0x3c0807160890f969!8m2!3d3.2295381!4d101.5647458!15sCoABSG9uZyBMZW9uZyBZYW1haGEgTW90b3IgU2RuIEJoZCwgTG90IDU3LCBQZXJzaWFyYW4gQnVraXQgUmFobWFuIFB1dHJhIDMsIFN1bmdhaSBCdWxvaCwgNDcwMDAsIFN1bmdhaSBCdWxvaCwgU2VsYW5nb3IgRGFydWwgRWhzYW4iA4gBAVp8Inpob25nIGxlb25nIHlhbWFoYSBtb3RvciBzZG4gYmhkIGxvdCA1NyBwZXJzaWFyYW4gYnVraXQgcmFobWFuIHB1dHJhIDMgc3VuZ2FpIGJ1bG9oIDQ3MDAwIHN1bmdhaSBidWxvaCBzZWxhbmdvciBkYXJ1bCBlaHNhbpIBDG1hbnVmYWN0dXJlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSblgwbHlRWGxSUlJBQuABAA!16s%2Fg%2F1ths6vrk?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Tropicana Golf & Country Resort,"Tropicana Golf & Country Resort, Jalan Kelab Tropicana, 47410 Petaling Jaya, Selangor Darul Ehsan","https://www.google.com/maps/place/Tropicana+Golf+%26+Country+Resort/@3.1298925,101.5841925,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4eed8252514b:0xbe12546587ac9f3c!8m2!3d3.1298925!4d101.5841925!16s%2Fg%2F1tl7l6nr?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,MyNews Empire Damansara,"myNews, No. G09, Heritage Lane Empire Damansara, Jalan PJU 8/8A, Damansara Perdana, Selangor.","https://www.google.com/maps/place/myNEWS+(Maru+Kafe)+@+Empire+Damansara+(G+Floor)/@3.1666269,101.6097918,17z/data=!4m10!1m2!2m1!1smyNews,+No.+G09,+Heritage+Lane+Empire+Damansara,+Jalan+PJU+8%2F8A,+Damansara+Perdana,+Selangor.!3m6!1s0x31cc4f1fb57c5257:0xbca4b19a46255641!8m2!3d3.1666269!4d101.6119805!15sCl1teU5ld3MsIE5vLiBHMDksIEhlcml0YWdlIExhbmUgRW1waXJlIERhbWFuc2FyYSwgSmFsYW4gUEpVIDgvOEEsIERhbWFuc2FyYSBQZXJkYW5hLCBTZWxhbmdvci4iA4gBAVpYIlZteW5ld3Mgbm8gZzA5IGhlcml0YWdlIGxhbmUgZW1waXJlIGRhbWFuc2FyYSBqYWxhbiBwanUgOCA4YSBkYW1hbnNhcmEgcGVyZGFuYSBzZWxhbmdvcpIBEWNvbnZlbmllbmNlX3N0b3Jl4AEA!16s%2Fg%2F11r6brk2hd?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,MyNews Tropicana Avenue,Lot 23a Tropicana Avenue 1 Persiaran Tropicana 47410 Petaling Jaya SELANGOR,"https://www.google.com/maps/place/1,+23,+Persiaran+Tropicana,+Tropicana,+47410+Petaling+Jaya,+Selangor,+Malaysia/@3.1303032,101.5942728,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4ebe3520c029:0xd64cbb4fd689548f!8m2!3d3.1303032!4d101.5942728?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,MyNews Centrestage,"G-03, Ground Floor Pj Centrestage No.1, Jalan 13/1, Seksyen 13 46200 Petaling Jaya SELANGOR","https://www.google.com/maps/place/Centrestage+Petaling+Jaya/@3.1117289,101.6392304,17z/data=!3m1!4b1!4m9!3m8!1s0x31cc4bdfe633b743:0x526ec965478df4bc!5m2!4m1!1i2!8m2!3d3.1117289!4d101.6392304!16s%2Fg%2F11b6gkkn9b?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,MyNews HQ,"3 Jalan Teknologi 3/1, Taman Sains Selangor 1, Seksyen 3, PJU 5, Kota Damansara 47810 Petaling Jaya SELANGOR","https://www.google.com/maps/place/Jalan+Teknologi+3%2F1,+Taman+Sains+Selangor,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.1618517,101.5723377,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4f07ba6264db:0x35049a81d2720711!8m2!3d3.1618517!4d101.5723377!16s%2Fg%2F1q5bkw1wj?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,PKT Logistics Group Hub Shah Alam,No. 1 The Ship Logistics Hub 40460 Shah Alam SELANGOR,"https://www.google.com/maps/place/Kopi+Satu+-+One+Logistics+Hub/@2.9883034,101.5044873,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdadd6a1e5363d:0x998356daf5ab0c76!8m2!3d2.9883034!4d101.5044873!16s%2Fg%2F11fht04dqr?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,1 Utama Shopping,"GK5 GF,Bdr Utama City Ctr 1 Prsiaran Bandar Utama 47800 Bandar Utama SELANGOR","https://www.google.com/maps/place/Bandar+Utama+City+Corporation+Sdn+Bhd/@3.1449399,101.6164761,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc492d2f23c7c3:0x4cbab527564d392!8m2!3d3.1449399!4d101.6164761!16s%2Fg%2F1tdw5kdj?entry=ttu",https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html,ATM,Hong Leong Bank,
+Local Bank,Selangor,Aman Suria Damansara,"J-G-23 & J-G-25, Block J
+Jalan PJU 1/43, PJU1
+Aman Suria Damansara
+47301 Petaling Jaya
+Selangor","https://www.google.com/maps/place/Jalan+PJU+1%2F43,+Aman+Suria,+47301+Petaling+Jaya,+Selangor,+Malaysia/@3.1216936,101.5949192,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22J-G-23+%26+J-G-25,+Block+J+Jalan+PJU+1%2F43,+PJU1+Aman+Suria+Damansara+47301+Petaling+Jaya+Selangor%22!3m6!1s0x31cc4ea2e917daa7:0x8404b17a7f89d1d1!8m2!3d3.1216936!4d101.5949192!15sCmEiSi1HLTIzICYgSi1HLTI1LCBCbG9jayBKIEphbGFuIFBKVSAxLzQzLCBQSlUxIEFtYW4gU3VyaWEgRGFtYW5zYXJhIDQ3MzAxIFBldGFsaW5nIEpheWEgU2VsYW5nb3IikgEFcm91dGXgAQA!16s%2Fg%2F1tdggrx5?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Balakong,"45 Jalan Sungai Besi Indah 1/21
+Taman Sungai Besi Indah
+43300 Seri Kembangan
+Selangor",,https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Bandar Bukit Tinggi,"56 Lorong Batu Nilam 4B
+Bandar Bukit Tinggi
+41200 Klang
+Selangor","https://www.google.com/maps/place/56,+Lorong+Batu+Nilam+4b,+Bandar+Bukit+Tinggi+1,+41200+Klang,+Selangor,+Malaysia/@3.0071634,101.4362348,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdac9d2c289091:0x6e6481b4ddd6eda0!8m2!3d3.0071634!4d101.4362348!16s%2Fg%2F11d_yr1bhv?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Bandar Puteri Puchong,"11 & 13 Jalan Puteri 2/1
+Bandar Puteri Puchong
+47100 Puchong
+Selangor","https://www.google.com/maps/place/11,+Jalan+Puteri+2%2F1,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.0246043,101.6160298,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb4a800ead181:0x30a53f4f6f8c2b4!8m2!3d3.0246043!4d101.6160298!16s%2Fg%2F11sgbkln6w?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,"CP Tower, Petaling Jaya","Unit 1-2, Right Wing
+Level 1, CP Tower
+11 Jalan 16/11
+Off Jalan Damansara
+46350 Petaling Jaya
+Selangor","https://www.google.com/maps/place/Level+1,+Cp+Tower,+11,+Jalan+16%2F11,+Seksyen+16,+46350+Petaling+Jaya,+Selangor,+Malaysia/@3.1271555,101.6443954,17z/data=!3m1!4b1!4m9!1m2!2m1!1s%22Unit+1-2,+Right+Wing+Level+1,+CP+Tower+11+Jalan+16%2F11+Off+Jalan+Damansara+46350+Petaling+Jaya+Selangor%22!3m5!1s0x31cc496eab7f4655:0x2cba6b2a680e3c44!8m2!3d3.1271555!4d101.6443954!15sCmgiVW5pdCAxLTIsIFJpZ2h0IFdpbmcgTGV2ZWwgMSwgQ1AgVG93ZXIgMTEgSmFsYW4gMTYvMTEgT2ZmIEphbGFuIERhbWFuc2FyYSA0NjM1MCBQZXRhbGluZyBKYXlhIFNlbGFuZ29yIpIBEGNvbXBvdW5kX3NlY3Rpb27gAQA?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Damansara Uptown,"Unit 102 & 103, Level 1
+Uptown 2
+2 Jalan SS21/37
+Damansara Uptown
+47400 Petaling Jaya
+Selangor","https://www.google.com/maps/place/Alliance+Bank/@3.1369201,101.6230775,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4937d0c915df:0xdf92044d11a7fc1b!8m2!3d3.1369201!4d101.6230775!16s%2Fg%2F1v7pvzmw?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Kajang,"Lot 4 & 5, Jalan Jeloh 3
+Off Jalan Bukit
+43000 Kajang
+Selangor","https://www.google.com/maps/place/Bank+Rakyat+Kajang/@2.9912221,101.7567514,13z/data=!4m10!1m2!2m1!1s%22Lot+4+%26+5,+Jalan+Jeloh+3+Off+Jalan+Bukit+43000+Kajang+Selangor%22!3m6!1s0x31cdcb81f32b08f7:0xd896cd75aad419dd!8m2!3d2.9912221!4d101.7917703!15sCkAiTG90IDQgJiA1LCBKYWxhbiBKZWxvaCAzIE9mZiBKYWxhbiBCdWtpdCA0MzAwMCBLYWphbmcgU2VsYW5nb3IikgEEYmFua-ABAA!16s%2Fg%2F1hc1ylq70?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Klang,"Ground Floor
+1 Lorong Kasawari 4B
+Taman Eng Ann
+41150 Klang
+Selangor","https://www.google.com/maps/place/1,+Lorong+Kasawari+4b,+Taman+Eng+Ann,+41150+Klang,+Selangor,+Malaysia/@3.0579666,101.4598699,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc5315ab878725:0x30f0eea0dd1fb2b4!8m2!3d3.0579666!4d101.4598699!16s%2Fg%2F11ckqm6gdg?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Kota Damansara,"7-G & 9-G, Jalan PJU 5/20
+Pusat Perdagangan Kota Damansara
+PJU5 Kota Damansara
+47810 Petaling Jaya
+Selangor","https://www.google.com/maps/place/7m,+Jalan+PJU+5%2F20,+The+Strand,+47810+Petaling+Jaya,+Selangor,+Malaysia/@3.1540694,101.5921935,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%227-G+%26+9-G,+Jalan+PJU+5%2F20+Pusat+Perdagangan+Kota+Damansara+PJU5+Kota+Damansara+47810+Petaling+Jaya+Selangor%22!3m6!1s0x31cc4f1f92451d9d:0xb95e34ad0e214506!8m2!3d3.1540694!4d101.5921935!15sCm0iNy1HICYgOS1HLCBKYWxhbiBQSlUgNS8yMCBQdXNhdCBQZXJkYWdhbmdhbiBLb3RhIERhbWFuc2FyYSBQSlU1IEtvdGEgRGFtYW5zYXJhIDQ3ODEwIFBldGFsaW5nIEpheWEgU2VsYW5nb3IikgEQZ2VvY29kZWRfYWRkcmVzc-ABAA!16s%2Fg%2F11j4nbs6_b?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Pandan Indah,"Ground & Mezzanine Floor
+11 & 13 Jalan Pandan Indah 4/34
+Pandan Indah
+55100 Kuala Lumpur","https://www.google.com/maps/place/Alliance+Bank/@3.1310169,101.7539771,17z/data=!4m10!1m2!2m1!1s%22Ground+%26+Mezzanine+Floor+11+%26+13+Jalan+Pandan+Indah+4%2F34+Pandan+Indah+55100+Kuala+Lumpur%22!3m6!1s0x31cc36f57678b24f:0x48cd640e75680105!8m2!3d3.1336019!4d101.753506!15sCloiR3JvdW5kICYgTWV6emFuaW5lIEZsb29yIDExICYgMTMgSmFsYW4gUGFuZGFuIEluZGFoIDQvMzQgUGFuZGFuIEluZGFoIDU1MTAwIEt1YWxhIEx1bXB1ciKSAQRiYW5r4AEA!16s%2Fg%2F1tqt74vj?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Puchong Jaya,"11 Jalan Kenari 5
+Bandar Puchong Jaya
+47100 Puchong Jaya
+Selangor","https://www.google.com/maps/place/11,+Jalan+Kenari+5,+Bandar+Puchong+Jaya,+47100+Puchong,+Selangor,+Malaysia/@3.0475717,101.6216539,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4b5bded8d4df:0xe982843b7bbcca48!8m2!3d3.0475717!4d101.6216539!16s%2Fg%2F11c5gdxk3d?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Rawang,"71 Jalan Bandar Rawang 2
+Bandar Baru Rawang
+48000 Rawang
+Selangor","https://www.google.com/maps/place/71,+Jalan+Bandar+Rawang+2,+Pusat+Bandar+Rawang,+48000+Rawang,+Selangor,+Malaysia/@3.324416,101.577969,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%2271+Jalan+Bandar+Rawang+2+Bandar+Baru+Rawang+48000+Rawang+Selangor%22!3m6!1s0x31cc425b9717f021:0x3a455f79cea4ef84!8m2!3d3.324416!4d101.577969!15sCkMiNzEgSmFsYW4gQmFuZGFyIFJhd2FuZyAyIEJhbmRhciBCYXJ1IFJhd2FuZyA0ODAwMCBSYXdhbmcgU2VsYW5nb3IikgEQZ2VvY29kZWRfYWRkcmVzc-ABAA!16s%2Fg%2F11c2c5y9m6?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Seri Kembangan,"31-1 & 31-2 Jalan Serdang Perdana
+2/1
+Taman Serdang Perdana
+43300 Seri Kembangan
+Selangor","https://www.google.com/maps/place/Alliance+Bank/@3.0314637,101.7085555,17z/data=!3m2!4b1!5s0x31cdcaaa5e86ba33:0x919792fa50cbe22a!4m6!3m5!1s0x31cdcaa9663472d3:0x3780d8d21e017dcf!8m2!3d3.0314637!4d101.7085555!16s%2Fg%2F1v9l882j?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Shah Alam,"Ground & 1st Floor
+2 Jalan Murni 25/61
+Taman Sri Muda
+Seksyen 25
+40400 Shah Alam
+Selangor","https://www.google.com/maps/place/Alliance+Bank/@3.0323525,101.5354257,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb2ad9b360f05:0x995e6f95141fd24e!8m2!3d3.0323525!4d101.5354257!16s%2Fg%2F1tfkc2n9?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Sri Damansara,"1 Jalan Tembaga SD 5/2A
+Bandar Sri Damansara
+52100 Kuala Lumpur ","https://www.google.com/maps/place/1,+Jalan+Tembaga+SD+5%2F2a,+Bandar+Sri+Damansara,+52200+Kuala+Lumpur,+Selangor,+Malaysia/@3.20124,101.6198701,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4606222d2129:0x126aff99be268e86!8m2!3d3.20124!4d101.6198701!16s%2Fg%2F11gh4kztjl?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,"SS2, Petaling Jaya","Ground & 1st Floor
+55 Jalan SS2/55
+47300 Petaling Jaya
+Selangor","https://www.google.com/maps/place/Alliance+Bank/@3.20124,101.6198701,12z/data=!4m10!1m2!2m1!1s%22Ground+%26+1st+Floor+55+Jalan+SS2%2F55+47300+Petaling+Jaya+Selangor%22!3m6!1s0x31cc4953f50fd467:0xa174cca72e9bdf9d!8m2!3d3.1180045!4d101.620151!15sCkEiR3JvdW5kICYgMXN0IEZsb29yIDU1IEphbGFuIFNTMi81NSA0NzMwMCBQZXRhbGluZyBKYXlhIFNlbGFuZ29yIpIBBGJhbmvgAQA!16s%2Fg%2F1tf7pn1_?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Subang Jaya,"Wisma Projass
+3 Jalan SS15/2A
+47500 Subang Jaya
+Selangor","https://www.google.com/maps/place/Wisma+Projass,+3,+Jln+SS+15%2F2A,+Ss+15,+47500+Subang+Jaya,+Selangor,+Malaysia/@3.081446,101.5868957,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22Wisma+Projass+3+Jalan+SS15%2F2A+47500+Subang+Jaya+Selangor%22!3m6!1s0x31cc4c5b78b89423:0x2931dea8cd5212c5!8m2!3d3.081446!4d101.5868957!15sCjoiV2lzbWEgUHJvamFzcyAzIEphbGFuIFNTMTUvMkEgNDc1MDAgU3ViYW5nIEpheWEgU2VsYW5nb3IikgERY29tcG91bmRfYnVpbGRpbmfgAQA!16s%2Fg%2F12hlpbz0s?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,Taman Putra,"43-45 Jalan Bunga Tanjung 6A
+Taman Putra
+68000 Ampang
+Selangor","https://www.google.com/maps/place/43-45,+Jalan+Bunga+Tanjung+6a,+Taman+Putra,+68000+Ampang,+Selangor,+Malaysia/@3.1210899,101.760915,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc368580291d13:0x237b0c51476217b7!8m2!3d3.1210899!4d101.760915!16s%2Fg%2F11q2ndk56_?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Selangor,"USJ, Subang Jaya","Ground & 1st Floor
+17, 19 & 21 Jalan USJ 9/5N
+47620 UEP Subang Jaya
+Selangor","https://www.google.com/maps/place/Alliance/@3.046408,101.5841424,17z/data=!3m1!5s0x31cc4cc5c3883a1d:0x783ef7a7e9ee554b!4m10!1m2!2m1!1s%22Ground+%26+1st+Floor+17,+19+%26+21+Jalan+USJ+9%2F5N+47620+UEP+Subang+Jaya+Selangor%22!3m6!1s0x31cc4cc5c5beb709:0xc667a01c0b8c9d30!8m2!3d3.046408!4d101.5863311!15sCk4iR3JvdW5kICYgMXN0IEZsb29yIDE3LCAxOSAmIDIxIEphbGFuIFVTSiA5LzVOIDQ3NjIwIFVFUCBTdWJhbmcgSmF5YSBTZWxhbmdvciKSAQNhdG3gAQA!16s%2Fg%2F1vp718ns?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/selangorbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Bangsar,"1 Jalan Telawi 5
+Bangsar Baru
+59100 Kuala Lumpur","https://www.google.com/maps/place/1,+Jalan+Telawi+5,+Bangsar,+59100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1327439,101.671222,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc49a297e7bac5:0x476d3f7958c2154e!8m2!3d3.1327439!4d101.671222!16s%2Fg%2F11llswyyn4?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Capital Square,"Ground Floor
+Menara Multi-Purpose
+Capital Square
+8 Jalan Munshi Abdullah
+50100 Kuala Lumpur","https://www.google.com/maps/place/Capital+Square+Sdn.+Bhd./@3.155257,101.6972083,17z/data=!3m1!5s0x31cc482c40aaf5fd:0x620d0c17e741fe14!4m10!1m2!2m1!1s%22Ground+Floor+Menara+Multi-Purpose+Capital+Square+8+Jalan+Munshi+Abdullah+50100+Kuala+Lumpur%22!3m6!1s0x31cc482c3f289581:0x34b204b499ca7d35!8m2!3d3.155257!4d101.699397!15sCl0iR3JvdW5kIEZsb29yIE1lbmFyYSBNdWx0aS1QdXJwb3NlIENhcGl0YWwgU3F1YXJlIDggSmFsYW4gTXVuc2hpIEFiZHVsbGFoIDUwMTAwIEt1YWxhIEx1bXB1ciKSARtwcm9wZXJ0eV9tYW5hZ2VtZW50X2NvbXBhbnngAQA!16s%2Fg%2F1pzrrb7ww?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Desa ParkCit,"G-G-10, Block G, Plaza Arkadia
+No. 3, Jalan Intisari Perdana
+Desa ParkCity
+52200, Kuala Lumpur","https://www.google.com/maps/place/Plaza+Arkadia/@3.1855877,101.6327209,17z/data=!4m10!1m2!2m1!1s%22G-G-10,+Block+G,+Plaza+Arkadia+No.+3,+Jalan+Intisari+Perdana+Desa+ParkCity+52200,+Kuala+Lumpur%22!3m6!1s0x31cc48a22e9cf3d7:0xbe2e129caaa8dd87!8m2!3d3.1855877!4d101.6349096!15sCmAiRy1HLTEwLCBCbG9jayBHLCBQbGF6YSBBcmthZGlhIE5vLiAzLCBKYWxhbiBJbnRpc2FyaSBQZXJkYW5hIERlc2EgUGFya0NpdHkgNTIyMDAsIEt1YWxhIEx1bXB1ciKSAQ9zaG9wcGluZ19jZW50ZXLgAQA!16s%2Fg%2F11fhy46h96?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Jalan Ipoh,"41 & 43 Jalan Ipoh
+51200 Kuala Lumpur ","https://www.google.com/maps/place/Batu+4+1%2F4,+Jln+Ipoh,+Taman+Bamboo,+51200+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1955909,101.6769664,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc47d95d8a355b:0xda21eb043136414!8m2!3d3.1955909!4d101.6769664!16s%2Fg%2F11j8pch6q4?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Kepong,"Ground Floor
+52 Jalan Prima
+Vista Magna
+Metro Prima Kepong
+52100 Kuala Lumpur","https://www.google.com/maps/place/Vista+Magna+Condominium/@3.2131692,101.6421945,17z/data=!4m10!1m2!2m1!1s%22Ground+Floor+52+Jalan+Prima+Vista+Magna+Metro+Prima+Kepong+52100+Kuala+Lumpur%22!3m6!1s0x31cc47ec283bda17:0x8aed7e54eaf9db3b!8m2!3d3.2131692!4d101.6421945!15sCk8iR3JvdW5kIEZsb29yIDUyIEphbGFuIFByaW1hIFZpc3RhIE1hZ25hIE1ldHJvIFByaW1hIEtlcG9uZyA1MjEwMCBLdWFsYSBMdW1wdXIikgETY29uZG9taW5pdW1fY29tcGxleOABAA!16s%2Fg%2F11s20cs_84?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Kuchai Entrepreneurs Park,"1 Jalan 1/116B
+Kuchai Entrepreneurs Park
+58200 Kuala Lumpur",,https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,MidValley,"15-G & 15-1, T
+The Boulevard Offices
+Mid Valley City
+Lingkaran Syed Putra
+59200 Kuala Lumpur","https://www.google.com/maps/place/Block+17+The+Boulevard+Office/@3.11925,101.6752532,17z/data=!4m10!1m2!2m1!1s%2215-G+%26+15-1,+T+The+Boulevard+Offices+Mid+Valley+City+Lingkaran+Syed+Putra+59200+Kuala+Lumpur%22!3m6!1s0x31cc498ecfeba98f:0x8f08807b4662477d!8m2!3d3.11925!4d101.6774419!15sCl4iMTUtRyAmIDE1LTEsIFQgVGhlIEJvdWxldmFyZCBPZmZpY2VzIE1pZCBWYWxsZXkgQ2l0eSBMaW5na2FyYW4gU3llZCBQdXRyYSA1OTIwMCBLdWFsYSBMdW1wdXIi4AEA!16s%2Fg%2F1pzqllxwp?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Mont' Kiara,"Unit A-0G-02, Block A
+Plaza Mont'Kiara
+2 Jalan Kiara, Mont'Kiara
+50480 Kuala Lumpur","https://www.google.com/maps/place/Plaza+Mont+Kiara/@3.1656857,101.6497675,17z/data=!4m10!1m2!2m1!1s%22Unit+A-0G-02,+Block+A+Plaza+Mont'Kiara+2+Jalan+Kiara,+Mont'Kiara+50480+Kuala+Lumpur%22!3m6!1s0x87b783c5818efed7:0xfa5b51c991c1d246!8m2!3d3.1656857!4d101.6519562!15sClUiVW5pdCBBLTBHLTAyLCBCbG9jayBBIFBsYXphIE1vbnQnS2lhcmEgMiBKYWxhbiBLaWFyYSwgTW9udCdLaWFyYSA1MDQ4MCBLdWFsYSBMdW1wdXIikgEFcGxhemHgAQA!16s%2Fg%2F1vn9plx6?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Segambut,"Ground & 1st Floor
+22 Wisma Sin Hoh Huat
+Persiaran Segambut Tengah
+51200 Kuala Lumpur ","https://www.google.com/maps/place/Wisma+Sin+Hoh+Huat,+22,+Persiaran+Segambut+Tengah,+Taman+Teh+Wan+Sang,+51200+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1867866,101.6779669,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22Ground+%26+1st+Floor+22+Wisma+Sin+Hoh+Huat+Persiaran+Segambut+Tengah+51200+Kuala+Lumpur+%22!3m6!1s0x31cc4876a5f42579:0xb023052034555d5e!8m2!3d3.1867866!4d101.6779669!15sClgiR3JvdW5kICYgMXN0IEZsb29yIDIyIFdpc21hIFNpbiBIb2ggSHVhdCBQZXJzaWFyYW4gU2VnYW1idXQgVGVuZ2FoIDUxMjAwIEt1YWxhIEx1bXB1ciAikgERY29tcG91bmRfYnVpbGRpbmfgAQA!16s%2Fg%2F12hl0mhjg?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Setapak,"D-1-2, D-2-2 & D-3-2
+StarParc Point,
+Taman Danau Ibu Kota
+Jln Genting Klang, Setapak 53300
+Kuala Lumpur","https://www.google.com/maps/place/StarParc+Point/@3.2042455,101.7202005,17z/data=!4m10!1m2!2m1!1s%22D-1-2,+D-2-2+%26+D-3-2+StarParc+Point,+Taman+Danau+Ibu+Kota+Jln+Genting+Klang,+Setapak+53300+Kuala+Lumpur%22!3m6!1s0x31cc3811690b3007:0xde5873275434737!8m2!3d3.2042455!4d101.7223892!15sCmkiRC0xLTIsIEQtMi0yICYgRC0zLTIgU3RhclBhcmMgUG9pbnQsIFRhbWFuIERhbmF1IElidSBLb3RhIEpsbiBHZW50aW5nIEtsYW5nLCBTZXRhcGFrIDUzMzAwIEt1YWxhIEx1bXB1ciKSAQtwYXJraW5nX2xvdOABAA!16s%2Fg%2F11f2gstw92?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Star Boulevard KLCC,"Unit SR3-G,
+Ground Floor, Wisma Star,
+No. 1, Jalan Yap Kwan Seng,
+50450 Kuala Lumpur","https://www.google.com/maps/place/1,+Jalan+Yap+Kwan+Seng,+Kampung+Baru,+50450+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1610411,101.711762,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22Unit+SR3-G,+Ground+Floor,+Wisma+Star,+No.+1,+Jalan+Yap+Kwan+Seng,+50450+Kuala+Lumpur%22!3m6!1s0x31cc37d9e106edaf:0x9bdeb7e9e7445fa0!8m2!3d3.1610411!4d101.711762!15sClYiVW5pdCBTUjMtRywgR3JvdW5kIEZsb29yLCBXaXNtYSBTdGFyLCBOby4gMSwgSmFsYW4gWWFwIEt3YW4gU2VuZywgNTA0NTAgS3VhbGEgTHVtcHVyIpIBEGdlb2NvZGVkX2FkZHJlc3PgAQA!16s%2Fg%2F11kc2w4v7k?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Taman Connaught,"150-152 Jalan Cerdas
+Taman Connaught
+56000 Kuala Lumpur","https://www.google.com/maps/place/150,+Jalan+Cerdas,+Taman+Connaught,+56000+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.0814584,101.7343304,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc35a34537952f:0xbcb5783ef91a7c75!8m2!3d3.0814584!4d101.7343304?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Taman Maluri ,"254 & 254A Jalan Mahkota
+Taman Maluri,
+Cheras
+55100 Kuala Lumpur","https://www.google.com/maps/place/254,+Jalan+Mahkota,+Maluri,+55100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.1281146,101.7329855,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc366ba4564d27:0x72f5949ae3837aa8!8m2!3d3.1281146!4d101.7329855!16s%2Fg%2F11j4nbsl5m?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Local Bank,Kuala Lumpur,Taman Tun Dr Ismail,"6-3-0 & 6-3-1, Sinaran TTDI
+Jalan Tun Mohd Fuad 3
+Taman Tun Dr Ismail
+60000 Kuala Lumpur","https://www.google.com/maps/place/Sinaran+Ttdi/@3.1412229,101.6283439,17z/data=!4m10!1m2!2m1!1s%226-3-0+%26+6-3-1,+Sinaran+TTDI+Jalan+Tun+Mohd+Fuad+3+Taman+Tun+Dr+Ismail+60000+Kuala+Lumpur%22!3m6!1s0x31cc493abebb0c75:0xd062a68ee5c1785f!8m2!3d3.1412229!4d101.6283439!15sCloiNi0zLTAgJiA2LTMtMSwgU2luYXJhbiBUVERJIEphbGFuIFR1biBNb2hkIEZ1YWQgMyBUYW1hbiBUdW4gRHIgSXNtYWlsIDYwMDAwIEt1YWxhIEx1bXB1ciKSARNjb25kb21pbml1bV9jb21wbGV44AEA!16s%2Fg%2F11kmc2mfdd?entry=ttu",https://www.alliancebank.com.my/Alliance/media/Documents/Corporate/Branch-List/Branch-State/klbranches.pdf,Branches,Alliance Bank,
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur,"Menara Citibank, 165, Jalan Ampang, 50450 Kuala Lumpur","https://www.google.com/maps/place/Citibank+Malaysia+-+Kuala+Lumpur/@3.1594452,101.715583,17z/data=!3m1!5s0x31d1cd6a7d339623:0xd77ac873147dcf69!4m10!1m2!2m1!1sMenara+Citibank,+165,+Jalan+Ampang,+50450+Kuala+Lumpur!3m6!1s0x31cc37d017474227:0x8280cca3ccdacc1!8m2!3d3.1594452!4d101.7177717!15sCjZNZW5hcmEgQ2l0aWJhbmssIDE2NSwgSmFsYW4gQW1wYW5nLCA1MDQ1MCBLdWFsYSBMdW1wdXKSAQRiYW5r4AEA!16s%2Fg%2F113f43kq6?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Selangor,Puchong,"26, Jalan Puteri 1/1, Bandar Puteri, 47100 Puchong, Selangor","https://www.google.com/maps/place/26,+Jalan+Puteri+1%2F1,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.0253233,101.6170442,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb4a8127c37bb:0xcf7a88985f03c335!8m2!3d3.0253233!4d101.6170442!16s%2Fg%2F11fkkzktyt?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Selangor,Damansara Perdana,"Lot W106 & W107, Metropolitan Square, Centre Wing, Jalan PJU 8/1, Damansara Perdana,
+47820 Petaling Jaya, Selangor","https://www.google.com/maps/place/Metropolitan+Square+-+Block+C/@3.1661952,101.6095556,17z/data=!4m10!1m2!2m1!1s%22Lot+W106+%26+W107,+Metropolitan+Square,+Centre+Wing,+Jalan+PJU+8%2F1,+Damansara+Perdana,+47820+Petaling+Jaya,+Selangor%22!3m6!1s0x31cc4f33c855a325:0x476c782677896e5d!8m2!3d3.1663817!4d101.6089084!15sCnQiTG90IFcxMDYgJiBXMTA3LCBNZXRyb3BvbGl0YW4gU3F1YXJlLCBDZW50cmUgV2luZywgSmFsYW4gUEpVIDgvMSwgRGFtYW5zYXJhIFBlcmRhbmEsIDQ3ODIwIFBldGFsaW5nIEpheWEsIFNlbGFuZ29yIpIBEmFwYXJ0bWVudF9idWlsZGluZ-ABAA!16s%2Fg%2F11c3tpxn4m?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Selangor,Taipan USJ,"No. 10A, Jalan USJ 10/1H, Taipan Triangle,
+47610 Subang Jaya Selangor","https://www.google.com/maps/place/10,+Jalan+USJ+10%2F1h,+Taipan+Business+Centre,+47610+Subang+Jaya,+Selangor,+Malaysia/@3.0477257,101.5864292,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22No.+10A,+Jalan+USJ+10%2F1H,+Taipan+Triangle,+47610+Subang+Jaya+Selangor%22!3m6!1s0x31cc4def4311bdc5:0xc166874c9c16b500!8m2!3d3.0477257!4d101.5864292!15sCkciTm8uIDEwQSwgSmFsYW4gVVNKIDEwLzFILCBUYWlwYW4gVHJpYW5nbGUsIDQ3NjEwIFN1YmFuZyBKYXlhIFNlbGFuZ29yIpIBEGdlb2NvZGVkX2FkZHJlc3PgAQA!16s%2Fg%2F11tf1jyzsd?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Selangor,"Bandar Tun Hussein Onn, Cheras","No 54, Jalan Suarasa 8/4, Bandar Tun Hussein Onn,
+43200 Cheras, Selangor","https://www.google.com/maps/place/54,+Jalan+Suarasa+8%2F4,+Tun+Hussein+Onn,+43200+Cheras,+Selangor,+Malaysia/@3.047389,101.758791,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc34dbf701f4b7:0x13dd36919953e365!8m2!3d3.047389!4d101.758791!16s%2Fg%2F11hdcggbd6?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Selangor,Johor Bahru Branch,"#01-01, Block C,
+Komersil Southkey Mozek,
+Persiaran Southkey 1,
+Kota Southkey, 80150 Johor Bahru","https://www.google.com/maps/place/Persiaran+Southkey+1,+Southkey,+81100+Johor+Bahru,+Johor,+Malaysia/@1.4991633,103.7771681,17z/data=!3m1!4b1!4m10!1m2!2m1!1s%22%2301-01,+Block+C,+Komersil+Southkey+Mozek,+Persiaran+Southkey+1,+Kota+Southkey,+80150+Johor+Bahru%22!3m6!1s0x31da6ce068ee8cab:0xa4f6a81d53f087c6!8m2!3d1.4991633!4d103.7771681!15sCmIiIzAxLTAxLCBCbG9jayBDLCBLb21lcnNpbCBTb3V0aGtleSBNb3playwgUGVyc2lhcmFuIFNvdXRoa2V5IDEsIEtvdGEgU291dGhrZXksIDgwMTUwIEpvaG9yIEJhaHJ1IpIBBXJvdXRl4AEA!16s%2Fg%2F1q5bln0yj?entry=ttu",http://citibank.com.my/personal-banking/branch-details/,Branches,City Bank,
+Foreigner Bank,Kuala Lumpur,Sri Petaling,"1, Jalan Radin Bagus 6,
+Bandar Baru Sri Petaling,
+57000 Kuala Lumpur","https://www.google.com/maps/place/1,+Jalan+Radin+Bagus+6,+Bandar+Baru+Sri+Petaling,+57000+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.0708025,101.6928647,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4a8853f381ef:0xaff51c7a00b6cd52!8m2!3d3.0708025!4d101.6928647!16s%2Fg%2F11fm489wb9?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur Main,"Ground Floor, UOB Plaza 1,
+7 Jalan Raja Laut,
+50350 Kuala Lumpur","https://www.google.com/maps/place/UOB+Branch+-+Kuala+Lumpur+Main/@3.154166,101.6958948,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc494a94ac71f7:0x5b883988dab975b!8m2!3d3.154166!4d101.6958948!16s%2Fg%2F11s_rsl030?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Kuala Lumpur,Jalan Imbi,"197-199, Jalan Imbi,
+55100 Kuala Lumpur","https://www.google.com/maps/place/197,+Jln+Imbi,+Imbi,+55100+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur,+Malaysia/@3.145983,101.7154568,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc362e80b629db:0xcca140c9b4c8419d!8m2!3d3.145983!4d101.7154568!16s%2Fg%2F11ggr7215f?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Kuala Lumpur,Bangsar,"Bangunan Bangsaria,
+45E, Jalan Maarof,
+Bangsar Baru,
+59100 Kuala Lumpur","https://www.google.com/maps/place/Bangsaria/@3.12814,101.6750321,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4997236f0c35:0xf15666f50529595d!8m2!3d3.12814!4d101.6750321!16s%2Fg%2F1tfnw2bm?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Kuala Lumpur,Jalan Ampang,"Level 1, Menara Citibank,
+No 165, Jalan Ampang,
+50450 Kuala Lumpur","https://www.google.com/maps/place/Citibank+Malaysia+-+Kuala+Lumpur/@3.1594452,101.715583,17z/data=!3m1!5s0x31d1cd6a7d339623:0xd77ac873147dcf69!4m10!1m2!2m1!1s%22Level+1,+Menara+Citibank,+No+165,+Jalan+Ampang,+50450+Kuala+Lumpur%22!3m6!1s0x31cc37d017474227:0x8280cca3ccdacc1!8m2!3d3.1594452!4d101.7177717!15sCkQiTGV2ZWwgMSwgTWVuYXJhIENpdGliYW5rLCBObyAxNjUsIEphbGFuIEFtcGFuZywgNTA0NTAgS3VhbGEgTHVtcHVyIpIBBGJhbmvgAQA!16s%2Fg%2F113f43kq6?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Ampang,"495 Jalan Lima,
+Taman Ampang Utama,
+Jalan Ampang,
+68000 Ampang, Selangor","https://www.google.com/maps/place/495,+Jalan+5,+One+Ampang+Avenue,+68000+Ampang,+Selangor,+Malaysia/@3.1567465,101.7509721,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc37a994b3e9a7:0x729da2379f17b44c!8m2!3d3.1567465!4d101.7509721?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Cheras,"35 Jalan Desa Cahaya 11,
+Taman Desa Bukit Cahaya,
+56100 Cheras, Selangor","https://www.google.com/maps/place/UOB+Branch+-+Cheras/@3.0449373,101.7412837,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc35252f7651d9:0xc97c86a8dbba688!8m2!3d3.0449373!4d101.7412837!16s%2Fg%2F113hbm60s?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,"6, Jalan Kenari 5,
+Bandar Puchong Jaya,
+47100, Puchong,
+Selangor","Wisma UOB, 2108, Jalan Meru,
+41050 Klang,
+Selangor","https://www.google.com/maps/place/UOB+ATM+-+Klang/@3.061103,101.4527696,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc536eaeb6052f:0x15dcaad75c9a7b!8m2!3d3.061103!4d101.4527696!16s%2Fg%2F1tjkc90v?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Kota Damansara,Jalan Tengah,,https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,"48, Jalan PJU 5/8,
+Dataran Sunway,
+Kota Damansara, 47810 Petaling Jaya,
+Selangor","2-6, Jalan Tengah,
+46200 Petaling Jaya,
+Selangor","https://www.google.com/maps/place/2,+Jalan+Tengah,+Pj+New+Town,+46200+Petaling+Jaya,+Selangor,+Malaysia/@3.0994107,101.6444504,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4bc4736125d1:0x300de1bb70a44e28!8m2!3d3.0994107!4d101.6444504?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Ijok,"57 Jalan PPAJ 3/1 
+Pusat Perdagangan Alam Jaya
+42300, Bandar Puncak Alam
+Selangor","https://www.google.com/maps/place/57,+Jalan+Ppaj+3%2F1,+Pusat+Perdagangan+Alam+Jaya,+42300+Bandar+Puncak+Alam,+Selangor,+Malaysia/@3.2396142,101.4480426,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc5bce58b47105:0x5c0ef6c7d7007d82!8m2!3d3.2396142!4d101.4480426!16s%2Fg%2F11s0wy54rv?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,USJ Taipan,"7 Jalan USJ 10/1 
+USJ Taipan Triangle 
+47620 UEP Subang Jaya 
+Selangor",,https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,USJ Triangle,"No 9A Jalan USJ 10/1H,
+Taipan Triangle,
+47610 Subang Jaya,
+Selangor","https://www.google.com/maps/place/HR+2000+Sdn+Bhd/@3.0483615,101.5851394,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc4cc4687e267d:0xd6a81ecc8d69a479!8m2!3d3.0483615!4d101.5851394!16s%2Fg%2F1tfrjvl5?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Bandar Tun Hussein Onn,"No 54 Jalan Suarasa 8/4,
+Bandar Tun Hussein Onn,
+43200 Cheras,
+Selangor","https://www.google.com/maps/place/54,+Jalan+Suarasa+8%2F4,+Tun+Hussein+Onn,+43200+Cheras,+Selangor,+Malaysia/@3.047389,101.758791,17z/data=!3m1!4b1!4m6!3m5!1s0x31cc34dbf701f4b7:0x13dd36919953e365!8m2!3d3.047389!4d101.758791!16s%2Fg%2F11hdcggbd6?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,Bandar Puteri Puchong,"No 26, Jalan Puteri 1/1,
+Bandar Puteri,
+47100 Puchong,
+Selangor","https://www.google.com/maps/place/26,+Jalan+Puteri+1%2F1,+Bandar+Puteri,+47100+Puchong,+Selangor,+Malaysia/@3.0253233,101.6170442,17z/data=!3m1!4b1!4m6!3m5!1s0x31cdb4a8127c37bb:0xcf7a88985f03c335!8m2!3d3.0253233!4d101.6170442!16s%2Fg%2F11fkkzktyt?entry=ttu",https://www.uob.com.my/default/uob-branch-locator.page,Branches,UOB,
+Foreigner Bank,Selangor,HSBC Amanah Ampang Point,"18, 19 & 20, Lorong Memanda 5, Ampang Point, Ampang Point, Selangor Darul Ehsan, 68000, Ampang Point",https://www.google.com/maps/dir/?api=1&destination=3.157818/101.750962,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Old Klang Road,"1-G & 1-1, Ground & First Floor, 3rd Mile Square, 151 Jalan Kelang Lama, Batu 3 1/2, Old Klang Road, Wilayah Persekutuan Kuala Lumpur, 58100, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.103846/101.677580,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Plaza Mont Kiara,"Plaza Mont Kiara No 2, Jalan Kiara, Mont Kiara, Plaza Mont Kiara, Wilayah Persekutuan Kuala Lumpur, 50480, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.165438/101.651907,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Bukit Bintang,"Menara Genesis No 33 Jalan Sultan Ismail, Bukit Bintang, Wilayah Persekutuan Kuala Lumpur, 50250, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.148292/101.710549,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Wangsa Maju,"Nos.37, 37-1 & 39, Jalan Rampai Niaga 5, Medan Niaga Rampai, Wangsa Maju, Wilayah Persekutuan Kuala Lumpur, 53300, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.199210/101.728950,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar,"No.66G, 66-1 & 68G, Jalan Telawi, Bangsar Baru, Bangsar, Wilayah Persekutuan Kuala Lumpur, 59100, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.130130/101.670600,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC KL Main,"Level 2, Menara IQ, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Tun Razak Exchange, Wilayah Persekutuan Kuala Lumpur, 55188, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.140944/101.719123,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Puncak Sentul,"Unit No. AG 10 & AG 11 Ground Floor, Puncak Sentul, No. 8, Jalan Sentul Perdana, 51000 Kuala Lumpur, Sentul, Wilayah Persekutuan Kuala Lumpur, 51000, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.202900/101.687119,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar South,"Unit G-03, Ground Floor, The Sphere, No. 1, Avenue 1, Bangsar South City, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Bangsar South, Wilayah Persekutuan Kuala Lumpur, 59200, Kuala Lumpur",https://www.google.com/maps/dir/?api=1&destination=3.112499/101.628398,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,HSBC Amanah KL City Centre,"Units G-12 & M-16, Ground & Mezzanine Floors, Wisma UOA II, No 21 Jalan Pinang, Kuala Lumpur City Centre, Wilayah Persekutuan Kuala Lumpur, 50450, Kuala Lumpur City Centre",https://www.google.com/maps/dir/?api=1&destination=3.152572/101.712281,https://www.hsbc.com.my/branch-list/,Branches,HSBC,
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur Main,"Ground Floor
+Menara OCBC
+18 Jalan Tun Perak
+50050 Kuala Lumpur","https://www.google.com/maps/search/?api=1&query=3.15019,101.696116",https://www.ocbc.com.my/personal-banking/locate-us?p=1,Branches,OCBC,
+Foreigner Bank,Kuala Lumpur,Bukit Damansara,"19 Jalan Setiapuspa
+Bukit Damansara
+50490 Kuala Lumpur","https://www.google.com/maps/search/?api=1&query=3.1519,101.66983",https://www.ocbc.com.my/personal-banking/locate-us?p=2,Branches,OCBC,
+Foreigner Bank,Kuala Lumpur,Petaling Jaya,"89, 91 & 93 Jalan SS 21/60
+Damansara Utama
+47400 Petaling Jaya","https://www.google.com/maps/search/?api=1&query=3.1182,101.61152",https://www.ocbc.com.my/personal-banking/locate-us?p=3,Branches,OCBC,
+Foreigner Bank,Kuala Lumpur,Cheras,"No. 1, 3, 5 & 7
+Jalan Damai Niaga 1
+Alam Damai Cheras
+56000 Kuala Lumpur","https://www.google.com/maps/search/?api=1&query=3.075133,101.736624",https://www.ocbc.com.my/personal-banking/locate-us?p=4,Branches,OCBC,
+Foreigner Bank,Selangor,Al-Amin Kota Damansara,"1 Jalan PJU 5/20
+Pusat Perdagangan Kota Damansara (THE STRAND)
+Kota Damansara PJU 5
+47810 Petaling Jaya,
+Selangor","https://www.google.com/maps/search/?api=1&query=3.154121,101.592025",https://www.ocbc.com.my/personal-banking/locate-us?p=5,Branches,OCBC,
+Foreigner Bank,Kuala Lumpur,Kepong,"60 Vista Magna
+Jalan Prima
+Metro Prima Kepong
+52100 Kuala Lumpur","https://www.google.com/maps/search/?api=1&query=3.20559,101.62148",https://www.ocbc.com.my/personal-banking/locate-us?p=6,Branches,OCBC,
+Foreigner Bank,Selangor,Puchong,"GF-2 & 3, 1F-1 & 2, Tower 2
+Puchong Financial Corporate Centre (PFCC)
+Jalan Puteri 1/2 Bandar Puteri
+47100 Puchong
+Selangor Darul Ehsan","https://www.google.com/maps/search/?api=1&query=3.025803,101.615443",https://www.ocbc.com.my/personal-banking/locate-us?p=7,Branches,OCBC,
+Foreigner Bank,Selangor,Subang Jaya,"1A-A – 4A-A
+Jalan USJ 10/1A
+Pusat Perniagaan USJ 10
+47610 UEP Subang Jaya
+Selangor Darul Ehsan","https://www.google.com/maps/search/?api=1&query=3.048586,101.58592",https://www.ocbc.com.my/personal-banking/locate-us?p=8,Branches,OCBC,
+Foreigner Bank,,Kajang,"4 & 5 Jalan Raja Haroun
+43000 Kajang
+Selangor Darul Ehsan","https://www.google.com/maps/search/?api=1&query=2.99773,101.78636",https://www.ocbc.com.my/personal-banking/locate-us?p=9,Branches,OCBC,
+Foreigner Bank,Selangor,Al-Amin Kota Kemuning,"27, Jalan Anggerik Vanilla BF 31/BF,
+Business Park 3,
+Kota Kemuning,
+40460 Shah Alam","https://www.google.com/maps/search/?api=1&query=3.00429,101.535",https://www.ocbc.com.my/personal-banking/locate-us?p=10,Branches,OCBC,
+Foreigner Bank,Selangor,Klang,"19 Jalan Stesen
+41000 Klang
+Selangor Darul Ehsan","https://www.google.com/maps/search/?api=1&query=3.03185,101.44814",https://www.ocbc.com.my/personal-banking/locate-us?p=11,Branches,OCBC,
+Foreigner Bank,Selangor,Al-Amin Bandar Botanic,"No. 117, Jalan Mahogani 5/KS 7,
+Bandar Botanic,
+41200 Klang
+Selangor","https://www.google.com/maps/search/?api=1&query=2.992908,101.447052",https://www.ocbc.com.my/personal-banking/locate-us?p=12,Branches,OCBC,
+Foreigner Bank,,Seremban,"63 - 65 Jalan Dato Bandar Tunggal
+70000 Seremban
+Negeri Sembilan Darul Khusus","https://www.google.com/maps/search/?api=1&query=2.72274,101.95121",https://www.ocbc.com.my/personal-banking/locate-us?p=13,Branches,OCBC,
+Foreigner Bank,,Melaka,"No. 2F-2F-4
+Jalan KLJ4
+Taman Kota Laksamana Jaya
+75200 Melaka","https://www.google.com/maps/search/?api=1&query=2.19748,102.23304",https://www.ocbc.com.my/personal-banking/locate-us?p=14,Branches,OCBC,
+Foreigner Bank,,Teluk Intan,"1054 Jalan Mahkota
+36000 Teluk Intan
+Perak Darul Ridzuan","https://www.google.com/maps/search/?api=1&query=4.026494,101.021386",https://www.ocbc.com.my/personal-banking/locate-us?p=15,Branches,OCBC,
+Foreigner Bank,,Segamat,"109C-109E Jalan Genuang
+85000 Segamat
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=2.51052,102.83986",https://www.ocbc.com.my/personal-banking/locate-us?p=16,Branches,OCBC,
+Foreigner Bank,,Muar,"26 Jalan Maharani
+84000 Muar
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=2.03927,102.56909",https://www.ocbc.com.my/personal-banking/locate-us?p=17,Branches,OCBC,
+Foreigner Bank,,Ipoh Main,"2 Jalan Dato Maharaja Lela
+30000 Ipoh
+Perak Darul Ridzuan","https://www.google.com/maps/search/?api=1&query=4.59687,101.076745",https://www.ocbc.com.my/personal-banking/locate-us?p=18,Branches,OCBC,
+Foreigner Bank,,Kuantan,"40 Jalan Teluk Sisek
+25000 Kuantan
+Pahang Darul Makmur","https://www.google.com/maps/search/?api=1&query=3.80789,103.28008",https://www.ocbc.com.my/personal-banking/locate-us?p=19,Branches,OCBC,
+Foreigner Bank,,Batu Pahat,"108-2 Jalan Rahmat
+83000 Batu Pahat
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=1.84358,102.94706",https://www.ocbc.com.my/personal-banking/locate-us?p=20,Branches,OCBC,
+Foreigner Bank,,Taiping,"24-30 Jalan Berek
+34000 Taiping
+Perak Darul Ridzuan","https://www.google.com/maps/search/?api=1&query=4.8541,100.73757",https://www.ocbc.com.my/personal-banking/locate-us?p=21,Branches,OCBC,
+Foreigner Bank,,Kluang,"8A Jalan Dato' Haji Hassan
+86000 Kluang
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=2.02879,103.31538",https://www.ocbc.com.my/personal-banking/locate-us?p=22,Branches,OCBC,
+Foreigner Bank,,Kulai,"No. 202, 203 and 204,
+Jalan Kenanga 29/2,
+Indahpura,
+81000 Kulai,
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=1.641465,103.619738",https://www.ocbc.com.my/personal-banking/locate-us?p=23,Branches,OCBC,
+Foreigner Bank,,Al-Amin Skudai,"No. 143 & 145,
+Jalan Sutera Tanjung 8/2
+Taman Sutera Utama
+81300 Skudai
+Johor","https://www.google.com/maps/search/?api=1&query=1.53789,103.66087",https://www.ocbc.com.my/personal-banking/locate-us?p=24,Branches,OCBC,
+Foreigner Bank,,Bukit Mertajam,"No. 47, 49, 51, 53
+Jalan Perniagaan Gemilang 1
+Pusat Perniagaan Gemilang
+14000 Bukit Mertajam
+Pulau Pinang","https://www.google.com/maps/search/?api=1&query=5.351399,100.442551",https://www.ocbc.com.my/personal-banking/locate-us?p=25,Branches,OCBC,
+Foreigner Bank,,Batu Maung,"No.13 – 15 Lintang Batu Maung 1
+11960 Batu Maung,
+Pulau Pinang","https://www.google.com/maps/search/?api=1&query=5.28731,100.28125",https://www.ocbc.com.my/personal-banking/locate-us?p=26,Branches,OCBC,
+Foreigner Bank,,Taman Molek,"47 & 49 Jalan Molek 1/29
+Taman Molek
+81100 Johor Bahru
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=1.52527,103.73984",https://www.ocbc.com.my/personal-banking/locate-us?p=27,Branches,OCBC,
+Foreigner Bank,,Penang,"36 Lebuh Pantai
+10300 Pulau Pinang","https://www.google.com/maps/search/?api=1&query=5.417437,100.341961",https://www.ocbc.com.my/personal-banking/locate-us?p=28,Branches,OCBC,
+Foreigner Bank,,Johor Bahru,"1 Jalan Ibrahim
+80000 Johor Bahru
+Johor Darul Takzim","https://www.google.com/maps/search/?api=1&query=1.4568635,103.7650604",https://www.ocbc.com.my/personal-banking/locate-us?p=29,Branches,OCBC,
+Foreigner Bank,,Al-Amin Sungai Petani,"104, Jalan Legenda 4
+Legenda Heights
+08000 Sungai Petani
+Kedah Darul Aman","https://www.google.com/maps/search/?api=1&query=5.64902,100.49513",https://www.ocbc.com.my/personal-banking/locate-us?p=30,Branches,OCBC,
+Foreigner Bank,,Kota Bharu,"3940 Jalan Temenggong
+15000 Kota Bharu
+Kelantan Darul Naim","https://www.google.com/maps/search/?api=1&query=6.15372,102.25408",https://www.ocbc.com.my/personal-banking/locate-us?p=31,Branches,OCBC,
+Foreigner Bank,,Alor Setar,"No. 209 Jalan Gangsa
+Kawasan Perusahaan Mergong 2
+05150 Alor Setar","https://www.google.com/maps/search/?api=1&query=6.131907,100.359867",https://www.ocbc.com.my/personal-banking/locate-us?p=32,Branches,OCBC,
+Foreigner Bank,,Kuching,"UG Floor,
+Gateway Kuching
+No.9, Jalan Bukit Mata
+93100 Kuching
+Sarawak","https://www.google.com/maps/search/?api=1&query=1.559351,110.353346",https://www.ocbc.com.my/personal-banking/locate-us?p=33,Branches,OCBC,
+Foreigner Bank,,Al-Amin Sibu,"Ground Floor,
+Wisma Toh Li Hua Foundation,
+Jaya Li Hua,
+No. 21 Jalan Pahlawan,
+96000 Sibu
+Sarawak","https://www.google.com/maps/search/?api=1&query=2.304873,111.847",https://www.ocbc.com.my/personal-banking/locate-us?p=34,Branches,OCBC,
+Foreigner Bank,,Miri,"Lot 1375 & 1376 Centrepoint
+Commercial Centre (Phase 2)
+Block 10 Miri Concession
+Land District Kubu Road
+98000 Miri
+Sarawak","https://www.google.com/maps/search/?api=1&query=4.387811,113.983215",https://www.ocbc.com.my/personal-banking/locate-us?p=35,Branches,OCBC,
+Foreigner Bank,,Kota Kinabalu,"21 & 23 Jalan Pantai
+88000 Kota Kinabalu
+Sabah","https://www.google.com/maps/search/?api=1&query=5.984638,116.076897",https://www.ocbc.com.my/personal-banking/locate-us?p=36,Branches,OCBC,
+Foreigner Bank,,Al-Amin Sandakan,"Lot 1, Block 16, Bandar Indah,
+Batu 4, Jalan Utara,
+90000 Sandakan
+Sabah","https://www.google.com/maps/search/?api=1&query=5.855064,118.0718",https://www.ocbc.com.my/personal-banking/locate-us?p=37,Branches,OCBC,

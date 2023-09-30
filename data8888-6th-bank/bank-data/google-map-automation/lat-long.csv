@@ -1,0 +1,635 @@
+_01_category,_02_state,_03_branch_name,_04_address,_05_latitude,_06_longitude,_07_bank_type,_08_mother_bank_name
+Local Bank,Selangor,AFFIN Ampang Jaya,"No 11 & 11A, Jalan Mamanda 7/1, Ampang Point, 68000 Ampang, Selangor",3.1512714,101.7058145,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0978825,101.6430538,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kepong,"No. 6, Jalan 54, Desa Jaya, 52100 Kepong, Selangor",3.2138966,101.6323013,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Ampang New Village,"No 21G & 23G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Ampang, Selangor",3.1463013,101.7666529,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kota Kemuning,"No 15-1 & 17-1 (GF), No. 8 Jalan Anggerik Vanilla BE 31/BE, Kota Kemuning Seksyen 31, 40460 Shah Alam, Selangor",3.0044406,101.5364145,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Bandar Bukit Tinggi,"No. 77 & 79 Jalan Batu Nilam 5, Bandar Bukit Tinggi, 41200 Klang, Selangor",3.0106806,101.434049,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN USJ Taipan,"No 8A & 8B, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",3.0609574,101.5788918,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Puchong,"No 12A, Jalan Puteri 1/1 Bandar Puteri Puchong 47100 Puchong, Selangor",3.025299,101.614407,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Jalan Meru,"No. 38 & 40, Pelangi Avenue, Jalan Kelicap 42A/KU1, Klang Bandar Diraja, 41050 Klang, Selangor",3.0640307,101.4512663,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Cyberjaya,"P1-13, Shaftsbury Square, Lot No. 2350, Cyber 6, Persiaran Multimedia, 63000 Cyberjaya, Selangor",,,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN UiTM,"Universiti Teknologi Mara, Level 2, Menara Sultan Abdul Aziz Shah, 40450 Shah Alam, Selangor",3.0659611,101.5051615,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Subang Jaya,"No. 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Sea Park,"No. 20 - 22, Jalan 21/12, Sea Park, 46300 Petaling Jaya, Selangor",3.108732,101.6217433,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kota Damansara,"No. B-G-19, 20 & 21 (GF), Dataran Cascades, Jalan PJU 5/1, Kota Damasara PJU 5 47810 Petaling Jaya, Selangor.",3.1546877,101.5971934,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Denai Alam,"No 1, Ground Floor, Jalan Elektron U16/J, Seksyen U 16, Denai Alam, 40160 Shah Alam, Selangor",3.1612937,101.5112045,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN The Curve,"The Curve Shopping Complex, Jln PJU 7/8, Mutiara Damansara, 47820 PJ, Selangor",3.1573373,101.60999,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Shah Alam,"Vista Alam, F-G-38 & 39, Jalan Ikhtisas 14/1, Off Persiaran Damai, Seksyen 14 40000 Shah Alam, Selangor",3.0704941,101.5231615,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN MSU,"Management & Science University, 2nd Floor, University Drive, Persiaran Olahraga, Section 13, 40100 Shah Alam, Selangor",3.0788699,101.5525714,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Ara Damansara,"Unit B-G-07 & B-G-08, Block B, No. 2, Jalan PJU 1A/7A, Ara Damansara, 47301 Petaling Jaya, Selangor.",3.1135831,101.5753004,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Selayang,"No 81-85, Jalan 2/3A, Pusat Bandar Utara, KM12, Jalan Ipoh, 68100 Batu Caves, Selangor",3.2360357,101.6685104,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kota Warisan,"No G-3, Ground Floor, Jalan Warisan 1, KIP Sentral Kota Warisan, 43900 Sepang, Selangor",,,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Port Klang,"No 1, Jalan Berangan, 42000 Port Klang, Selangor",3.00535,101.395241,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Rawang,"No 33G & 35G, Jalan 1B, Fortune Avenue, 48000 Rawang, Selangor",3.3077984,101.5828639,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Klang Utara,"No 29 & 31, Jalan Tiara 3, Bandar Baru Klang, 41150 Klang, Selangor",3.0641176,101.4686981,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN PJ SS2,"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Bangi,"No.175 & 177, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor",,,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Seri Kembangan,"36, Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0150324,101.6953993,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Taman Equine,"No. 22 & 22A, Jalan Equine 1G, Pusat Komersial Equine, Taman Equine 43300 Seri Kembangan, Selangor",,,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Kampus Puncak Alam,"Kompleks At-Tijarah Affin-UiTM, UiTM Kampus Puncak Alam, 42300 Kuala Selangor, Selangor",3.202607,101.4472284,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Balakong,"Lot 13A-UG & 13A-1 Jalan C180/1, Dataran C180 43200 Cheras, Selangor",3.0368617,101.7622526,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Seksyen 14 Petaling Jaya,"No. 6 & 8, Ground & First Floor, Jalan 14/14, Off Jalan Prof Khoo Kay Kim, 46100 Petaling Jaya, Selangor",3.1097115,101.6368934,AFFIN Branch,Affin
+Local Bank,Selangor,AFFIN Damansara Utama,"No. 18, 20 & 22, Ground & Mezzanine Floor, Jalan SS 21/39, Damansara Utama, 47400 Petaling Jaya, Selangor",3.1351658,101.6190706,AFFIN Branch,Affin
+Local Bank,Selangor,AFFINBANK Business Centre Subang Jaya,"2nd Floor, 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,Affin Bank Business Centre,Affin
+Local Bank,Selangor,AFFINBANK Business Centre Kinrara,"1st Floor, No 1, Jalan TK1/11A Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,Affin Bank Business Centre,Affin
+Local Bank,Selangor,AFFINBANK Business Centre Kajang,"2nd Floor, 2 & 3, Jalan Saga Taman Sri Saga, Off Jalan Sg. Chua 43000 Kajang, Selangor",,,Affin Bank Business Centre,Affin
+Local Bank,Selangor,AFFINBANK Business Centre Balakong,"No 13A-UG & 13A-1 Jalan C180/1, Dataran C180 43200 Cheras, Selangor",3.0368617,101.7622526,Affin Bank Business Centre,Affin
+Local Bank,Selangor,AFFINBANK Business Centre Bandar Bukit Tinggi,"2nd floor, No. 77 & 79, Jalan Batu Nilam 5, Bandar Bukit Tinggi, 41200 Klang, Selangor",3.0106806,101.434049,Affin Bank Business Centre,Affin
+Local Bank,Selangor,ATM BHP Rasa Ria Saga,"Batu 11 1/2, Kaw Rehat Lebuhraya Cheras-Kajang, Jalan Cheras 43000 Kajang, 43200 Batu 9 Cheras, Selangor",3.0320984,101.7694403,ATM,Affin
+Local Bank,Selangor,ATM BHP Taman Muda,"Lot Pt 15217, Jalan Bunga Mawar 1, 68000, Ampang, Selangor",3.1186411,101.7596193,ATM,Affin
+Local Bank,Selangor,ATM BHP Jalan 222,"Jalan 222, 46100 Petaling Jaya, Selangor",3.0963089,101.633627,ATM,Affin
+Local Bank,Selangor,ATM BHP Batu Caves,"Lot Pt 18426, Batu 8, Jalan Batu Caves, 68100, Selangor",3.2363914,101.6942777,ATM,Affin
+Local Bank,Selangor,ATM BHP Bandar Baru Klang,"Lot Pt 21153, Persiaran Bukit Raja, Bandar Baru Klang, 41150 Klang, Selangor",3.0628664,101.4613188,ATM,Affin
+Local Bank,Selangor,ATM BHP Jalan Kebun,"Lot 15752, Jalan Kebun, 41000 Klang, Selangor",3.0227009,101.478691,ATM,Affin
+Local Bank,Selangor,ATM BHP Kg Sg Kayu Ara,"Lot 13639, Jalan Kenanga, Off Jalan Damansara Highway, 47400, Petaling Jaya, Selangor",3.1327673,101.6090979,ATM,Affin
+Local Bank,Selangor,ATM BHP Bandar Sunway,"Lot Pt 15365, Jalan PJS 8/1, Bandar Sunway, Petaling Jaya, Selangor",3.0789354,101.6119445,ATM,Affin
+Local Bank,Selangor,ATM Kompleks PKNS,"Ground Floor, Kompleks PKNS, 40000 Shah Alam, Selangor",3.0706682,101.5150656,ATM,Affin
+Local Bank,Selangor,ATM AFFIN MSU,"Management & Science University, 2nd Floor, University Drive, Persiaran Olahraga, Section 13, 40100 Shah Alam, Selangor",3.0787882,101.5520732,ATM,Affin
+Local Bank,Selangor,ATM Nottingham University,"Ground Floor, Student Centre, Jalan Broga, Semenyih, 43500, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM BHP Bukit Naga,"Lot Pt 46120 Batu 6, Jalan Bukit Kemuning, Bukit Naga, 42540 Klang, Selangor",3.0043022,101.506982,ATM,Affin
+Local Bank,Selangor,ATM SACC Mall,"1st Floor, Jalan Perbandaran 14/9, Pusat Bandar Shah Alam, 40000, Shah Alam, Selangor",3.0717215,101.5160624,ATM,Affin
+Local Bank,Selangor,ATM PTPL,"17-G, Block A, Jalan Equestrian 13/52, Off Persiaran Sukan, Seksyen 13, 40100, Shah Alam, Selangor",3.0910311,101.5422307,ATM,Affin
+Local Bank,Selangor,ATM KLIA,"Departure Hall, 5th Floor, Main Terminal Building, KLIA Sepang, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM BHP Tg Ampuan Rahimah,"Lot 35001, Persiaran Tg Ampuan Rahimah, 41200 Klang, Selangor",3.0262734,101.4430225,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Ampang Jaya,"No 11 & 11A, Jalan Mamanda 7/1, Ampang Point, 68000 Ampang, Selangor",3.1512714,101.7058145,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Ampang New Village,"No 21G & 23G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Ampang, Selangor",3.1463013,101.7666529,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Ara Damansara,"Unit B-G-07 & B-G-08, Block B, No. 2, Jalan PJU 1A/7A, Ara Damansara, 47301 Petaling Jaya, Selangor.",3.1135831,101.5753004,ATM,Affin
+Local Bank,Selangor,ATM TUDM Subang,"Pernama, Pangkalan TUDM Subang, Shah Alam, Selangor",3.1164457,101.5395689,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Bandar Bukit Tinggi,"No. 77 & 79 Jalan Batu Nilam 5, Bandar Bukit Tinggi, 41200 Klang, Selangor",3.0106806,101.434049,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Bangi,"No.175 & 177, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Cyberjaya,"P1-13, Shaftsbury Square, Lot No. 2350, Cyber 6, Persiaran Multimedia, 63000 Cyberjaya, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Denai Alam,"No 1, Ground Floor, Jalan Elektron U16/J, Seksyen U 16, Denai Alam, 40160 Shah Alam, Selangor",3.1612937,101.5112045,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Jalan Meru,"No. 38 & 40, Pelangi Avenue, Jalan Kelicap 42A/KU1, Klang Bandar Diraja, 41050 Klang, Selangor",3.0640307,101.4512663,ATM,Affin
+Local Bank,Selangor,ATM BHP Jalan Meru,"Lot Pt 9861, Jalan Meru, 41050 Klang, Selangor",3.0602544,101.4503987,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kepong,"No. 6, Jalan 54, Desa Jaya, 52100 Kepong, Selangor",3.2138966,101.6323013,ATM,Affin
+Local Bank,Selangor,"ATM Pernama, Perhebat","Kedai Pernama, Kem Askar Sg Buloh, 47000, Sg Buloh, Selangor",3.2198174,101.5670273,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Klang Utara,"No 29 & 31, Jalan Tiara 3, Bandar Baru Klang, 41150 Klang, Selangor",3.0641176,101.4686981,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kota Damansara,"No. B-G-19, 20 & 21 (GF), Dataran Cascades, Jalan PJU 5/1, Kota Damasara PJU 5 47810 Petaling Jaya, Selangor.",3.1546877,101.5971934,ATM,Affin
+Local Bank,Selangor,ATM BHP Obr Sg Buloh,"Kawasan Rehat Dan Rawat, Restoran Jejantas Sg Buloh, Mukim Sg. Buloh, 47810 Petaling Jaya, Selangor",3.1887813,101.5860608,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kota Kemuning,"No 15-1 & 17-1 (GF), No. 8 Jalan Anggerik Vanilla BE 31/BE, Kota Kemuning Seksyen 31, 40460 Shah Alam, Selangor",3.0044406,101.5364145,ATM,Affin
+Local Bank,Selangor,ATM MAHSA Jenjarom,"Mahsa University, Jalan SP 2, Bandar Saujana Putra, 42610 Jenjarom, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kota Warisan,"No G-3, Ground Floor, Jalan Warisan 1, KIP Sentral Kota Warisan, 43900 Sepang, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM BHP Jalan Batu 3 Lama,"Lot Pt 7637, Jalan Batu Tiga Lama, 41300 Klang, Selangor",3.0535277,101.4646021,ATM,Affin
+Local Bank,Selangor,ATM AFFIN PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0978825,101.6430538,ATM,Affin
+Local Bank,Selangor,ATM AFFIN PJ SS2,"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Port Klang,"No 1, Jalan Berangan, 42000 Port Klang, Selangor",3.00535,101.395241,ATM,Affin
+Local Bank,Selangor,ATM BHP Westport,"Lot Pt 91261, Lebuhraraya Pulai Indah KS 13, 42920 Port Klang, Selangor",3.0079744,101.3910439,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Puchong,"J-03-G, Blok J, Setiawalk, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor",3.0306811,101.6157279,ATM,Affin
+Local Bank,Selangor,ATM BHP Puchong Jaya,"Lot Pt 9411 Bandar Puchong Jaya, Batu 7, Jalan Puchong, 47100 Puchong, Selangor",3.0567999,101.6282163,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Rawang,"No 33G & 35G, Jalan 1B, Fortune Avenue, 48000 Rawang, Selangor",3.3077984,101.5828639,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Sea Park,"No. 20 - 22, Jalan 21/12, Sea Park, 46300 Petaling Jaya, Selangor",3.108732,101.6217433,ATM,Affin
+Local Bank,Selangor,ATM BHP Sea Park,"Jalan 19/1-B, Sea Park, 46300 Petaling Jaya, Selangor",3.1131252,101.6245389,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Selayang,"No 81-85, Jalan 2/3A, Pusat Bandar Utara, KM12, Jalan Ipoh, 68100 Batu Caves, Selangor",3.2360357,101.6685104,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Seri Kembangan,"36, Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0150324,101.6953993,ATM,Affin
+Local Bank,Selangor,ATM BHP Sungai Besi,"Lot Pt 44, Lebuhraya KL - Seremban, 43300 Seri Kembangan, Selangor",3.0361296,101.7039934,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Shah Alam,"Vista Alam, F-G-38 & 39, Jalan Ikhtisas 14/1, Off Persiaran Damai, Seksyen 14 40000 Shah Alam, Selangor",3.0704941,101.5231615,ATM,Affin
+Local Bank,Selangor,ATM MBSA,"Ground Floor, Wisma MBSA, Jalan Persiaran Perbandaran, 40450 Shah Alam, Selangor",3.0737041,101.5172937,ATM,Affin
+Local Bank,Selangor,ATM Terminal Bus Sec 17,"Terminal Bus Station, Jalan Jenulung 17/21, Sec 17, 40000 Shah Alam, Selangor",3.0472294,101.5019633,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Subang Jaya,"No. 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Taman Equine,"No. 22 & 22A, Jalan Equine 1G, Pusat Komersial Equine, Taman Equine 43300 Seri Kembangan, Selangor",,,ATM,Affin
+Local Bank,Selangor,ATM AFFIN The Curve,"The Curve Shopping Complex, Jln PJU 7/8, Mutiara Damansara, 47820 PJ, Selangor",3.1573373,101.60999,ATM,Affin
+Local Bank,Selangor,ATM BHP Mutiara Damansara,"Lot Pt 40063, Jalan PJU 7/1 & PJU 7/5, Mutiara Damansara, 47800 Petaling Jaya, Selangor",3.163061,101.6097557,ATM,Affin
+Local Bank,Selangor,ATM AFFIN UiTM,"Universiti Teknologi Mara, Level 2, Menara Sultan Abdul Aziz Shah, 40450 Shah Alam, Selangor",3.0659611,101.5051615,ATM,Affin
+Local Bank,Selangor,ATM BHP Tengku Ampuan,"Lot Pt 14342, Persiaran Tengku Ampuan, Near Mc Donald, Sec 26, 40300 Shah Alam, Selangor",3.0399122,101.5455127,ATM,Affin
+Local Bank,Selangor,ATM Kolej Kejuruteraan,"Bangunan Kejuruteraan, Tower 2, UiTM Shah Alam, 40450 Shah Alam, Selangor",3.0721641,101.4940519,ATM,Affin
+Local Bank,Selangor,ATM AFFIN Kampus Puncak Alam,"Kompleks At-Tijarah Affin-UiTM, UiTM Kampus Puncak Alam, 42300 Kuala Selangor, Selangor",3.202607,101.4472284,ATM,Affin
+Local Bank,Selangor,ATM UiTM Pusat Bahasa Korea,"Pusat Bahasa Korea, Blok 26, UiTM 40450 Shah Alam, Selangor",3.0664566,101.4899855,ATM,Affin
+Local Bank,Selangor,ATM AFFIN USJ Taipan,"No 8A & 8B, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",3.0609574,101.5788918,ATM,Affin
+Local Bank,Selangor,ATM Pharmaniaga,"Pharmaniaga Berhad, 7 Lorong Keluli 1B, Kawasan Perindustrian Bukit Raja Selatan, Sec 7, 40000 Shah Alam, Selangor",3.0651996,101.4744985,ATM,Affin
+Local Bank,Selangor,Auto Finance Centre PJ SS2,"161, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1160353,101.6221469,Auto Finance Centre,Affin
+Local Bank,Selangor,Auto Finance Centre PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0982812,101.6446404,Auto Finance Centre,Affin
+Local Bank,Selangor,Auto Finance Centre Seri Kembangan,"36 Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0982812,101.6446404,Auto Finance Centre,Affin
+Local Bank,Selangor,AFFINBANK Mortgage Sales Hub Seri Kembangan,"2nd Floor, No.36 Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0150324,101.6953993,Affin Bank Mortgage Sales Hub,Affin
+Local Bank,Selangor,CDM AFFIN Denai Alam,"No 1, Ground Floor, Jalan Elektron U16/J, Seksyen U 16, Denai Alam, 40160 Shah Alam, Selangor",3.1612937,101.5112045,CDM,Affin
+Local Bank,Selangor,CDM MAHSA Jenjarom,"Mahsa University, Jalan SP 2, Bandar Saujana Putra, 42610 Jenjarom, Selangor",,,CDM,Affin
+Local Bank,Selangor,CDM AFFIN MSU,"Management & Science University, 2nd Floor, University Drive, Persiaran Olahraga, Section 13, 40100 Shah Alam, Selangor",3.0787882,101.5520732,CDM,Affin
+Local Bank,Selangor,CDM AFFIN PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0978825,101.6430538,CDM,Affin
+Local Bank,Selangor,CDM BHP Sungai Besi,"Lot Pt 44, Lebuhraya KL - Seremban, 43300 Seri Kembangan, Selangor",3.0361296,101.7039934,CDM,Affin
+Local Bank,Selangor,CDM Kompleks PKNS,"Ground Floor, Kompleks PKNS, 40000 Shah Alam, Selangor",3.0706682,101.5150656,CDM,Affin
+Local Bank,Selangor,CQM AFFIN Ampang Jaya,"No 11 & 11A, Jalan Mamanda 7/1, Ampang Point, 68000 Ampang, Selangor",3.1512714,101.7058145,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Ampang New Village,"No 21G & 23G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Ampang, Selangor",3.1463013,101.7666529,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Ara Damansara,"Unit B-G-07 & B-G-08, Block B, No. 2, Jalan PJU 1A/7A, Ara Damansara, 47301 Petaling Jaya, Selangor.",3.1135831,101.5753004,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Bandar Bukit Tinggi,"No. 77 & 79 Jalan Batu Nilam 5, Bandar Bukit Tinggi, 41200 Klang, Selangor",3.0106806,101.434049,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Bangi,"No.175 & 177, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor",,,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Cyberjaya,"P1-13, Shaftsbury Square, Lot No. 2350, Cyber 6, Persiaran Multimedia, 63000 Cyberjaya, Selangor",,,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Jalan Meru,"No. 38 & 40, Pelangi Avenue, Jalan Kelicap 42A/KU1, Klang Bandar Diraja, 41050 Klang, Selangor",3.0640307,101.4512663,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kepong,"No. 6, Jalan 54, Desa Jaya, 52100 Kepong, Selangor",3.2138966,101.6323013,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Klang Utara,"No 29 & 31, Jalan Tiara 3, Bandar Baru Klang, 41150 Klang, Selangor",3.0641176,101.4686981,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kota Damansara,"No. B-G-19, 20 & 21 (GF), Dataran Cascades, Jalan PJU 5/1, Kota Damasara PJU 5 47810 Petaling Jaya, Selangor.",3.1546877,101.5971934,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kota Kemuning,"No 15-1 & 17-1 (GF), No. 8 Jalan Anggerik Vanilla BE 31/BE, Kota Kemuning Seksyen 31, 40460 Shah Alam, Selangor",3.0044406,101.5364145,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Kota Warisan,"No G-3, Ground Floor, Jalan Warisan 1, KIP Sentral Kota Warisan, 43900 Sepang, Selangor",,,CQM,Affin
+Local Bank,Selangor,CQM AFFIN MSU,"Management & Science University, 2nd Floor, University Drive, Persiaran Olahraga, Section 13, 40100 Shah Alam, Selangor",3.0787882,101.5520732,CQM,Affin
+Local Bank,Selangor,CQM AFFIN PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0978825,101.6430538,CQM,Affin
+Local Bank,Selangor,CQM AFFIN PJ SS2,"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Port Klang,"No 1, Jalan Berangan, 42000 Port Klang, Selangor",3.00535,101.395241,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Puchong,"J-03-G, Blok J, Setiawalk, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor",3.0306811,101.6157279,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Rawang,"No 33G & 35G, Jalan 1B, Fortune Avenue, 48000 Rawang, Selangor",3.3077984,101.5828639,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Sea Park,"No. 20 - 22, Jalan 21/12, Sea Park, 46300 Petaling Jaya, Selangor",3.108732,101.6217433,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Selayang,"No 81-85, Jalan 2/3A, Pusat Bandar Utara, KM12, Jalan Ipoh, 68100 Batu Caves, Selangor",3.2360357,101.6685104,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Seri Kembangan,"36, Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0150324,101.6953993,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Shah Alam,"Vista Alam, F-G-38 & 39, Jalan Ikhtisas 14/1, Off Persiaran Damai, Seksyen 14 40000 Shah Alam, Selangor",3.0704941,101.5231615,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Subang Jaya,"No. 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Taman Equine,"No. 22 & 22A, Jalan Equine 1G, Pusat Komersial Equine, Taman Equine 43300 Seri Kembangan, Selangor",,,CQM,Affin
+Local Bank,Selangor,CQM AFFIN The Curve,"The Curve Shopping Complex, Jln PJU 7/8, Mutiara Damansara, 47820 PJ, Selangor",3.1573373,101.60999,CQM,Affin
+Local Bank,Selangor,CQM AFFIN USJ Taipan,"No 8A & 8B, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",3.0609574,101.5788918,CQM,Affin
+Local Bank,Selangor,CQM AFFIN Wangsa Maju,"No 2 & 4, Jln 1/27F, Kuala Lumpur Sub-Urban Centre, Wangsa Maju, 53300 Kuala Lumpur",3.1973405,101.7429434,CQM,Affin
+Local Bank,Selangor,CoDM AFFIN Ampang New Village,"No 21G & 23G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Ampang, Selangor",3.1463013,101.7666529,CoDM,Affin
+Local Bank,Selangor,CoDM AFFIN Bangi,"No.175 & 177, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor",,,CoDM,Affin
+Local Bank,Selangor,CoDM AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,CoDM,Affin
+Local Bank,Selangor,CoDM AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,CoDM,Affin
+Local Bank,Selangor,CRM AFFIN Ampang Jaya,"No 11 & 11A, Jalan Mamanda 7/1, Ampang Point, 68000 Ampang, Selangor",3.1512714,101.7058145,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Ampang New Village,"No 21G & 23G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Ampang, Selangor",3.1463013,101.7666529,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Ara Damansara,"Unit B-G-07 & B-G-08, Block B, No. 2, Jalan PJU 1A/7A, Ara Damansara, 47301 Petaling Jaya, Selangor.",3.1135831,101.5753004,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Bandar Bukit Tinggi,"No. 77 & 79 Jalan Batu Nilam 5, Bandar Bukit Tinggi, 41200 Klang, Selangor",3.0106806,101.434049,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Bangi,"No.175 & 177, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor",,,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Cyberjaya,"P1-13, Shaftsbury Square, Lot No. 2350, Cyber 6, Persiaran Multimedia, 63000 Cyberjaya, Selangor",,,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Denai Alam,"No 1, Ground Floor, Jalan Elektron U16/J, Seksyen U 16, Denai Alam, 40160 Shah Alam, Selangor",3.1612937,101.5112045,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Jalan Meru,"No. 38 & 40, Pelangi Avenue, Jalan Kelicap 42A/KU1, Klang Bandar Diraja, 41050 Klang, Selangor",3.0640307,101.4512663,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kampus Puncak Alam,"Kompleks At-Tijarah Affin-UiTM, UiTM Kampus Puncak Alam, 42300 Kuala Selangor, Selangor",3.202607,101.4472284,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kepong,"No. 6, Jalan 54, Desa Jaya, 52100 Kepong, Selangor",3.2138966,101.6323013,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Klang Utara,"No 29 & 31, Jalan Tiara 3, Bandar Baru Klang, 41150 Klang, Selangor",3.0641176,101.4686981,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kota Damansara,"No. B-G-19, 20 & 21 (GF), Dataran Cascades, Jalan PJU 5/1, Kota Damasara PJU 5 47810 Petaling Jaya, Selangor.",3.1546877,101.5971934,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kota Kemuning,"No 15-1 & 17-1 (GF), No. 8 Jalan Anggerik Vanilla BE 31/BE, Kota Kemuning Seksyen 31, 40460 Shah Alam, Selangor",3.0044406,101.5364145,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Kota Warisan,"No G-3, Ground Floor, Jalan Warisan 1, KIP Sentral Kota Warisan, 43900 Sepang, Selangor",,,CRM,Affin
+Local Bank,Selangor,CRM AFFIN MSU,"Management & Science University, 2nd Floor, University Drive, Persiaran Olahraga, Section 13, 40100 Shah Alam, Selangor",3.0787882,101.5520732,CRM,Affin
+Local Bank,Selangor,CRM AFFIN PJ State,"No. 38 & 40, Jalan Yong Shook Lin, 46050 Petaling Jaya, Selangor",3.0978825,101.6430538,CRM,Affin
+Local Bank,Selangor,CRM AFFIN PJ SS2,"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Port Klang,"No 1, Jalan Berangan, 42000 Port Klang, Selangor",3.00535,101.395241,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Puchong,"J-03-G, Blok J, Setiawalk, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor",3.0306811,101.6157279,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Rawang,"No 33G & 35G, Jalan 1B, Fortune Avenue, 48000 Rawang, Selangor",3.3077984,101.5828639,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Sea Park,"No. 20 - 22, Jalan 21/12, Sea Park, 46300 Petaling Jaya, Selangor",3.108732,101.6217433,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Selayang,"No 81-85, Jalan 2/3A, Pusat Bandar Utara, KM12, Jalan Ipoh, 68100 Batu Caves, Selangor",3.2360357,101.6685104,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Seri Kembangan,"36, Jalan PSK 3, Pusat Perdagangan Seri Kembangan, 43300 Seri Kembangan, Selangor",3.0150324,101.6953993,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Shah Alam,"Vista Alam, F-G-38 & 39, Jalan Ikhtisas 14/1, Off Persiaran Damai, Seksyen 14 40000 Shah Alam, Selangor",3.0704941,101.5231615,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Subang Jaya,"No. 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,CRM,Affin
+Local Bank,Selangor,CRM AFFIN Taman Equine,"No. 22 & 22A, Jalan Equine 1G, Pusat Komersial Equine, Taman Equine 43300 Seri Kembangan, Selangor",,,CRM,Affin
+Local Bank,Selangor,CRM AFFIN The Curve,"The Curve Shopping Complex, Jln PJU 7/8, Mutiara Damansara, 47820 PJ, Selangor",3.1573373,101.60999,CRM,Affin
+Local Bank,Selangor,CRM UiTM Shah Alam,"Bangunan Kejuruteraan, Tower 2, UiTM Shah Alam, 40450 Shah Alam, Selangor",3.0721641,101.4940519,CRM,Affin
+Local Bank,Selangor,CRM AFFIN USJ Taipan,"No 8A & 8B, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",3.0609574,101.5788918,CRM,Affin
+Local Bank,Selangor,AFFIN Selayang,"No 81-85, Jalan 2/3A, Pusat Bandar Utara, KM12, Jalan Ipoh, 68100 Batu Caves, Selangor",3.2360357,101.6685104,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Ampang Jaya,"No 11 & 11A, Jalan Mamanda 7/1, Ampang Point, 68000 Ampang, Selangor",3.1512714,101.7058145,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Kajang,"No. 2 & 3, Jalan Saga, Taman Sri Saga, Off Jalan Sg. Chua, 43000 Kajang, Selangor",,,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Klang Utara,"No 29 & 31, Jalan Tiara 3, Bandar Baru Klang, 41150 Klang, Selangor",3.0641176,101.4686981,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN PJ SS2,"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Port Klang,"No 1, Jalan Berangan, 42000 Port Klang, Selangor",3.00535,101.395241,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Subang Jaya,"No. 7 & 9, Jalan SS 15/8A, 47500 Subang Jaya, Selangor",3.0740017,101.5884475,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Kinrara,"No 1, Jalan TK1/11A, Taman Kinrara, Section 1, Batu 7 1/2, Jalan Puchong, 47100 Puchong, Selangor",3.064861,101.6492785,Safe Deposit Box,Affin
+Local Bank,Selangor,AFFIN Sea Park,"No. 20 - 22, Jalan 21/12, Sea Park, 46300 Petaling Jaya, Selangor",3.108732,101.6217433,Safe Deposit Box,Affin
+Local Bank,Selangor,Puchong (Invikta Centre),"No 12A, Jalan Puteri 1/1 Bandar Puteri Puchong 47100 Puchong, Selangor",3.025299,101.614407,Affin Invikta Centre,Affin
+Local Bank,Selangor,PJ SS2 (Invikta Centre),"No.161-163, Jalan SS 2/24, 47300 Petaling Jaya, Selangor",3.1161118,101.6221882,Affin Invikta Centre,Affin
+Local Bank,Selangor,Seksyen 14 Petaling Jaya (Invikta Lounge),"No. 6 & 8, Ground & First Floor, Jalan 14/14, Off Jalan Prof Khoo Kay Kim, 46100 Petaling Jaya, Selangor",3.1097115,101.6368934,Affin Invikta Centre,Affin
+Local Bank,Selangor,Damansara Utama (Invikta Centre),"No. 18, 20 & 22, Ground & Mezzanine Floor, Jalan SS 21/39, Damansara Utama, 47400 Petaling Jaya, Selangor",3.1351658,101.6190706,Affin Invikta Centre,Affin
+Local Bank,Selangor,Affin Mobile Financial Centre Pantai Morib,"Pantai Morib, Kuala Langat, Selangor, Malaysia",,,Affin Mobile Financial Centre,Affin
+Local Bank,Selangor,Affin Mobile Financial Centre Tmn Perumahan TUDM Jugra,"Tmn Perumahan TUDM Jugra Kampung Sungai Raba, 42700 Banting, Selangor",,,Affin Mobile Financial Centre,Affin
+Local Bank,Selangor,Affin Mobile Financial Centre Masjid Jamek Kg Pasir Baru,"Masjid Jamek Kg Pasir Baru, Kg Pasir Baru, 43500 Ulu Semenyih, Selangor",,,Affin Mobile Financial Centre,Affin
+Local Bank,Selangor,Affin Mobile Financial Centre Persatuan Kebajikan Ulu Yam Bahru,"Persatuan Kebajikan Ulu Yam Bahru, Jalan Hulu Yam Bharu, Kampung Gurney 44300 Selangor",3.4252412,101.658709,Affin Mobile Financial Centre,Affin
+Local Bank,Selangor,Affin Mobile Financial Centre Tmn Jugra Indah,"Tmn Jugra Indah, Permatang Pasir, Jugra 42700 Banting, Kuala Langat, Selangor",,,Affin Mobile Financial Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Seri Petaling,No. 10 - 12 Jalan Raden Tengah Bandar Baru Seri Petaling 57000 Seri Petaling Kuala Lumpur,3.0684074,101.693263,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Bangsar,"No 4 & 6, Jalan Talawi 3, Bangsar Baru, 59100 Kuala Lumpur",3.1324976,101.6690308,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Batu Cantonment,"No 840 & 842, Batu 4 3/4, Jalan Ipoh, 51200 Kuala Lumpur",3.201092,101.6768661,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Jalan Ipoh,"No. 468-11 & 468-11B, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1800644,101.6806508,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Jalan Bunus,"No 133, Jalan Bunus, Off Jalan Masjid India, 55100 Kuala Lumpur",3.1533806,101.6978807,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Taman Midah,"No. 38 & 40, Jalan Midah 1, Taman Midah, Cheras, 56000 Kuala Lumpur",3.1035624,101.7303092,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Taman Maluri,"No. 250 & 252, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur",3.127982,101.7329619,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,Chulan Tower Branch,"Ground Floor, Chulan Tower, Jalan Conlay, 50450 Kuala Lumpur",3.1494682,101.7118146,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Taman Tun Dr. Ismail,"No. 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1412726,101.6249564,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Wangsa Maju,"No 2 & 4, Jln 1/27F, Kuala Lumpur Sub-Urban Centre, Wangsa Maju, 53300 Kuala Lumpur",3.1973405,101.7429434,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Fraser,"20-G & 20-1, Jalan Metro Pudu, Fraser Business Park, 55200 Kuala Lumpur",3.1303265,101.7121889,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Wisma Pertahanan,"G.05, Tingkat Bawah, Wisma Pertahanan, Kementerian Pertahanan Malaysia, Jalan Padang Tembak, 50634 Kuala Lumpur",3.175513,101.7225155,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Central,"Ground & Mezzanine Floor, 80, Menara Affin, Jalan Raja Chulan, P.O.Box 12744, 50788 Kuala Lumpur",3.1512768,101.7058145,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN MyTown,"Lot No B1-063, Basement 1, MyTown Shopping Centre, Jalan Cochrane, 55100 Kuala Lumpur",3.1341657,101.7206748,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN KL Main Branch,"Menara Affin, Lingkaran TRX Tun Razak Exchange 55188 Kuala Lumpur",3.1409537,101.7175563,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN Desa ParkCity,"No E-G-08, Eaton Plaza Arkadia 3, Jalan Intisari Perdana Desa ParkCity, 52200 Kuala Lumpur",3.1858503,101.6351998,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Business Centre Central,"Level 3, Menara Affin Bank Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur",3.1409537,101.7175563,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Business Centre TTDI,"2nd Floor, 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail 60000 Kuala Lumpur",3.1413432,101.6229578,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Business Centre Seri Petaling & Bumiputera Financing Unit 1,"1st floor, 10-12, Jalan Radin Tengah, Bandar Baru Seri Petaling 57000 Kuala Lumpur",3.0684074,101.693263,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Business Centre Bangsar & Bumiputera Financing Unit 2,"1st floor, No 4 & 6, Jalan Telawi 3, Bangsar Baru, 59100, Kuala Lumpur",3.1324976,101.6690308,Affin Bank Business Centre,Affin
+Local Bank,Kuala Lumpur,ATM BHP Taman Connaught,"Jalan Sarjana, Taman Connaught, 56000 Kuala Lumpur",3.0822874,101.7355791,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Maharajalela,"Lot 604, 18, Jalan Maharajalela, 50150 Kuala Lumpur",3.1371928,101.7003417,ATM,Affin
+Local Bank,Kuala Lumpur,ATM MAHSA University College,"Mahsa University College, Jalan Elmu, Off Jalan University, 59100 Kuala Lumpur",3.1181855,101.6466785,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP MRR2,"Lot 30090, Jalan 6-4 (Off Jalan Lingkaran Tengah 2), Desa Melawati, Setapak, 53100 Kuala Lumpur",3.2202153,101.7334972,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Jalan Genting Klang,"Lot 5241 & 5242, 295, Setapak, 53300, Kuala Lumpur",3.198392,101.7138354,ATM,Affin
+Local Bank,Kuala Lumpur,ATM KLCC,"Lot KCE Unit 5, Concourse. LG Floor, KLCC, Jalan Ampang, Kuala Lumpur",,,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Taman City,"Lot Pt 21539, Jln Jambu Golok, Taman City, 51200 Kuala Lumpur",3.197413,101.6665299,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Jalan Klang Lama,"Lot 31363, Batu 5 ½, Jalan Klang Lama, 58000, Kuala Lumpur",3.0837899,101.6660222,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Wisma FELCRA,"Ground Floor, Wisma FELCRA, Lot 4780, Jalan Rejang, Setapak Jaya, KL",3.1907054,101.7302214,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Royale Chulan Hotel,"Royale Chulan Hotel, Jalan Conlay, 50450 Kuala Lumpur",3.1494526,101.7169594,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Bangsar,"No 4 & 6, Jalan Talawi 3, Bangsar Baru, 59100 Kuala Lumpur",3.1324976,101.6690308,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Batu Cantonment,"No 840 & 842, Batu 4 3/4, Jalan Ipoh, 51200 Kuala Lumpur",3.201092,101.6768661,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Central,"Ground & Mezzanine Floor, 80, Menara Affin, Jalan Raja Chulan, P.O.Box 12744, 50788 Kuala Lumpur",3.1512768,101.7058145,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Fraser,"20-G & 20-1, Jalan Metro Pudu, Fraser Business Park, 55200 Kuala Lumpur",3.1303265,101.7121889,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Jalan Bunus,"No 133, Jalan Bunus, Off Jalan Masjid India, 55100 Kuala Lumpur",3.1533806,101.6978807,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Jakel Square,"Jakel Square, 1st Floor, Jalan Munshi Abdullah, Kuala Lumpur",3.1535501,101.696674,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Jalan Ipoh,"No. 468-11 & 468-11B, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1800644,101.6806508,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Jalan Kepong,"Lot Pt ,1 Batu 6 1/2, Jalan Kepong, 52000 Kuala Lumpur",3.2082444,101.6515905,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Taman LTAT,"Taman LTAT, Lot Pt 13326, Lebuhraya Sg Besi Puchong, 58200 Bukit Jalil, Kuala Lumpur",3.0471222,101.6630384,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Chulan Tower,"Ground Floor, Chulan Tower, Jalan Conlay, 50450 Kuala Lumpur",3.1494682,101.7118146,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN MyTown,"Lot No B1-063, Basement 1, MyTown Shopping Centre, Jalan Cochrane, 55100 Kuala Lumpur",3.1341657,101.7206748,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Jalan Kuching,"Lot Pt 6086, Jalan Kuching, 51200 Kuala Lumpur",3.1884454,101.6679695,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Karak,"KM 21, KL-Karak Highway, Gombak, 53100 Kuala Lumpur",3.2535411,101.7254285,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Sungai Besi Army Camp,"Sg Besi Garisson Camp (Army Camp) Sg Besi, 57000 Kuala Lumpur",3.0589047,101.715593,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Seri Petaling,No. 10 - 12 Jalan Raden Tengah Bandar Baru Seri Petaling 57000 Seri Petaling Kuala Lumpur,3.0684074,101.693263,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP OUG,"Lot 9375 Jalan Hujan Emas 4, Oug Batu 5 Jalan Klang Lama, 58200 Kuala Lumpur",3.0738852,101.6692648,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Pernama Wardieburn,"Lamaniaga Pernama, Kem Wardieburn, 53100 Setapak, Kuala Lumpur",3.2071864,101.722787,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Taman Maluri,"No. 250 & 252, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur",3.127982,101.7329619,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Taman Midah,"No. 38 & 40, Jalan Midah 1, Taman Midah, Cheras, 56000 Kuala Lumpur",3.1035624,101.7303092,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Jalan Cheras,"Lot 43944 & 50006, Batu 4 1/4, Jalan Cheras, 56100 Kuala Lumpur",3.10748,101.7281188,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Taman Tun Dr. Ismail,"No. 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1412726,101.6249564,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP TTDI,"Jalan Pinggir Zaaba, Taman Tun Dr Ismail, 60000, Kuala Lumpur",3.1418451,101.6238004,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Wangsa Maju,"No 2 & 4, Jln 1/27F, Kuala Lumpur Sub-Urban Centre, Wangsa Maju, 53300 Kuala Lumpur",3.1973405,101.7429434,ATM,Affin
+Local Bank,Kuala Lumpur,ATM BHP Taman Melawati,"Lot Pt 14856 Jalan Raya, Taman Melawati, Hulu Klang, 53100 Kuala Lumpur",3.2112969,101.7499475,ATM,Affin
+Local Bank,Kuala Lumpur,ATM Wisma Transit KL,"Wisma Transit KL, Kompleks Transit, Jalan Buku Lima, 54000, Kuala Lumpur",3.1722257,101.7272624,ATM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Wisma Pertahanan,"G.05, Tingkat Bawah, Wisma Pertahanan, Kementerian Pertahanan Malaysia, Jalan Padang Tembak, 50634 Kuala Lumpur",3.175513,101.7225155,ATM,Affin
+Local Bank,Kuala Lumpur,Auto Finance Centre Jalan Ipoh,"No. 468-11 & 468-11B, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1968532,101.6678952,Auto Finance Centre,Affin
+Local Bank,Kuala Lumpur,Auto Finance Centre Taman Maluri,"250 & 252, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur",3.1280841,101.7329014,Auto Finance Centre,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Mortgage Sales Hub Setapak,"159 & 161, Jalan Genting Klang, Taman Ayer Panas, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1937372,101.7110586,Affin Bank Mortgage Sales Hub,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Mortgage Sales Hub Setapak Islamic,"5th floor, Jalan Raja Chulan, Kuala Lumpur, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1510363,101.7081003,Affin Bank Mortgage Sales Hub,Affin
+Local Bank,Kuala Lumpur,AFFINBANK Mortgage Sales Hub TTDI,"2nd floor , No.47 & 49 Jalan Tun Mohd Fuad 3, Taman Tun Dr Ismail, 60000 Kuala Lumpur",3.1413432,101.6229578,Affin Bank Mortgage Sales Hub,Affin
+Local Bank,Kuala Lumpur,CDM AFFIN MyTown,"Lot No B1-063, Basement 1, MyTown Shopping Centre, Jalan Cochrane, 55100 Kuala Lumpur",3.1341657,101.7206748,CDM,Affin
+Local Bank,Kuala Lumpur,CDM AFFIN Taman Midah,"No. 38 & 40, Jalan Midah 1, Taman Midah, Cheras, 56000 Kuala Lumpur",3.1035624,101.7303092,CDM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Bangsar,"No 4 & 6, Jalan Talawi 3, Bangsar Baru, 59100 Kuala Lumpur",3.1324976,101.6690308,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Batu Cantonment,"No 840 & 842, Batu 4 3/4, Jalan Ipoh, 51200 Kuala Lumpur",3.201092,101.6768661,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Central,"Ground & Mezzanine Floor, 80, Menara Affin, Jalan Raja Chulan, P.O.Box 12744, 50788 Kuala Lumpur",3.1512768,101.7058145,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Fraser,"20-G & 20-1, Jalan Metro Pudu, Fraser Business Park, 55200 Kuala Lumpur",3.1303265,101.7121889,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Jalan Bunus,"No 133, Jalan Bunus, Off Jalan Masjid India, 55100 Kuala Lumpur",3.1533806,101.6978807,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Jalan Ipoh,"No. 468-11 & 468-11B, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1800644,101.6806508,CQM,Affin
+Local Bank,Kuala Lumpur,CQM Chulan Tower,"Ground Floor, Chulan Tower, Jalan Conlay, 50450 Kuala Lumpur",3.1494682,101.7118146,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Seri Petaling,No. 10 - 12 Jalan Raden Tengah Bandar Baru Seri Petaling 57000 Seri Petaling Kuala Lumpur,3.0684074,101.693263,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Taman Maluri,"No. 250 & 252, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur",3.127982,101.7329619,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Taman Midah,"No. 38 & 40, Jalan Midah 1, Taman Midah, Cheras, 56000 Kuala Lumpur",3.1035624,101.7303092,CQM,Affin
+Local Bank,Kuala Lumpur,CQM AFFIN Taman Tun Dr. Ismail,"No. 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1412726,101.6249564,CQM,Affin
+Local Bank,Kuala Lumpur,CoDM AFFIN Central,"Ground & Mezzanine Floor, 80, Menara Affin, Jalan Raja Chulan, P.O.Box 12744, 50788 Kuala Lumpur",3.1512768,101.7058145,CoDM,Affin
+Local Bank,Kuala Lumpur,CoDM AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,CoDM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Bangsar,"No 4 & 6, Jalan Talawi 3, Bangsar Baru, 59100 Kuala Lumpur",3.1324976,101.6690308,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Batu Cantonment,"No 840 & 842, Batu 4 3/4, Jalan Ipoh, 51200 Kuala Lumpur",3.201092,101.6768661,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Central,"Ground & Mezzanine Floor, 80, Menara Affin, Jalan Raja Chulan, P.O.Box 12744, 50788 Kuala Lumpur",3.1512768,101.7058145,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Fraser,"20-G & 20-1, Jalan Metro Pudu, Fraser Business Park, 55200 Kuala Lumpur",3.1303265,101.7121889,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Jalan Bunus,"No 133, Jalan Bunus, Off Jalan Masjid India, 55100 Kuala Lumpur",3.1533806,101.6978807,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Jalan Ipoh,"No. 468-11 & 468-11B, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1800644,101.6806508,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN LTAT,"Ground Floor, Bangunan LTAT, Jalan Bukit Bintang, 55100 Kuala Lumpur",3.1482762,101.7158224,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN MyTown,"Lot No B1-063, Basement 1, MyTown Shopping Centre, Jalan Cochrane, 55100 Kuala Lumpur",3.1341657,101.7206748,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Seri Petaling,No. 10 - 12 Jalan Raden Tengah Bandar Baru Seri Petaling 57000 Seri Petaling Kuala Lumpur,3.0684074,101.693263,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Taman Maluri,"No. 250 & 252, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur",3.127982,101.7329619,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Taman Midah,"No. 38 & 40, Jalan Midah 1, Taman Midah, Cheras, 56000 Kuala Lumpur",3.1035624,101.7303092,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Taman Tun Dr. Ismail,"No. 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1412726,101.6249564,CRM,Affin
+Local Bank,Kuala Lumpur,CRM AFFIN Wangsa Maju,"No 2 & 4, Jln 1/27F, Kuala Lumpur Sub-Urban Centre, Wangsa Maju, 53300 Kuala Lumpur",3.1973405,101.7429434,CRM,Affin
+Local Bank,Kuala Lumpur,ATM AFFIN Wisma Pertahanan,"G.05, Tingkat Bawah, Wisma Pertahanan, Kementerian Pertahanan Malaysia, Jalan Padang Tembak, 50634 Kuala Lumpur",3.175513,101.7225155,CRM,Affin
+Local Bank,Kuala Lumpur,AFFIN Batu Cantonment,"No 840 & 842, Batu 4 3/4, Jalan Ipoh, 51200 Kuala Lumpur",3.201092,101.6768661,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,AFFIN Seri Petaling,No. 10 - 12 Jalan Raden Tengah Bandar Baru Seri Petaling 57000 Seri Petaling Kuala Lumpur,3.0684074,101.693263,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,AFFIN Setapak,"159 & 161, Jalan Genting Kelang, P.O. Box 202, 53300 Setapak, Kuala Lumpur",3.1937343,101.7110335,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,AFFIN Taman Tun Dr. Ismail,"No. 47 & 49, Jalan Tun Mohd Fuad 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1412726,101.6249564,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,AFFIN Wangsa Maju,"No 2 & 4, Jln 1/27F, Kuala Lumpur Sub-Urban Centre, Wangsa Maju, 53300 Kuala Lumpur",3.1973405,101.7429434,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,AFFIN Desa ParkCity,"No E-G-08, Eaton Plaza Arkadia 3, Jalan Intisari Perdana Desa ParkCity, 52200 Kuala Lumpur",3.1858503,101.6351998,Safe Deposit Box,Affin
+Local Bank,Kuala Lumpur,Taman Tun Dr. Ismail (Invikta Centre),"Level 1, Jalan Tun Mohd Fuad 1, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan",3.141278,101.6249564,Affin Invikta Centre,Affin
+Local Bank,Kuala Lumpur,Menara Affin @ TRX (Invikta Centre),"Level 3, Menara Affin @ TRX, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan",3.1409537,101.7175563,Affin Invikta Centre,Affin
+Local Bank,Kuala Lumpur,Desapark City (Invikta Centre),"No E-G-8 Eaton, Plaza Arkadia, Desa Park City, 52200 Kuala Lumpur, Wilayah Persekutuan",3.1854909,101.6327059,Affin Invikta Centre,Affin
+Local Bank,Kuala Lumpur,AFFIN KL Main Branch,"Menara Affin, Lingkaran TRX Tun Razak Exchange 55188 Kuala Lumpur",3.1409537,101.7175563,ASDL,Affin
+Local Bank,Kuala Lumpur,Kampung Pandan Branch,"No.77, Jalan Kg. Pandan, 55100 KL",3.1440951,101.7209077,Branches,BSN
+Local Bank,Kuala Lumpur,Jalan Duta Branch,"Blok 10, Kompleks Kerajaan, 50480 Jalan Duta, KL",3.1748778,101.6654814,Branches,BSN
+Local Bank,Kuala Lumpur,Bandar Sri Permaisuri Branch,"No.73G, Jalan Dwi Tasik 1, Dataran Dwi Tasik, Bandar Sri Permaisuri, 56100 KL",3.101227,101.7039437,Branches,BSN
+Local Bank,Kuala Lumpur,Sungai Besi Branch,"No. 33 Jalan Tasik Utama 6, Medan Niaga Tasik Damai, Sungai Besi, 57000 Kuala Lumpur",3.0371199,101.6745516,Branches,BSN
+Local Bank,Kuala Lumpur,Brickfield Branch,"No. 166, Tkt. Bawah, Wisma MAB, 50450 Jalan Tun Sambanthan KL",3.1317172,101.6779266,Branches,BSN
+Local Bank,Kuala Lumpur,Jalan Sentul Branch,"No. 720 Tingkat Bawah Bangunan KGMMB, Jalan Sentul 51000 Kuala Lumpur",3.1775074,101.6917035,Branches,BSN
+Local Bank,Kuala Lumpur,Kepong Baru Branch,"No. 51, Jalan Ambong 2, 52100 Kepong Baru Kuala Lumpur",3.2109188,101.6386129,Branches,BSN
+Local Bank,Kuala Lumpur,Batu 4 ½ Jalan Ipoh Branch,"No. 721, Batu 4 ½ Jalan Ipoh, 51200 KL",3.1984238,101.6787087,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Segar Branch,"No.7, Jalan Manis 6, Taman Segar, Cheras, 56100 KL",3.088756,101.7338245,Branches,BSN
+Local Bank,Kuala Lumpur,Jalan Segambut Branch,"D-G-07 Tingkat Bawah, M.Aveneue, 52100 Segambut Kuala Lumpur",3.1854144,101.6562842,Branches,BSN
+Local Bank,Kuala Lumpur,Jalan Maharajalela Branch,"No. 178, Jalan Maharajalela, 50150 KL",3.1361,101.6946766,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Len Sen Branch,"No. 57, Jalan 2, Taman Len Seng 56000 KL",3.073624,101.7349257,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Sri Selayang Branch,"No. 17, Tkt. Bawah, Taman Sri Selayang, Jalan Sri Selayang, 68100 KL",3.2352973,101.6636415,Branches,BSN
+Local Bank,Kuala Lumpur,Serene Park Branch,"No. 245 Serene Park, Jalan Genting Klang, 53300 Setapak, KL",3.195764,101.7044146,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Bukit Maluri Branch,"No.19, Jalan Burung Jentayu, 52100 Taman Bukit Maluri, Kepong KL",3.2005058,101.6326516,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Midah Branch,"No. 12, Tkt. Bawah, Jalan Midah Besar, 56000 Taman Midah, Cheras KL",3.102347,101.7245357,Branches,BSN
+Local Bank,Kuala Lumpur,Jalan Haji Hussein Branch,"No. 69, Jalan Hj. Hussein, 50300 KL",3.1671368,101.6991396,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Tun Dr. Ismail Branch,"No. 136, Jalan Burhanuddin Helmi, 60000 Taman Tun Dr Ismail, KL",3.153188,101.6142577,Branches,BSN
+Local Bank,Kuala Lumpur,Sri Petaling Branch,"No. 12A, Jalan Radin Tengah, Bandar Baru Sri Petaling 57000 KL",3.068413,101.6847356,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Melawati Branch,"No. 313 & 314, Lorong Selangor, 53100 Pusat Bandar Melawati, KL",3.2100579,101.7405643,Branches,BSN
+Local Bank,Kuala Lumpur,Leboh Ampang Branch,"No. 14, Lot 89, Jalan Lebuh Ampang, 50100 KL",3.14908,101.6884666,Branches,BSN
+Local Bank,Kuala Lumpur,CPI Wangsa Maju Branch,"No. 42, Jalan 2A/27A, Seksyen 1, 53300 Bandar Wangsa Maju KL",3.20221,101.7222667,Branches,BSN
+Local Bank,Kuala Lumpur,Desa Jaya Kepong Branch,"No.11 & 12, Wisma MBA, Jalan 53, Desa Jaya, 52000 Kepong KL",3.2129611,101.6293113,Branches,BSN
+Local Bank,Kuala Lumpur,Batu 9 Cheras Branch,"No. 10, Jalan Kijang 1, Taman Suntex, Batu 9, 43200 Kajang",3.0725,101.7577267,Branches,BSN
+Local Bank,Kuala Lumpur,Setiawangsa Branch,"No. G-2-18, Prima Peninsular, Jalan Setiawangsa 11, Taman Setiawangsa, 54200 KL.",3.1789598,101.7344868,Branches,BSN
+Local Bank,Kuala Lumpur,Bangsar Baru Branch,"Tingkat Bawah, No.14, Jalan Telawi 59100 Bangsar Baru, KL",3.1322699,101.6618645,Branches,BSN
+Local Bank,Kuala Lumpur,Pandan Indah Branch,"No. 9, Jalan Perubatan 2, 55100 Pandan Indah KL",3.128726,101.7429337,Branches,BSN
+Local Bank,Kuala Lumpur,Taman Maluri Branch,"No. 45G & 47G, Jalan Jejaka 9, Taman Maluri, Cheras 55100 KL",3.1287883,101.7229366,Branches,BSN
+Local Bank,Kuala Lumpur,UTC KL Pudu Sentral Branch,"No. T3-2 Bangunan Pudu Sentral, Jalan Pudu 55100 Kuala Lumpur",3.1458611,101.7002483,Branches,BSN
+Local Bank,Kuala Lumpur,CPI Taman Melati Branch,"Tkt. Bawah, No. 57 Jalan Melati Utama 4, Taman Melati Utama, 53100 Kuala Lumpur",3.2165992,101.7226472,Branches,BSN
+Local Bank,Kuala Lumpur,CPI Danau Kota Branch,"No A-1-5 Tingkat Bawah, Starparc Point Jalan Genting Klang, Setapak, 53300 Kuala Lumpur.",3.2047044,101.7214257,Branches,BSN
+Local Bank,Kuala Lumpur,CPI Pandan Jaya Branch,"No. 24, Jalan Pandan Jaya 2/1, Pandan Jaya55100 Kuala Lumpur",3.135388,101.7377463,Branches,BSN
+Local Bank,Kuala Lumpur,Ampang Point Branch,"No. B2/1/1, Tkt. Bawah, Wisma PLCOne Ampang Business AvenueJln. Ampang Utama 1/2, Off Jalan Ampang68000 Ampang Jaya, Selangor",3.156105,101.7497023,Branches,BSN
+Local Bank,Kuala Lumpur,CPI Bandar Baru Ampang Branch,"3G, Jalan Wawasan 2/2, Bandar Baru Ampang, 68000 Selangor",3.145348,101.7672283,Branches,BSN
+Local Bank,Kuala Lumpur,Damansara Utama Branch,"Tkt Bawah, No.96, Jalan SS 21/35, Damansara Utama, 47400 Kuala Lumpur",,,Branches,BSN
+Local Bank,Kuala Lumpur,Kota Damansara Branch,"Blok T, No. 13, Jalan PJU 5/3, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor",3.152138,101.5932943,Branches,BSN
+Local Bank,Selangor,Pekan Kapar Branch,"Lot No. 156, Jalan Besar, 42200 Kapar, Selangor",3.1373725,101.3655629,Branches,BSN
+Local Bank,Selangor,Sungai Way Branch,"No. 608, Jalan SS 9/13, Sungai Way, 47300 Petaling Jaya, Selangor",3.135889,101.4873678,Branches,BSN
+Local Bank,Selangor,"SS 14/14, Petaling Jaya Branch","No. 10, Jalan 14/14, Seksyen 14, 46100 Petaling Jaya, Selangor",3.1098167,101.6280214,Branches,BSN
+Local Bank,Selangor,Kuala Kubu Bharu Branch,"No. 39, Jalan Kamarudin, 44000 Kuala Kubu Bharu, Selangor",3.564565,101.6507138,Branches,BSN
+Local Bank,Selangor,"SS2/64, Petaling Jaya Branch","No. 5, Jalan SS 2/64, 47300 Petaling Jaya, Selangor",3.1136437,101.551112,Branches,BSN
+Local Bank,Selangor,Bestari Jaya Branch,"No. 28A, Jalan Besar, 45600 Bestari Jaya, Selangor",3.3781332,101.4063095,Branches,BSN
+Local Bank,Selangor,Taman Sri Serdang Branch,"No. 226, Jalan 18/23, Taman Sri Serdang, 43300 Sri Kembangan, Selangor",3.0073112,101.7038587,Branches,BSN
+Local Bank,Selangor,Sungai Besar Branch,"No. 21A, Jalan Menteri, 45300 Sungai Besar, Selangor",,,Branches,BSN
+Local Bank,Selangor,Jalan Othman Branch,"No. 88, Jalan Othman 1/14, 46770 Petaling Jaya, Selangor.",3.0867498,101.6475994,Branches,BSN
+Local Bank,Selangor,"Sungai Buloh, Jeram Branch","No. 1, Bangunan Dato Tan Teng Kuay Jalan Besar, 45800 Jeram, Selangor",3.2557471,101.2992125,Branches,BSN
+Local Bank,Selangor,Jalan Gasing Branch,"No. 117, Jalan Gasing, 46000 Petaling Jaya, Selangor",3.107304,101.6446137,Branches,BSN
+Local Bank,Selangor,CPI Jalan Pos Baru Branch,"No. 12, Jalan Pos Baru, 41300 Klang, Selangor",3.0464738,101.4490372,Branches,BSN
+Local Bank,Selangor,Semenyih Branch,"No. 21, Jalan Pasar Baru 3, 43500 Semenyih, Selangor",,,Branches,BSN
+Local Bank,Selangor,Kelana Jaya Branch,"No. 26, Jalan SS 5B/2, Kelana Jaya, 47301 Petaling Jaya, Selangor",3.1004584,101.6054704,Branches,BSN
+Local Bank,Selangor,Sekinchan Branch,"No. 42, Jalan Menteri Besar 2, 45400 Sekinchan, Selangor",3.507028,101.1021941,Branches,BSN
+Local Bank,Selangor,Kuala Selangor Branch,"No. 15 & 17, Jalan Medan Niaga 2, Medan Niaga Kuala Selangor, 45000 Kuala Selangor",3.319406,101.2697438,Branches,BSN
+Local Bank,Selangor,"Seksyen 16, Shah Alam Branch","No. 9A, Jalan Niaga 16/3A, Seksyen 16, 40200 Shah Alam, Selangor",3.0583337,101.5063416,Branches,BSN
+Local Bank,Selangor,Sungai Pelek Branch,"No.13, Jalan Damai 1, 43950 Sungai Pelek, Selangor",,,Branches,BSN
+Local Bank,Selangor,Sabak Bernam Branch,"No. 5, Jalan Raja Chulan, Bangunan UMNO Bahagian, 45200 Sabak Bernam, Selangor",,,Branches,BSN
+Local Bank,Selangor,CPI Bandar Baru Bangi Branch,"No. 30, Jalan Medan Pusat Bandar 4, Seksyen 9, Bandar Baru Bangi, Selangor",,,Branches,BSN
+Local Bank,Selangor,Taman Sri Muda Branch,"No. 20, Jalan Bersatu 25/9, Seksyen 25, Taman Sri Muda, 40400 Shah Alam, Selangor",3.0308798,101.5309943,Branches,BSN
+Local Bank,Selangor,Pekan Meru Branch,"Tingkat Bawah, No. 69 & 71, Pekan Meru, 41050 Meru, 41050 Klang, Selangor",3.1315976,101.4395614,Branches,BSN
+Local Bank,Selangor,Taman Indah Balakong Branch,"No. S-11, Taman Indah, 43200 Kajang, Selangor",3.0427917,101.7715572,Branches,BSN
+Local Bank,Selangor,Dengkil Branch,"No. 7, Jalan Deluxe, Pusat Perniagaan Deluxe, 47800 Dengkil, Selangor",,,Branches,BSN
+Local Bank,Selangor,CPI Tanjung Karang Branch,"Tingkat Bawah, No. 2, Jalan PB 1, Pusat Bandar Tanjong Karang, 45500 Tanjong Karang, Selangor",3.4252967,101.1771107,Branches,BSN
+Local Bank,Selangor,Subang Jaya USJ 9 (Taipan Crest) Branch,"No. 6, Jln USJ 9/5R, 47620 UEP Subang Jaya, Selangor",3.0475571,101.5787146,Branches,BSN
+Local Bank,Selangor,Kajang Branch,"Lot 55 & 56, Jalan Raja Haron, 43000 Kajang, Selangor",,,Branches,BSN
+Local Bank,Selangor,UKM Bangi Branch,"Bangunan UNIKEB, UKM 43600 Bangi, Selangor",,,Branches,BSN
+Local Bank,Selangor,Rawang Branch,"No. 11 & 13, Jalan Bndr Rawang 15, Bandar Baru Rawang 2, 48000 Rawang, Selangor",3.3200936,101.5690945,Branches,BSN
+Local Bank,Selangor,Banting Branch,"Lot 192 & 194, Jalan Sultan Abdul Samad, 42700 Banting, Selangor",,,Branches,BSN
+Local Bank,Selangor,Bandar Baru Salak Tinggi Branch,"No. 28 & 30 Jalan 1C/4, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor",,,Branches,BSN
+Local Bank,Selangor,Taman Subang Perdana Branch,"No. 19, Lot 32, Jln Dinar GU 3/G, Taman Subang Perdana, Seksyen U3, 40150 Shah Alam, Selangor",3.1485043,101.5423173,Branches,BSN
+Local Bank,Selangor,Subang Jaya (SS15/8A) Branch,"No. 21, Jalan SS 15/8A, Subang Jaya, 47500 Petaling Jaya, Selangor",3.0741041,101.588615,Branches,BSN
+Local Bank,Selangor,PJ New Town (Jalan Sultan) Branch,"No. 46, Jalan 52/4, Petaling Jaya New Town Centre, 46200 Petaling Jaya, Selangor",3.0741041,101.588615,Branches,BSN
+Local Bank,Selangor,Puchong Jaya Branch,"No. 14, Jalan Kenari 5, Bandar Puchong Jaya, 47100 Puchong, Selangor",3.0474195,101.6215514,Branches,BSN
+Local Bank,Selangor,Pelabuhan Klang Branch,"No. 51 & 53, Jalan Cungah, 42000 Pelabuhan Klang, Selangor",3.0022609,101.3979606,Branches,BSN
+Local Bank,Selangor,CPI Bandar Baru Sungai Buluh Branch,"No. 353, Tingkat Bwh, Jln 1A/3, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor",3.210541,101.566329,Branches,BSN
+Local Bank,Selangor,Bandar Bukit Tinggi Branch,"No. 52A, Lorong Batu Nilam 4B, Bandar Bukit Tinggi, 42100 Klang, Selangor",3.0072331,101.427413,Branches,BSN
+Local Bank,Selangor,Setia Alam Branch,"11-1-1 Jalan Setia Prima (R) U13/R, Setia Alam, Seksyen U13, 40170 Setia Alam, Selangor",3.1007799,101.4358841,Branches,BSN
+Local Bank,Selangor,Bandar Sri Putra Branch,"No. 1, Jalan SP 1/5, Bandar Seri Putra, 43000 Kajang, Selangor",,,Branches,BSN
+Local Bank,Selangor,Saujana Utama Branch,"No. 46-G & 46-1, Jalan Bidara 6/3, Saujana Utama 3, 47000 Sg. Buloh, Selangor.",3.2035288,101.478546,Branches,BSN
+Local Bank,Selangor,"Seksyen 18, Shah Alam Branch","No. 14, Jalan Pinang C 18/C, Seksyen 18, 40200 Shah Alam, Selangor.",3.0448873,101.5087164,Branches,BSN
+Local Bank,Selangor,Taman OUG Branch,"No. 148 Jalan Mega Mendung, Kompleks Bandar, Bt. 5 Jalan Kelang Lama, 58200 Kuala Lumpur",3.08318,101.6691083,Branches,BSN
+Local Bank,Selangor,Bandar Baru Bangi,"Ground, 1st & 2nd Floor D32 & D33, Jalan Medan Pusat Bandar 4 Seksyen 9, 43650 Bandar Baru Bangi",,,Branches,Bank Muamalat
+Local Bank,Selangor,Batu Caves,"No.3A & 3A-1 (Ground & Level 1) & No.5 (Ground Floor) Prima Samudera Jalan Samudera Utara 11 Taman Samudera, 68100 Batu Caves",3.2337277,101.6929971,Branches,Bank Muamalat
+Local Bank,Selangor,"Glenmarie, Shah Alam","No. 2, Jalan Presiden F U1/F Accentra Glenmarie, Seksyen U1 40150 Shah Alam",3.0953129,101.5848214,Branches,Bank Muamalat
+Local Bank,Selangor,Kajang,"Ground, 1st & 2nd Floor, No. 2-1-G/1/2 Jalan Prima Saujana 2/1 Prima Saujana, 43000 Kajang Selangor Darul Ehsan",3.0067664,101.8029032,Branches,Bank Muamalat
+Local Bank,Selangor,Klang,"No.46 & 48, Jalan Kelicap 42A/KU1 Klang Bandar Diraja Off Jalan Meru, 41050 Klang, Selangor",3.064215,101.4500965,Branches,Bank Muamalat
+Local Bank,Selangor,Petaling Jaya,"No. B-29-1 & 2, Block B Jaya One, 72A, Jalan Universiti 46200 Petaling Jaya, Selangor",3.1184599,101.6342247,Branches,Bank Muamalat
+Local Bank,Selangor,Rawang,"No. 9 & 11, Jalan Bandar Rawang 1 Bandar Baru Rawang, 48000 Rawang",3.3207939,101.576571,Branches,Bank Muamalat
+Local Bank,Selangor,"PKNS, Shah Alam","G-1, 2 & 3 Ground Floor Kompleks PKNS, 40000 Shah Alam",3.0703952,101.5151515,Branches,Bank Muamalat
+Local Bank,Selangor,Laman Seri,"Ground & First Floor No. G03A & 103A Laman Seri Business Park, No. 7 Jalan Sukan, Seksyen 13 40100 Shah Alam, Selangor",3.0916304,101.5422693,Branches,Bank Muamalat
+Local Bank,Selangor,Subang Jaya,"Ground & First Floor, No. 1 Jalan USJ Sentral 2 USJ Sentral 47600 Subang Jaya, Selangor Darul Ehsan",3.0576141,101.5924117,Branches,Bank Muamalat
+Local Bank,Selangor,Puncak Alam,"No 31. Jalan Niaga Bestari 3, Puncak Bestari, Bandar Puncak Alam, 42300 Selangor",3.2337402,101.4283436,Branches,Bank Muamalat
+Local Bank,Selangor,Ampang Point,"No. 23 & 23-A, Jalan Mamanda 7/1 Off Jalan Ampang, 68000 Ampang, Selangor.",3.1578422,101.7481099,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Jalan Melaka,"1st Floor, Podium Block, Menara Bumiputra, 21, Jalan Melaka, 50100 Kuala Lumpur",3.1504379,101.6949603,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Jalan Ipoh,"Ground Floor, Wisma TCT, No. 516-1, Batu 3, Jalan Ipoh, 51200 Kuala Lumpur",3.1825559,101.6788323,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Sungai Besi,"No. 2 & 2A, Jalan Tasik Utama 7,Medan Niaga Tasik Damai,Sungai Besi, 57000 Kuala Lumpur.",3.0612986,101.7068368,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Jalan TAR,"No. 399, Ground Floor, Bangunan UMNO Lama, Jalan Tuanku Abdul Rahman, 50100 Kuala Lumpur",3.1624881,101.6960437,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Putrajaya,"No. 2 & 4, Ground & 1st Floor, Jalan Diplomatik 2, Pusat Komersial Diplomatik, Precinct 15, 62050 Putrajaya",,,Branches,Bank Muamalat
+Local Bank,Wilayah Persekutuan,Taman Melawati,"Lot G-3A, B-1-3 & G-05, Melawati Corporate Office, Taman Melawati, 53100 Kuala Lumpur",3.2097654,101.7451244,Branches,Bank Muamalat
+Local Bank,Selangor,Ampang,"No 2G, Jalan Wawasan 2/4, Bandar Baru Ampang, 68000 Ampang Selangor",3.1455019,101.7691612,Branches,CIMB
+Local Bank,Selangor,"Taman Putra, Ampang","29 & 31, Jalan Bunga Tanjong 9C, Taman Putra, 68000 Ampang, Selangor",3.1201896,101.7629224,Branches,CIMB
+Local Bank,Selangor,Taman Taming Jaya,"No 2-2-G & 2-2-1, Wisma Pauson, Jalan Taming Kanan Satu, Taman Taming Jaya, 43200 Balakong, Selangor",3.0251986,101.7406614,Branches,CIMB
+Local Bank,Selangor,Universiti Kebangsaan Malaysia,"Lot 1.04 & 1.05, Level 1, Wisma UNIKEB, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Bandar Baru Bangi,"No 67, Jalan 8/1, Section 8, 43650 Bandar Baru Bangi, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Banting,"135-137, Jalan Sultan Abdul Samad, 42700 Banting, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Taman Seri Gombak,"2 & 4, Jalan SG 1/2, Taman Seri Gombak, 68100 Batu Caves, Selangor",3.2364913,101.6992046,Branches,CIMB
+Local Bank,Selangor,Dataran C180,"1, Jalan C180/2, 43200 Cheras, Selangor",3.0362076,101.7637131,Branches,CIMB
+Local Bank,Selangor,Cyberjaya,"Prima 5-A, Jalan Teknokrat 5, 63000 Cyberjaya, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Taman Nilam Dengkil,"No 3, Jalan Nilam 1, Taman Nilam, 43800 Dengkil, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Kajang,"Ground & first Floor, Block A-2 & A-3, MKH Avenue, Jalan Avenue 1A, 43000 Kajang, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Pearl Avenue Kajang,"Ground Floor, PA-S-16 Pearl Avenue Shop, Jalan Pasir Emas, Sungai Chua 43000 Kajang, Selangor",,,Branches,CIMB
+Local Bank,Selangor,"Bangunan UMNO, Kapar","Lot 6, Bangunan UMNO, Jalan Besar, 42200 Kapar, Selangor",3.136963,101.3739298,Branches,CIMB
+Local Bank,Selangor,Plaza Centro Klang,"G107-108, Plaza Centro, Jalan Batu Tiga Lama, 41300 Klang, Selangor",3.0526169,101.4630482,Branches,CIMB
+Local Bank,Selangor,"Jalan Dato Hamzah, Klang","Ground and 1st Floor, Wisma Southern, No. 26-34, Jalan Dato' Hamzah, 41000 Klang",3.0412437,101.4481756,Branches,CIMB
+Local Bank,Selangor,Bukit Tinggi,"No. 22A, Lorong Batu Nilam 4B, Bandar Bukit Tinggi, 41200 Klang",3.0070416,101.435069,Branches,CIMB
+Local Bank,Selangor,CIMB Bank CASA Klang,"GF-B CASA KLANG 39 Block A/KU01, Jalan Meru, 41050 Klang, Selangor",3.0521334,101.4435926,Branches,CIMB
+Local Bank,Selangor,Pelabuhan Klang,"No 108, Persiaran Raja Muda Musa, KS4 42000 Pelabuhan Klang, Selangor",3.0085519,101.4006511,Branches,CIMB
+Local Bank,Selangor,Kuala Selangor,"No 30, Jalan Melati 3/1, Bandar Melawati, 45000 Kuala Selangor, Selangor",3.3304672,101.2565897,Branches,CIMB
+Local Bank,Selangor,Bandar Sunway,"22, Jalan PJS 11/28A, Bandar Sunway, 46100 Petaling Jaya",3.0732027,101.6075291,Branches,CIMB
+Local Bank,Selangor,"Section 52, PJ","27, Jalan 52/2, 46200 Petaling Jaya",3.1000316,101.643258,Branches,CIMB
+Local Bank,Selangor,Bandar Utama,"Level 1-2, Wisma BU 8, No.11, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",3.1363508,101.6084845,Branches,CIMB
+Local Bank,Selangor,The Curve,"Lot G62, Ground FLoor The Curve, No. 6, Jalan PJU 7/3, Mutiara Damansara, 47800 Petaling Jaya.",3.158139,101.6110508,Branches,CIMB
+Local Bank,Selangor,SS2 PJ,"Ground Floor, 62, Jalan SS 2/60, 47300 Petaling Jaya, Selangor.",3.1164557,101.6218845,Branches,CIMB
+Local Bank,Selangor,Jaya Shopping Centre,"L1-21 (First Floor), Jaya Shopping Centre, Jalan 14/14, 46100 Petaling Jaya, Selangor",3.1092687,101.6371752,Branches,CIMB
+Local Bank,Selangor,Sunwaymas,"1-1 Jalan PJU 1/3F, Sunwaymas Commercial Center, 47301 Petaling Jaya",3.1202659,101.5973383,Branches,CIMB
+Local Bank,Selangor,The Strand,"43-G, Jalan PJU 5/20 Pusat Perdagangan Kota Damansara, Kota Damansara PJU 5, 47810 Petaling Jaya, Selangor.",3.1539228,101.5934069,Branches,CIMB
+Local Bank,Selangor,Jaya One,"A-1-G, Block A, Jaya One, No 72A Jalan Universiti, 46200 Petaling Jaya, Selangor",3.1183235,101.6349405,Branches,CIMB
+Local Bank,Selangor,Kelana Jaya,"Lot L1-7K,8K & 9K, Residensi HighPark, Jalan SS 6/2, SS6, 47301 Kelana Jaya,Selangor",3.104415,101.6003368,Branches,CIMB
+Local Bank,Selangor,Damansara Utama,"48, Jalan SS21/35, Damansara Utama, 47400 Petaling Jaya",3.1363281,101.6241094,Branches,CIMB
+Local Bank,Selangor,Ara Damansara,"Oasis Square, No 2, Jalan PJU 1A/7A, Ara Damansara, 47301 Petaling Jaya, Selangor",3.1140681,101.5723708,Branches,CIMB
+Local Bank,Selangor,Bandar Puteri Puchong,"12, Jalan Puteri 1/1, Bandar Puteri, 47100 Puchong, Selangor",3.0253625,101.6161505,Branches,CIMB
+Local Bank,Selangor,Kinrara,"17, Jalan TK 1/11A Plaza Kinrara, 47100 Puchong, Selangor.",3.0642313,101.6486249,Branches,CIMB
+Local Bank,Selangor,Jalan Kenari,"No. 12 & 13, Jalan Kenari 1, Bandar Puchong Jaya, 47100 Puchong, Selangor.",3.0447594,101.6201222,Branches,CIMB
+Local Bank,Selangor,Rawang,"1 & 1A, Jalan Bandar Rawang 2, Pusat Bandar Rawang, 48000 Rawang, Selangor",3.3222351,101.5767693,Branches,CIMB
+Local Bank,Selangor,Sungai Besar,"22A, Jalan Menteri, 45300 Sungai Besar, Sabak Bernam, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Taman Equine,"No 3, 5 & 7, Jalan Equine 1C, Taman Equine, 43300 Seri Kembangan, Selangor",,,Branches,CIMB
+Local Bank,Selangor,Serdang Perdana,"Tingkat Bawah & Mezzanine, No. 33, Jalan SP 2/1, Taman Serdang Perdana, 43300 Seri Kembangan",3.0314777,101.7084818,Branches,CIMB
+Local Bank,Selangor,Bandar Setia Alam,"Ground Floor Unit 1-1-1, Jalan Setia Prima, RU 13/R, Bandar Setia Alam, 40170 Shah Alam Selagor",3.1006999,101.441676,Branches,CIMB
+Local Bank,Selangor,"Section 18, Shah Alam","49, Jalan Pinang B 18/B, Section 18, 40000 Shah Alam, Selangor",3.0435593,101.5181482,Branches,CIMB
+Local Bank,Selangor,Glenmarie 8,"Lot 8B, Jalan Pensyarah U1/28, Glenmarie 8 Business Park, 40150 Shah Alam, Selangor",3.0827644,101.5601153,Branches,CIMB
+Local Bank,Selangor,"Plaza Azalea, Shah Alam","No 12 & 13, Plaza Azalea, Persiaran Bandaraya, Seksyen 14, 40000 Shah Alam Selangor",3.0847314,101.5219581,Branches,CIMB
+Local Bank,Selangor,Kota Kemuning,"43-1, No 8, Jalan Anggerik Vanilla BE31/BE, Seksyen 31, 40460 Kota Kemuning, Shah Alam, Selangor",3.0037071,101.5357121,Branches,CIMB
+Local Bank,Selangor,"USJ 9, Subang Jaya","31-1, Jalan USJ 9/5S, Subang Business Centre, 47610 Subang Jaya, Selangor",3.0469376,101.5862806,Branches,CIMB
+Local Bank,Selangor,Empire Gallery Subang Jaya,"Empire Shopping Gallery, Jalan SS 16/1, Subang Jaya, 47500 Petaling Jaya, Selangor",3.0819783,101.5827536,Branches,CIMB
+Local Bank,Selangor,Bandar Baru Sungai Buloh,"Lot 395, Jalan 1A/1, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor",3.2098064,101.565049,Branches,CIMB
+Local Bank,Selangor,Teluk Panglima Garang,"No. 26, 28 & 30, Ground Floor, Jalan Utama 55, Taman Jaya Utama, 42500 Teluk Panglima Garang, Selangor",,,Branches,CIMB
+Local Bank,Kuala Lumpur,Gleneagles Ampang,"Ground Floor, Lot No.1, Gleneagles Kuala Lumpur New Wing, Jalan Ampang, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur",3.1609366,101.7398949,Branches,CIMB
+Local Bank,Kuala Lumpur,"Lucky Garden, Bangsar","21, Lorong Ara Kiri Satu, Lucky Garden, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur",3.1283519,101.6705038,Branches,CIMB
+Local Bank,Kuala Lumpur,KL Gateway,"CIMB KL Gateway mall, LG -02, Kerinchi, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur",3.1140935,101.6628494,Branches,CIMB
+Local Bank,Kuala Lumpur,"Wisma Koponas, KL","70-72-74, Wisma Koponas, Jalan Tun Sambanthan, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur",3.1334709,101.6879392,Branches,CIMB
+Local Bank,Kuala Lumpur,Kuala Lumpur Main,"No 11 Jalan Raja Laut, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1556258,101.6956147,Branches,CIMB
+Local Bank,Kuala Lumpur,Jalan Tuanku Abdul Rahman KL,"Ground Floor, Bangunan Commerce Life, No 338 Jalan Tunku Abdul Rahman, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1607299,101.697093,Branches,CIMB
+Local Bank,Kuala Lumpur,Desa Park City,"FF-03, The Waterfront @ Park City, No 5, Persiaran Residen, Desa Park City, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1867726,101.6280811,Branches,CIMB
+Local Bank,Kuala Lumpur,Bandar Sri Damansara,"B-G-8, Blok B, Plaza Ativo, Jalan PJU 9/1, Damansara Avenue, Bandar Sri Damansara, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1956813,101.6166853,Branches,CIMB
+Local Bank,Kuala Lumpur,Plaza Damansara,"Menara Southern Bank, 83, Medan Setia 1, Plaza Damansara, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1497477,101.6541672,Branches,CIMB
+Local Bank,Kuala Lumpur,Damansara Heights,"Wisma UOA II, 6 Changkat Semantan, Damansara Heights, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1517858,101.6665433,Branches,CIMB
+Local Bank,Kuala Lumpur,Jalan Duta,"Block 8, Kompleks Pejabat Kerajaan, Jalan Duta, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1750746,101.6729022,Branches,CIMB
+Local Bank,Kuala Lumpur,"Desa Jaya, Kepong","4, Jalan 54, Desa Jaya, Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.2135748,101.6326075,Branches,CIMB
+Local Bank,Kuala Lumpur,Menara CIMB KL Sentral,"Ground Floor, Menara CIMB, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1342394,101.6858299,Branches,CIMB
+Local Bank,Kuala Lumpur,Jalan Kuchai Lama,"No 6 & 8, Ground & 1st Floor, Jalan Kuchai Maju Satu, Off Jalan Kuchai Lama, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0905408,101.6877083,Branches,CIMB
+Local Bank,Kuala Lumpur,Taman Maluri,"279 & 279A, Jalan Perkasa 1, Taman Maluri, Off Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.128264,101.7332558,Branches,CIMB
+Local Bank,Kuala Lumpur,Megamall Mid-Valley,"Ground Floor (External) Zone 1, Lot G(E)-004 Megamall Mid-Valley, Linkaran Syed Putra 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1171734,101.6762166,Branches,CIMB
+Local Bank,Kuala Lumpur,Solaris Mont' Kiara,"No.15, Jalan Solaris Mon't Kiara, Mon't Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1740401,101.6596016,Branches,CIMB
+Local Bank,Kuala Lumpur,Selayang,"151, Jalan 2/3A, Off 12 km, Jalan Ipoh, 68100 Batu Caves, Kuala Lumpur",3.2377915,101.6689126,Branches,CIMB
+Local Bank,Kuala Lumpur,Jalan Ipoh,"No.468-6(1) Ground Floor, Block E, Rivercity, Jalan Sultan Azlan Shah, 51200 Kuala Lumpur",3.2011058,101.6772629,Branches,CIMB
+Local Bank,Kuala Lumpur,Sentul Raya,"2, The Boulevard Shop Office, Jalan 11/48A, Sentul Raya, 51000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1855553,101.6920201,Branches,CIMB
+Local Bank,Kuala Lumpur,"Taman Danau Kota, Setapak","108, Jalan 2/23A, Taman Danau Kota, Jalan Genting Klang, Setapak, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.2000634,101.7160543,Branches,CIMB
+Local Bank,Kuala Lumpur,Taman Setiawangsa,"1, Jalan 9A/55A, Taman Setiawangsa, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1777966,101.7414364,Branches,CIMB
+Local Bank,Kuala Lumpur,Taman Melawati,"227& 228, Jalan Bandar 13, Taman Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.2090807,101.7493663,Branches,CIMB
+Local Bank,Kuala Lumpur,Taman Tun Dr. Ismail,"138, Jalan Burhannuddin Helmi, Taman Tun Dr. Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1534599,101.6231913,Branches,CIMB
+Local Bank,Kuala Lumpur,Menara LGB,"Menara LGB, No 1, Jalan Wan Kadir, Off Jalan Damansara, TTDI, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1377722,101.6294253,Branches,CIMB
+Local Bank,Kuala Lumpur,Menara UAB,"No 6, Jalan Tun Perak, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1505184,101.6955902,Branches,CIMB
+Local Bank,Kuala Lumpur,Bukit Tunku,"J2 & K1, Taman Tunku, Bukit Tunku, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1742515,101.6799277,Branches,CIMB
+Local Bank,Kuala Lumpur,Wisma Genting,"Ground Floor, Wisma Genting, 28, Jalan Sultan Ismail, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1506478,101.7109133,Branches,CIMB
+Local Bank,Kuala Lumpur,The Scott Garden,"1-16, The Scott Garden, 289 Jalan Kelang Lama, 58100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0944291,101.6745956,Branches,CIMB
+Local Bank,Kuala Lumpur,Pandan Indah,"21G, Jalan Pandan Indah 4/34, Pandan Indah, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1335082,101.7529456,Branches,CIMB
+Local Bank,Kuala Lumpur,Sungai Besi,"No 59, Jalan Tasik Utama 8, Medan Niaga Tasik Damai, Sungai Besi, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0601976,101.7107059,Branches,CIMB
+Local Bank,Kuala Lumpur,Jalan Bukit Bintang,"Plaza Yeoh Tiong Lay, 55 Jalan Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1448948,101.7091218,Branches,CIMB
+Local Bank,Kuala Lumpur,Suria KLCC,"Lot C04-C05, Concourse Level, Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.1580197,101.7117305,Branches,CIMB
+Local Bank,Kuala Lumpur,"Taman Mutiara, Cheras","2468 Jalan Mutiara Timur Satu, Taman Mutiara, Cheras, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0923263,101.7404362,Branches,CIMB
+Local Bank,Kuala Lumpur,Bandar Baru Seri Petaling,"28, Jalan Radin Tengah, Bandar Baru Seri Petaling, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0684914,101.6927552,Branches,CIMB
+Local Bank,Kuala Lumpur,"Taman Connaught, Cheras","76, Jalan Cheras, Taman Connaught, Cheras, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.0814453,101.7365792,Branches,CIMB
+Local Bank,Kuala Lumpur,Starhill Preferred Centre,"Lot 11 & 12, UG Floor, Starhill Preferred Centre, Starhill Gallery, 181, Jalan Bukit Bintang, 55100, Kuala Lumpur",,,Branches,CIMB
+Foreigner Bank,Selangor,HSBC Amanah Ampang Point,"18, 19 & 20, Lorong Memanda 5, Ampang Point, Ampang Point, Selangor Darul Ehsan, 68000, Ampang Point",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Old Klang Road,"1-G & 1-1, Ground & First Floor, 3rd Mile Square, 151 Jalan Kelang Lama, Batu 3 1/2, Old Klang Road, Wilayah Persekutuan Kuala Lumpur, 58100, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Plaza Mont Kiara,"Plaza Mont Kiara No 2, Jalan Kiara, Mont Kiara, Plaza Mont Kiara, Wilayah Persekutuan Kuala Lumpur, 50480, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Bukit Bintang,"Menara Genesis No 33 Jalan Sultan Ismail, Bukit Bintang, Wilayah Persekutuan Kuala Lumpur, 50250, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Wangsa Maju,"Nos.37, 37-1 & 39, Jalan Rampai Niaga 5, Medan Niaga Rampai, Wangsa Maju, Wilayah Persekutuan Kuala Lumpur, 53300, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar,"No.66G, 66-1 & 68G, Jalan Telawi, Bangsar Baru, Bangsar, Wilayah Persekutuan Kuala Lumpur, 59100, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC KL Main,"Level 2, Menara IQ, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Tun Razak Exchange, Wilayah Persekutuan Kuala Lumpur, 55188, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Puncak Sentul,"Unit No. AG 10 & AG 11 Ground Floor, Puncak Sentul, No. 8, Jalan Sentul Perdana, 51000 Kuala Lumpur, Sentul, Wilayah Persekutuan Kuala Lumpur, 51000, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah Bangsar South,"Unit G-03, Ground Floor, The Sphere, No. 1, Avenue 1, Bangsar South City, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Bangsar South, Wilayah Persekutuan Kuala Lumpur, 59200, Kuala Lumpur",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,HSBC Amanah KL City Centre,"Units G-12 & M-16, Ground & Mezzanine Floors, Wisma UOA II, No 21 Jalan Pinang, Kuala Lumpur City Centre, Wilayah Persekutuan Kuala Lumpur, 50450, Kuala Lumpur City Centre",,,Branches,HSBC
+Foreigner Bank,Kuala Lumpur,Bangsar Affluent Branch,"Ground Floor BRDB Tower Bangsar Shopping Centre, 59000 Bangsar, Kuala Lumpur",3.1481394,101.6519312,Branches,Al Rajhi
+Foreigner Bank,Kuala Lumpur,KL Main,"Ground Floor, Mezzanine & Basement 1, East Block, Wisma Golden Eagle Realty,
+No 142-C, Jalan Ampang, 50450 Kuala Lumpur",3.1593322,101.6916867,Branches,Al Rajhi
+Foreigner Bank,Selangor,Kota Damansara,"Jalan PJU 5/17, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor",3.1314259,101.5608429,Branches,Al Rajhi
+Foreigner Bank,Selangor,Shah Alam,"Jalan Tengku Ampuan Zabedah 9/A, 40100 Shah Alam, Selangor
+",3.0534769,101.5547489,Branches,Al Rajhi
+Foreigner Bank,Kuala Lumpur,Kuala Lumpur Main,"Ground Floor
+Menara OCBC
+18 Jalan Tun Perak
+50050 Kuala Lumpur",,,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Bukit Damansara,"19 Jalan Setiapuspa
+Bukit Damansara
+50490 Kuala Lumpur",,,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Petaling Jaya,"89, 91 & 93 Jalan SS 21/60
+Damansara Utama
+47400 Petaling Jaya",,,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Cheras,"No. 1, 3, 5 & 7
+Jalan Damai Niaga 1
+Alam Damai Cheras
+56000 Kuala Lumpur",,,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Kota Damansara,"1 Jalan PJU 5/20
+Pusat Perdagangan Kota Damansara (THE STRAND)
+Kota Damansara PJU 5
+47810 Petaling Jaya,
+Selangor",,,Branches,OCBC
+Foreigner Bank,Kuala Lumpur,Kepong,"60 Vista Magna
+Jalan Prima
+Metro Prima Kepong
+52100 Kuala Lumpur",,,Branches,OCBC
+Foreigner Bank,Selangor,Puchong,"GF-2 & 3, 1F-1 & 2, Tower 2
+Puchong Financial Corporate Centre (PFCC)
+Jalan Puteri 1/2 Bandar Puteri
+47100 Puchong
+Selangor Darul Ehsan",,,Branches,OCBC
+Foreigner Bank,Selangor,Subang Jaya,"1A-A – 4A-A
+Jalan USJ 10/1A
+Pusat Perniagaan USJ 10
+47610 UEP Subang Jaya
+Selangor Darul Ehsan",,,Branches,OCBC
+Foreigner Bank,,Kajang,"4 & 5 Jalan Raja Haroun
+43000 Kajang
+Selangor Darul Ehsan",,,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Kota Kemuning,"27, Jalan Anggerik Vanilla BF 31/BF,
+Business Park 3,
+Kota Kemuning,
+40460 Shah Alam",,,Branches,OCBC
+Foreigner Bank,Selangor,Klang,"19 Jalan Stesen
+41000 Klang
+Selangor Darul Ehsan",,,Branches,OCBC
+Foreigner Bank,Selangor,Al-Amin Bandar Botanic,"No. 117, Jalan Mahogani 5/KS 7,
+Bandar Botanic,
+41200 Klang
+Selangor",,,Branches,OCBC
+Foreigner Bank,,Seremban,"63 - 65 Jalan Dato Bandar Tunggal
+70000 Seremban
+Negeri Sembilan Darul Khusus",,,Branches,OCBC
+Foreigner Bank,,Melaka,"No. 2F-2F-4
+Jalan KLJ4
+Taman Kota Laksamana Jaya
+75200 Melaka",,,Branches,OCBC
+Foreigner Bank,,Teluk Intan,"1054 Jalan Mahkota
+36000 Teluk Intan
+Perak Darul Ridzuan",,,Branches,OCBC
+Foreigner Bank,,Segamat,"109C-109E Jalan Genuang
+85000 Segamat
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Muar,"26 Jalan Maharani
+84000 Muar
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Ipoh Main,"2 Jalan Dato Maharaja Lela
+30000 Ipoh
+Perak Darul Ridzuan",,,Branches,OCBC
+Foreigner Bank,,Kuantan,"40 Jalan Teluk Sisek
+25000 Kuantan
+Pahang Darul Makmur",,,Branches,OCBC
+Foreigner Bank,,Batu Pahat,"108-2 Jalan Rahmat
+83000 Batu Pahat
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Taiping,"24-30 Jalan Berek
+34000 Taiping
+Perak Darul Ridzuan",,,Branches,OCBC
+Foreigner Bank,,Kluang,"8A Jalan Dato' Haji Hassan
+86000 Kluang
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Kulai,"No. 202, 203 and 204,
+Jalan Kenanga 29/2,
+Indahpura,
+81000 Kulai,
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Al-Amin Skudai,"No. 143 & 145,
+Jalan Sutera Tanjung 8/2
+Taman Sutera Utama
+81300 Skudai
+Johor",,,Branches,OCBC
+Foreigner Bank,,Bukit Mertajam,"No. 47, 49, 51, 53
+Jalan Perniagaan Gemilang 1
+Pusat Perniagaan Gemilang
+14000 Bukit Mertajam
+Pulau Pinang",,,Branches,OCBC
+Foreigner Bank,,Batu Maung,"No.13 – 15 Lintang Batu Maung 1
+11960 Batu Maung,
+Pulau Pinang",,,Branches,OCBC
+Foreigner Bank,,Taman Molek,"47 & 49 Jalan Molek 1/29
+Taman Molek
+81100 Johor Bahru
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Penang,"36 Lebuh Pantai
+10300 Pulau Pinang",,,Branches,OCBC
+Foreigner Bank,,Johor Bahru,"1 Jalan Ibrahim
+80000 Johor Bahru
+Johor Darul Takzim",,,Branches,OCBC
+Foreigner Bank,,Al-Amin Sungai Petani,"104, Jalan Legenda 4
+Legenda Heights
+08000 Sungai Petani
+Kedah Darul Aman",,,Branches,OCBC
+Foreigner Bank,,Kota Bharu,"3940 Jalan Temenggong
+15000 Kota Bharu
+Kelantan Darul Naim",,,Branches,OCBC
+Foreigner Bank,,Alor Setar,"No. 209 Jalan Gangsa
+Kawasan Perusahaan Mergong 2
+05150 Alor Setar",,,Branches,OCBC
+Foreigner Bank,,Kuching,"UG Floor,
+Gateway Kuching
+No.9, Jalan Bukit Mata
+93100 Kuching
+Sarawak",,,Branches,OCBC
+Foreigner Bank,,Al-Amin Sibu,"Ground Floor,
+Wisma Toh Li Hua Foundation,
+Jaya Li Hua,
+No. 21 Jalan Pahlawan,
+96000 Sibu
+Sarawak",,,Branches,OCBC
+Foreigner Bank,,Miri,"Lot 1375 & 1376 Centrepoint
+Commercial Centre (Phase 2)
+Block 10 Miri Concession
+Land District Kubu Road
+98000 Miri
+Sarawak",,,Branches,OCBC
+Foreigner Bank,,Kota Kinabalu,"21 & 23 Jalan Pantai
+88000 Kota Kinabalu
+Sabah",,,Branches,OCBC
+Foreigner Bank,,Al-Amin Sandakan,"Lot 1, Block 16, Bandar Indah,
+Batu 4, Jalan Utara,
+90000 Sandakan
+Sabah",,,Branches,OCBC
